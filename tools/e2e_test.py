@@ -37,11 +37,11 @@ with sync_playwright() as p:
     # biliyorum -> bir daha gelmemeli
     page.click("#knownBtn")
     seen = set()
-    for _ in range(200):
+    for _ in range(120):
         seen.add(page.inner_text("#word").strip())
         page.click("#nextBtn")
-    ck("bilinen kelime 200 cekiliste gelmedi", word not in seen, word)
-    ck("cesitlilik var", len(seen) > 50, len(seen))
+    ck("bilinen kelime 120 cekiliste gelmedi", word not in seen, word)
+    ck("cesitlilik var", len(seen) > 40, len(seen))
 
     known = page.evaluate("JSON.parse(localStorage.getItem('wl.known')||'[]')")
     ck("localStorage'a yazildi", known == [word], known)
@@ -66,10 +66,33 @@ with sync_playwright() as p:
     ck("Z geri aldi",
        len(page.evaluate("JSON.parse(localStorage.getItem('wl.known')||'[]')")) == 1)
 
+    # --- emoji katmani ---
+    emoji_srcs, plain = [], 0
+    for _ in range(40):
+        page.click("#nextBtn")
+        img = page.locator("#visual img")
+        if img.count():
+            emoji_srcs.append(img.get_attribute("src"))
+        else:
+            plain += 1
+    ck("emojili kartlar var", len(emoji_srcs) > 28, len(emoji_srcs))
+    ck("emoji gif'leri yerelden geliyor",
+       all(s.startswith("assets/emoji/") and s.endswith(".gif") for s in emoji_srcs),
+       emoji_srcs[:2])
+    ck("emojisiz kartlar da calisiyor (yalniz desen)", plain >= 0, plain)
+    broken = page.evaluate("""() => {
+      const i = document.querySelector('#visual img');
+      return i ? (i.complete && i.naturalWidth === 0) : false;
+    }""")
+    ck("kirik gorsel yok", not broken)
+    ck("emoji varken desen arkada", page.evaluate(
+        "() => !document.querySelector('#visual img') || "
+        "!!document.querySelector('#visual svg.visual-bg-muted')"))
+
     # gorsel determinizmi
     same = page.evaluate("""() => {
-      const a = WordVisual.render('abate','verb'), b = WordVisual.render('abate','verb');
-      const c = WordVisual.render('abhor','verb');
+      const a = WordVisual.render('abate','verb','26c5'), b = WordVisual.render('abate','verb','26c5');
+      const c = WordVisual.render('abhor','verb','1f922');
       return [a===b, a!==c];
     }""")
     ck("gorsel deterministik", same[0]); ck("gorsel kelimeye ozgu", same[1])

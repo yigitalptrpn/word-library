@@ -138,7 +138,7 @@
     state.current = entry;
     state.revealed = false;
 
-    $("visual").innerHTML = window.WordVisual.render(entry.w, entry.p);
+    $("visual").innerHTML = window.WordVisual.render(entry.w, entry.p, entry.e);
     $("word").textContent = entry.w;
     $("pos").textContent = posLabel(entry.p);
     $("cefr").textContent = entry.c;

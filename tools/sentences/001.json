@@ -1,0 +1,978 @@
+{
+ "alligator": {
+  "e": "🐊",
+  "s": "Her handbag was made from alligator skin and cost a small fortune."
+ },
+ "alliteration": {
+  "e": "✏️",
+  "s": "The poem relies on alliteration to give each line a driving rhythm."
+ },
+ "alliterative": {
+  "e": "✏️",
+  "s": "Newspaper headlines often use alliterative phrases because they stick in the memory."
+ },
+ "allocable": {
+  "e": "📦",
+  "s": "Only costs directly allocable to the project may be charged to this budget."
+ },
+ "allocate": {
+  "e": "📦",
+  "s": "The committee must allocate the remaining funds before the end of March."
+ },
+ "allocation": {
+  "e": "📦",
+  "s": "Our allocation of laboratory time was cut from ten hours to four."
+ },
+ "allot": {
+  "e": "📦",
+  "s": "The organisers allot each speaker exactly twenty minutes, including questions."
+ },
+ "alloy": {
+  "e": "⚙️",
+  "s": "Bronze is an alloy of copper and tin used since ancient times."
+ },
+ "allude": {
+  "e": "💬",
+  "s": "He would allude to his years abroad but never described them directly."
+ },
+ "allure": {
+  "e": "✨",
+  "s": "The allure of city life drew thousands of young people from the villages."
+ },
+ "allusion": {
+  "e": "💬",
+  "s": "The title is an allusion to a poem most readers no longer know."
+ },
+ "allusive": {
+  "e": "💬",
+  "s": "Her allusive style rewards readers who recognise the works she is quoting."
+ },
+ "allylic": "The reaction proceeds through an allylic intermediate that is difficult to isolate.",
+ "almanac": {
+  "e": "📚",
+  "s": "The farmer still consulted an old almanac before deciding when to sow."
+ },
+ "almighty": {
+  "e": "⚡",
+  "s": "There was an almighty crash as the shelves gave way under the weight."
+ },
+ "almond": "She scattered flaked almond over the cake before putting it in the oven.",
+ "aloft": {
+  "e": "👆",
+  "s": "The flag was hoisted aloft as the ceremony began."
+ },
+ "aloha": {
+  "e": "👋",
+  "s": "Visitors are greeted with a warm aloha as soon as they land."
+ },
+ "aloof": {
+  "e": "😐",
+  "s": "He remained aloof at every gathering, watching rather than joining in."
+ },
+ "aloofness": {
+  "e": "😐",
+  "s": "Her aloofness was shyness, though many colleagues mistook it for arrogance."
+ },
+ "alopecia": "Treatment for the illness left him with temporary alopecia.",
+ "alpine": {
+  "e": "❄️",
+  "s": "The village sits in an alpine valley that is snowbound until April."
+ },
+ "altercation": {
+  "e": "🗯️",
+  "s": "A brief altercation outside the bar was broken up by passers-by."
+ },
+ "alternately": "The two presenters spoke alternately, each taking about five minutes.",
+ "alternation": "The pattern depends on a regular alternation of light and dark bands.",
+ "altruism": {
+  "e": "🫶",
+  "s": "Pure altruism is rarer than we like to think, the study concluded."
+ },
+ "altruistic": {
+  "e": "🫶",
+  "s": "Her altruistic decision to donate the land surprised the entire family."
+ },
+ "alumnus": {
+  "e": "🎓",
+  "s": "As an alumnus of the college, he was invited to the centenary dinner."
+ },
+ "amalgamate": {
+  "e": "🤝",
+  "s": "The two smaller unions agreed to amalgamate into a single organisation."
+ },
+ "amalgamation": {
+  "e": "🤝",
+  "s": "The amalgamation of the three firms created the largest publisher in the country."
+ },
+ "amass": {
+  "e": "📦",
+  "s": "It took him thirty years to amass such an extraordinary collection."
+ },
+ "amateur": {
+  "e": "🎾",
+  "s": "He plays at amateur level but trains as seriously as any professional."
+ },
+ "amateurish": {
+  "e": "👎",
+  "s": "The report was amateurish, full of errors that a proof-reader would have caught."
+ },
+ "amber": {
+  "e": "💛",
+  "s": "The traffic light turned amber just as she reached the junction."
+ },
+ "ambience": {
+  "e": "🪔",
+  "s": "The restaurant's ambience owes as much to the lighting as to the food."
+ },
+ "ambient": {
+  "e": "🌬️",
+  "s": "Sensors record the ambient temperature every fifteen minutes throughout the night."
+ },
+ "ambivalence": {
+  "e": "🫤",
+  "s": "His ambivalence about the promotion puzzled everyone who knew his ambitions."
+ },
+ "ambivalent": {
+  "e": "🫤",
+  "s": "She felt ambivalent about moving abroad, excited and reluctant at once."
+ },
+ "ambulation": {
+  "e": "👣",
+  "s": "Early ambulation after surgery reduces the risk of serious complications."
+ },
+ "ambulatory": {
+  "e": "👣",
+  "s": "The clinic provides ambulatory care so patients need not stay overnight."
+ },
+ "ameliorate": {
+  "e": "❤️‍🩹",
+  "s": "Nothing the government did could ameliorate the shortage that winter."
+ },
+ "amelioration": {
+  "e": "❤️‍🩹",
+  "s": "The charity's work brought a real amelioration of conditions in the camp."
+ },
+ "amen": {
+  "e": "🙏",
+  "s": "The congregation answered with a quiet amen and the service ended."
+ },
+ "amenable": {
+  "e": "👍",
+  "s": "She proved surprisingly amenable to changing the schedule at short notice."
+ },
+ "amend": {
+  "e": "✏️",
+  "s": "Members voted to amend the constitution to allow online meetings."
+ },
+ "amendment": {
+  "e": "✏️",
+  "s": "The amendment was defeated by a margin of just three votes."
+ },
+ "amenity": {
+  "e": "✨",
+  "s": "The building's best amenity is a rooftop garden open to all residents."
+ },
+ "amerindian": {
+  "e": "🌍",
+  "s": "The museum holds an important collection of Amerindian pottery."
+ },
+ "amethyst": {
+  "e": "💎",
+  "s": "She wore a silver ring set with a single dark amethyst."
+ },
+ "amicable": {
+  "e": "🤝",
+  "s": "The couple reached an amicable settlement without going to court."
+ },
+ "amicably": {
+  "e": "🤝",
+  "s": "The two sides parted amicably despite months of difficult negotiation."
+ },
+ "amiss": {
+  "e": "⚠️",
+  "s": "Something was clearly amiss, though nobody could say exactly what."
+ },
+ "amity": {
+  "e": "🕊️",
+  "s": "Decades of amity between the two nations ended almost overnight."
+ },
+ "amnesia": {
+  "e": "🫥",
+  "s": "The accident left him with amnesia covering the whole of that year."
+ },
+ "amnesty": {
+  "e": "⛓️‍💥",
+  "s": "The government declared an amnesty for anyone who surrendered weapons voluntarily."
+ },
+ "amorous": {
+  "e": "😍",
+  "s": "His amorous letters were published long after both of them had died."
+ },
+ "amorphous": {
+  "e": "🫠",
+  "s": "The proposal remains amorphous, and nobody can say what it would actually cost."
+ },
+ "amortize": {
+  "e": "📉",
+  "s": "The company will amortize the cost of the software over five years."
+ },
+ "amour": {
+  "e": "💌",
+  "s": "The biography devotes a whole chapter to a youthful amour in Paris."
+ },
+ "amperage": {
+  "e": "🔋",
+  "s": "Check the amperage of the fuse before you replace it."
+ },
+ "amplification": {
+  "e": "📣",
+  "s": "The argument needs amplification before it will convince a sceptical reader."
+ },
+ "amply": {
+  "e": "✨",
+  "s": "The evidence amply supports everything the whistleblower had claimed."
+ },
+ "amusingly": {
+  "e": "😄",
+  "s": "He amusingly described his first week as a series of small disasters."
+ },
+ "anabolic": {
+  "e": "💪",
+  "s": "Athletes found using anabolic substances face a four year ban."
+ },
+ "anachronism": {
+  "e": "⏳",
+  "s": "A mobile phone in a medieval drama is an obvious anachronism."
+ },
+ "anachronistic": {
+  "e": "⏳",
+  "s": "The dialogue felt anachronistic, full of expressions coined centuries later."
+ },
+ "anal": {
+  "e": "🩺",
+  "s": "The textbook devotes a short section to anal anatomy and its disorders."
+ },
+ "analects": {
+  "e": "📚",
+  "s": "The analects of the philosopher were compiled by his students after his death."
+ },
+ "analgesic": {
+  "e": "🩺",
+  "s": "The nurse offered a mild analgesic to help him sleep."
+ },
+ "analytically": {
+  "e": "🔎",
+  "s": "She approached the problem analytically rather than trusting her first instinct."
+ },
+ "analyzer": {
+  "e": "🔎",
+  "s": "The laboratory installed a new gas analyzer capable of detecting minute traces."
+ },
+ "anarchic": {
+  "e": "🌀",
+  "s": "The meeting became anarchic once the chair left the room."
+ },
+ "anarchism": {
+  "e": "🏴",
+  "s": "His pamphlet remains one of the clearest introductions to nineteenth century anarchism."
+ },
+ "anarchist": {
+  "e": "🏴",
+  "s": "The novel's hero is an anarchist who slowly loses faith in the cause."
+ },
+ "anarchy": {
+  "e": "🌀",
+  "s": "Two days without electricity brought the city close to anarchy."
+ },
+ "anatomical": {
+  "e": "🫀",
+  "s": "The drawings show anatomical detail that was remarkable for the period."
+ },
+ "anatomist": {
+  "e": "🫀",
+  "s": "A celebrated anatomist of his day, he lectured to packed halls."
+ },
+ "ancestral": {
+  "e": "🪾",
+  "s": "They returned to the ancestral village for the first time in decades."
+ },
+ "ancestry": {
+  "e": "🪾",
+  "s": "She traced her ancestry back to a family of weavers in the north."
+ },
+ "ancillary": {
+  "e": "🖇️",
+  "s": "The grant covers travel and other ancillary costs as well as fees."
+ },
+ "androgynous": "The designer became known for androgynous clothing that suited anyone.",
+ "anecdotal": {
+  "e": "💬",
+  "s": "The evidence is anecdotal and no controlled study has yet been done."
+ },
+ "anecdote": {
+  "e": "💬",
+  "s": "He opened the lecture with an anecdote about his first day teaching."
+ },
+ "anemia": {
+  "e": "🩸",
+  "s": "A simple blood test confirmed that her tiredness was caused by anemia."
+ },
+ "anemic": {
+  "e": "🩸",
+  "s": "Growth has been anemic for three consecutive quarters."
+ },
+ "anesthesia": {
+  "e": "😴",
+  "s": "The procedure is carried out under local anesthesia and takes twenty minutes."
+ },
+ "anesthetic": {
+  "e": "😴",
+  "s": "The dentist injected an anesthetic and waited for it to take effect."
+ },
+ "anesthetist": {
+  "e": "🩺",
+  "s": "The anesthetist monitored her breathing throughout the long operation."
+ },
+ "anew": {
+  "e": "🌱",
+  "s": "After the fire they had to begin anew with almost nothing."
+ },
+ "anglican": {
+  "e": "🙏",
+  "s": "The Anglican parish church dates from the fourteenth century."
+ },
+ "animator": {
+  "e": "🎬",
+  "s": "The animator spent eight months on a sequence lasting ninety seconds."
+ },
+ "animism": {
+  "e": "🌿",
+  "s": "Animism treats rivers, stones and trees as things with a spirit of their own."
+ },
+ "animistic": {
+  "e": "🌿",
+  "s": "The carvings reflect animistic beliefs that predate the arrival of the missionaries."
+ },
+ "animosity": {
+  "e": "😠",
+  "s": "There was open animosity between the two departments after the restructuring."
+ },
+ "animus": {
+  "e": "😠",
+  "s": "His animus towards the company outlasted the dispute by many years."
+ },
+ "ankylosis": {
+  "e": "🦴",
+  "s": "Untreated inflammation can lead to ankylosis of the affected joint."
+ },
+ "annals": {
+  "e": "📚",
+  "s": "Her name appears in the annals of the society as its first secretary."
+ },
+ "annex": {
+  "e": "🚩",
+  "s": "The empire moved to annex the province before any treaty could be signed."
+ },
+ "annihilate": {
+  "e": "💥",
+  "s": "A single storm could annihilate the entire colony in a few hours."
+ },
+ "annihilation": {
+  "e": "💥",
+  "s": "The treaty was signed under the shadow of possible mutual annihilation."
+ },
+ "annotation": {
+  "e": "✏️",
+  "s": "Her annotation in the margin explains why the passage was cut."
+ },
+ "announcer": {
+  "e": "📣",
+  "s": "The announcer apologised for the delay and gave no further explanation."
+ },
+ "annular": {
+  "e": "💍",
+  "s": "An annular eclipse leaves a bright ring of sunlight around the moon."
+ },
+ "annunciation": {
+  "e": "🕊️",
+  "s": "The painting depicts the Annunciation in a plain domestic room."
+ },
+ "anoint": {
+  "e": "🪔",
+  "s": "Tradition required the archbishop to anoint the new monarch with holy oil."
+ },
+ "anomalous": {
+  "e": "⚠️",
+  "s": "The anomalous result was repeated three times before anyone believed it."
+ },
+ "anomalously": {
+  "e": "⚠️",
+  "s": "Temperatures stayed anomalously high throughout what should have been a cold month."
+ },
+ "anomaly": {
+  "e": "⚠️",
+  "s": "The auditors spotted an anomaly in last year's inventory figures."
+ },
+ "anonymity": {
+  "e": "🥸",
+  "s": "The witness gave evidence on condition of complete anonymity."
+ },
+ "anonymously": {
+  "e": "🥸",
+  "s": "The manuscript was submitted anonymously and the author has never come forward."
+ },
+ "anoxic": {
+  "e": "🫧",
+  "s": "Fish cannot survive in the anoxic water at the bottom of the lake."
+ },
+ "antagonism": {
+  "e": "🤜",
+  "s": "Years of antagonism between the neighbours ended with a fence and a lawsuit."
+ },
+ "antagonist": {
+  "e": "🤜",
+  "s": "Her chief antagonist on the board resigned before the vote."
+ },
+ "antagonistic": {
+  "e": "🤜",
+  "s": "He adopted an antagonistic tone that made agreement almost impossible."
+ },
+ "antagonize": {
+  "e": "😤",
+  "s": "Raising the fees now would antagonize the very families we want to help."
+ },
+ "antebellum": {
+  "e": "⏳",
+  "s": "The house is a rare antebellum survival in an otherwise modern street."
+ },
+ "antecedent": {
+  "e": "👆",
+  "s": "The antecedent conditions were well documented long before the crisis broke."
+ },
+ "antelope": "A herd of antelope moved slowly across the dry plain.",
+ "antenna": {
+  "e": "📺",
+  "s": "The storm bent the antenna on the roof beyond repair."
+ },
+ "anterior": {
+  "e": "👆",
+  "s": "The scan showed damage to the anterior part of the knee."
+ },
+ "anteroom": {
+  "e": "🏠",
+  "s": "Guests waited in a small anteroom before being shown into the hall."
+ },
+ "anthem": {
+  "e": "🎺",
+  "s": "The crowd stood and sang the anthem before the match began."
+ },
+ "anthology": {
+  "e": "📚",
+  "s": "The anthology brings together fifty poets writing in six different languages."
+ },
+ "anthracite": {
+  "e": "🪨",
+  "s": "The house was heated with anthracite that burned slowly and gave little smoke."
+ },
+ "anthropocentric": {
+  "e": "🌍",
+  "s": "Conservation policy has long been anthropocentric, valuing nature for human benefit."
+ },
+ "anthropological": {
+  "e": "🌍",
+  "s": "Her anthropological fieldwork lasted three years in a single mountain village."
+ },
+ "anthropometry": {
+  "e": "📊",
+  "s": "Anthropometry was used to design seats that fit a wider range of bodies."
+ },
+ "anthropomorphic": {
+  "e": "🎭",
+  "s": "The story gives its animals anthropomorphic worries about money and status."
+ },
+ "anthropomorphism": {
+  "e": "🎭",
+  "s": "A little anthropomorphism makes the documentary engaging but slightly misleading."
+ },
+ "anticipatory": {
+  "e": "⏳",
+  "s": "There was an anticipatory silence in the hall before the results were read."
+ },
+ "antipathy": {
+  "e": "🤢",
+  "s": "His antipathy to bureaucracy made him a difficult but effective administrator."
+ },
+ "antiquarian": {
+  "e": "📚",
+  "s": "The antiquarian recognised the binding as eighteenth century work."
+ },
+ "antisemitic": {
+  "e": "⚠️",
+  "s": "The newspaper apologised for publishing a cartoon widely condemned as antisemitic."
+ },
+ "antisemitism": {
+  "e": "⚠️",
+  "s": "The report documents a sharp rise in antisemitism across the region."
+ },
+ "antithesis": {
+  "e": "⚖️",
+  "s": "Her calm approach was the antithesis of her predecessor's constant urgency."
+ },
+ "antithetical": {
+  "e": "⚖️",
+  "s": "Such secrecy is antithetical to everything the organisation claims to stand for."
+ },
+ "antrum": {
+  "e": "🦴",
+  "s": "The infection had spread into the antrum behind the cheekbone."
+ },
+ "apace": {
+  "e": "⚡",
+  "s": "Work on the new bridge continued apace despite the winter weather."
+ },
+ "apartheid": {
+  "e": "⛓️",
+  "s": "The museum documents daily life under apartheid through personal photographs."
+ },
+ "apathetic": {
+  "e": "😐",
+  "s": "Voters were apathetic, and turnout fell below forty per cent."
+ },
+ "apathy": {
+  "e": "😐",
+  "s": "Public apathy, not opposition, defeated the proposal in the end."
+ },
+ "apex": {
+  "e": "🌄",
+  "s": "From the apex of the tower you can see three counties."
+ },
+ "aphasic": {
+  "e": "🗣️",
+  "s": "After the stroke he was aphasic for several weeks before speech returned."
+ },
+ "aphorism": {
+  "e": "💬",
+  "s": "He collected every aphorism he heard into a small black notebook."
+ },
+ "aphrodisiac": {
+  "e": "💘",
+  "s": "Various foods have been sold as an aphrodisiac with no evidence whatsoever."
+ },
+ "apical": {
+  "e": "👆",
+  "s": "The apical bud must be removed if you want the plant to bush out."
+ },
+ "apiece": {
+  "e": "🪙",
+  "s": "The tickets cost thirty euros apiece, which put many families off."
+ },
+ "aplomb": {
+  "e": "😎",
+  "s": "She handled the hostile interview with remarkable aplomb."
+ },
+ "apocalypse": {
+  "e": "🌋",
+  "s": "The film imagines an apocalypse brought about by something entirely mundane."
+ },
+ "apocalyptic": {
+  "e": "🌋",
+  "s": "His apocalyptic warnings about the economy proved wildly exaggerated."
+ },
+ "apocrypha": {
+  "e": "📚",
+  "s": "The apocrypha are printed in some editions of the Bible but not others."
+ },
+ "apocryphal": {
+  "e": "❓",
+  "s": "The story about the burnt cakes is almost certainly apocryphal."
+ },
+ "apologetic": {
+  "e": "🙏",
+  "s": "He sent an apologetic note explaining why he had missed the meeting."
+ },
+ "apologetically": {
+  "e": "🙏",
+  "s": "She apologetically explained that the last train had already left."
+ },
+ "apologist": {
+  "e": "📣",
+  "s": "He became an apologist for a regime he had once fiercely criticised."
+ },
+ "apoplexy": {
+  "e": "🤯",
+  "s": "The old man nearly had an apoplexy when he saw the bill."
+ },
+ "apostate": {
+  "e": "💔",
+  "s": "Branded an apostate by his former colleagues, he never spoke to them again."
+ },
+ "apostolic": {
+  "e": "🙏",
+  "s": "The church claims apostolic succession going back to the first century."
+ },
+ "apothecary": {
+  "e": "🩺",
+  "s": "The apothecary mixed the remedy while the customer waited."
+ },
+ "apotheosis": {
+  "e": "🏆",
+  "s": "That performance was the apotheosis of a long and uneven career."
+ },
+ "appallingly": {
+  "e": "😱",
+  "s": "The building was appallingly maintained and should have been closed years earlier."
+ },
+ "apparition": {
+  "e": "👻",
+  "s": "Several guests reported seeing an apparition on the upstairs landing."
+ },
+ "appease": {
+  "e": "🫂",
+  "s": "Lowering the price did nothing to appease the angry customers."
+ },
+ "appeasement": {
+  "e": "🕊️",
+  "s": "Historians still argue about whether appeasement made the war more likely."
+ },
+ "appellation": {
+  "e": "✏️",
+  "s": "The wine carries an appellation that guarantees where the grapes were grown."
+ },
+ "append": {
+  "e": "➕",
+  "s": "Please append the raw data to the end of your report."
+ },
+ "appendage": {
+  "e": "🦵",
+  "s": "The creature uses a long appendage to sweep food towards its mouth."
+ },
+ "appendix": {
+  "e": "📚",
+  "s": "Full statistical tables are given in the appendix at the back."
+ },
+ "apperception": {
+  "e": "🧠",
+  "s": "Learning depends on apperception, the way new impressions attach to existing ones."
+ },
+ "appetizer": {
+  "e": "🍽️",
+  "s": "We shared a light appetizer while we waited for the others to arrive."
+ },
+ "appetizing": {
+  "e": "😋",
+  "s": "The soup looked far more appetizing than its description had suggested."
+ },
+ "apportion": {
+  "e": "📊",
+  "s": "The court will apportion the costs between the two parties."
+ },
+ "apposite": {
+  "e": "🎯",
+  "s": "Her closing remark was brief and remarkably apposite."
+ },
+ "apposition": {
+  "e": "✏️",
+  "s": "In this sentence the phrase stands in apposition to the subject."
+ },
+ "appraise": {
+  "e": "🔎",
+  "s": "An expert was hired to appraise the collection before the sale."
+ },
+ "appreciably": {
+  "e": "📈",
+  "s": "Waiting times have fallen appreciably since the second clinic opened."
+ },
+ "appreciatively": {
+  "e": "👏",
+  "s": "He nodded appreciatively as the pianist finished the final movement."
+ },
+ "apprehend": {
+  "e": "🧠",
+  "s": "It took several readings before I could apprehend what the author meant."
+ },
+ "apprehension": {
+  "e": "😰",
+  "s": "There was real apprehension in the office before the results were announced."
+ },
+ "apprehensive": {
+  "e": "😰",
+  "s": "She was apprehensive about presenting to an audience of specialists."
+ },
+ "apprehensively": {
+  "e": "😰",
+  "s": "He glanced apprehensively at the darkening sky and quickened his pace."
+ },
+ "apprenticeship": {
+  "e": "🛠️",
+  "s": "He served a four year apprenticeship with a cabinetmaker in the town."
+ },
+ "appressed": {
+  "e": "🍃",
+  "s": "The leaves are small and appressed tightly against the woody stem."
+ },
+ "apprise": {
+  "e": "📣",
+  "s": "Please apprise the committee of any change to the schedule."
+ },
+ "appro": {
+  "e": "🛒",
+  "s": "The dealer let her take the painting home on appro for a week."
+ },
+ "approbation": {
+  "e": "👍",
+  "s": "The plan won the approbation of everyone except the finance director."
+ },
+ "appropriateness": {
+  "e": "✅",
+  "s": "The panel questioned the appropriateness of the language used in the advertisement."
+ },
+ "approvingly": {
+  "e": "👍",
+  "s": "The examiner nodded approvingly at her clear and confident explanation."
+ },
+ "appurtenant": {
+  "e": "🖇️",
+  "s": "The rights of way appurtenant to the property are listed in the deed."
+ },
+ "apse": {
+  "e": "🏠",
+  "s": "The apse at the eastern end still holds its original mosaics."
+ },
+ "aptitude": {
+  "e": "🎓",
+  "s": "She showed an early aptitude for languages that her teachers encouraged."
+ },
+ "aquaculture": {
+  "e": "🐟",
+  "s": "Aquaculture now supplies more than half the fish eaten worldwide."
+ },
+ "aquarium": {
+  "e": "🐟",
+  "s": "The aquarium in the waiting room seemed to calm nervous patients."
+ },
+ "aquatic": {
+  "e": "🌊",
+  "s": "The reserve protects several aquatic plants found nowhere else in the country."
+ },
+ "aqueous": {
+  "e": "💧",
+  "s": "The compound dissolves readily in an aqueous solution at room temperature."
+ },
+ "arable": {
+  "e": "🚜",
+  "s": "Only a narrow strip along the river is genuinely arable land."
+ },
+ "arbiter": {
+  "e": "⚖️",
+  "s": "For thirty years he was the recognised arbiter of taste in that field."
+ },
+ "arbitral": {
+  "e": "⚖️",
+  "s": "The arbitral award was binding on both companies."
+ },
+ "arbitrarily": {
+  "e": "🎲",
+  "s": "Prices seemed to have been set arbitrarily, with no relation to cost."
+ },
+ "arbitrariness": {
+  "e": "🎲",
+  "s": "The arbitrariness of the selection process angered the rejected applicants."
+ },
+ "arbitrary": {
+  "e": "🎲",
+  "s": "The deadline felt arbitrary and nobody could explain how it was chosen."
+ },
+ "arbitrate": {
+  "e": "⚖️",
+  "s": "A retired judge was asked to arbitrate between the two shareholders."
+ },
+ "arboretum": {
+  "e": "🌲",
+  "s": "The arboretum contains oaks collected from four different continents."
+ },
+ "archaeological": {
+  "e": "🪏",
+  "s": "An archaeological survey delayed construction by almost a year."
+ },
+ "archaic": {
+  "e": "⏳",
+  "s": "Some of the legal wording is so archaic that lawyers disagree about it."
+ },
+ "archdiocese": {
+  "e": "🙏",
+  "s": "The archdiocese announced that three parishes would be merged."
+ },
+ "archeology": {
+  "e": "🪏",
+  "s": "Her interest in archeology began with a school trip to a Roman villa."
+ },
+ "archery": {
+  "e": "🎯",
+  "s": "He took up archery after an injury ended his running career."
+ },
+ "archetypal": {
+  "e": "🗿",
+  "s": "The film is an archetypal story of a stranger arriving in a small town."
+ },
+ "archetype": {
+  "e": "🗿",
+  "s": "This building became the archetype for civic architecture across the region."
+ },
+ "architectonic": {
+  "e": "🏠",
+  "s": "The novel has an architectonic structure, each part mirroring another."
+ },
+ "archway": {
+  "e": "🏠",
+  "s": "A stone archway leads from the courtyard into the walled garden."
+ },
+ "arcuate": {
+  "e": "🌈",
+  "s": "The bridge rests on a series of arcuate stone supports."
+ },
+ "ardent": {
+  "e": "🔥",
+  "s": "An ardent supporter of the reform, she spoke at every public meeting."
+ },
+ "ardently": {
+  "e": "🔥",
+  "s": "He ardently believed that education could change the town's fortunes."
+ },
+ "arduous": {
+  "e": "😓",
+  "s": "The climb was more arduous than any of them had anticipated."
+ },
+ "areal": {
+  "e": "🌍",
+  "s": "The study compares areal differences in rainfall across the whole basin."
+ },
+ "argentine": {
+  "e": "🌍",
+  "s": "She wrote a well received book about Argentine cinema of the seventies."
+ },
+ "arguable": {
+  "e": "🤔",
+  "s": "It is arguable that the policy has done more harm than good."
+ },
+ "arguably": {
+  "e": "🤔",
+  "s": "He is arguably the finest translator of Russian poetry into English."
+ },
+ "arid": {
+  "e": "🌵",
+  "s": "Farming in such arid conditions depends entirely on irrigation."
+ },
+ "aries": {
+  "e": "♈",
+  "s": "Born in late March, she was technically an Aries."
+ },
+ "aright": {
+  "e": "✅",
+  "s": "If I remember aright, the meeting was moved to the following week."
+ },
+ "aristocratic": {
+  "e": "👑",
+  "s": "His aristocratic manner sat oddly with his republican opinions."
+ },
+ "arithmetical": {
+  "e": "➕",
+  "s": "The error was arithmetical rather than a fault in the method."
+ },
+ "armageddon": {
+  "e": "💥",
+  "s": "The novel imagines an armageddon triggered by a simple software failure."
+ },
+ "armament": {
+  "e": "💣",
+  "s": "The treaty limited the armament each side could keep near the border."
+ },
+ "aroma": {
+  "e": "👃",
+  "s": "The aroma of fresh bread drifted out into the narrow street."
+ },
+ "aromatic": {
+  "e": "🌿",
+  "s": "She added a handful of aromatic herbs towards the end of cooking."
+ },
+ "arousal": {
+  "e": "⚡",
+  "s": "The drug reduces arousal and helps patients sleep through the night."
+ },
+ "arranger": {
+  "e": "🎶",
+  "s": "The arranger reworked the song for a full orchestra."
+ },
+ "arrears": {
+  "e": "📉",
+  "s": "The tenants had fallen three months into arrears before anyone contacted them."
+ },
+ "arrogance": {
+  "e": "😏",
+  "s": "His arrogance in dismissing the local staff cost the company dearly."
+ },
+ "arrogantly": {
+  "e": "😏",
+  "s": "He arrogantly assumed that nobody in the room understood the subject."
+ },
+ "arrowhead": {
+  "e": "🎯",
+  "s": "A flint arrowhead was found in the field after ploughing."
+ },
+ "arse": "He slipped on the wet step and landed flat on his arse.",
+ "arsenic": {
+  "e": "☣️",
+  "s": "Traces of arsenic were found in the well water."
+ },
+ "arthritic": {
+  "e": "🦴",
+  "s": "Her arthritic fingers made buttoning a coat a slow business."
+ },
+ "arthropod": {
+  "e": "🦀",
+  "s": "Every arthropod has a hard external skeleton and jointed limbs."
+ },
+ "articulation": {
+  "e": "🗣️",
+  "s": "Clear articulation matters more than volume when you speak in a large hall."
+ },
+ "artless": {
+  "e": "😇",
+  "s": "Her artless honesty in the interview won over even hostile viewers."
+ },
+ "artwork": {
+  "e": "📷",
+  "s": "The original artwork for the cover was lost when the studio closed."
+ },
+ "aryan": {
+  "e": "⚠️",
+  "s": "The exhibition explains how Aryan was misused by nineteenth century race theorists."
+ },
+ "ascend": {
+  "e": "🌄",
+  "s": "It takes about two hours to ascend the path to the summit."
+ },
+ "ascendancy": {
+  "e": "👑",
+  "s": "The faction gained ascendancy within the party after the leadership contest."
+ },
+ "ascendant": {
+  "e": "📈",
+  "s": "Her career was in the ascendant when she suddenly left the country."
+ },
+ "ascension": {
+  "e": "🕊️",
+  "s": "The fresco above the altar depicts the Ascension."
+ },
+ "ascent": {
+  "e": "🌄",
+  "s": "The final ascent is steep enough to require ropes in wet weather."
+ },
+ "ascetic": {
+  "e": "🙏",
+  "s": "He led an ascetic life, owning almost nothing beyond his books."
+ },
+ "asceticism": {
+  "e": "🙏",
+  "s": "The order is known for an asceticism that few outsiders could sustain."
+ }
+}

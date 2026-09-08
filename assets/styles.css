@@ -151,7 +151,23 @@ body {
   background: var(--surface-2);
   border-bottom: 1px solid var(--border);
 }
+.visual { position: relative; }
 .visual svg { display: block; width: 100%; height: 100%; }
+
+/* Desen emojinin arkasinda kalir; emoji varken biraz geri cekilir. */
+.visual-bg-muted { opacity: .55; }
+
+.visual-emoji {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: auto;
+  height: 58%;
+  transform: translate(-50%, -50%);
+  filter: drop-shadow(0 6px 14px rgba(16, 20, 28, .3));
+  image-rendering: auto;
+  pointer-events: none;
+}
 
 .visual-motif {
   transform-origin: 50% 50%;
@@ -402,6 +418,9 @@ kbd {
     transition-duration: .001ms !important;
   }
   .visual-motif { animation: none; }
+  /* Animasyonlu GIF durdurulamaz; hareket istenmiyorsa desen tek basina kalir. */
+  .visual-emoji { display: none; }
+  .visual-bg-muted { opacity: 1; }
 }
 
 [hidden] { display: none !important; }

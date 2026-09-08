@@ -157,7 +157,7 @@
   ];
 
   /** Kelime + soz turu icin SVG isaretlemesi dondurur. */
-  function render(word, pos) {
+  function pattern(word, pos, muted) {
     var seed = hash(word);
     var r = rng(seed);
     var base = (HUES[pos] === undefined ? 212 : HUES[pos]) + (r() * 46 - 23);
@@ -174,7 +174,8 @@
     var motif = MOTIFS[seed % MOTIFS.length];
     var spin = (seed % 2 ? 1 : -1) * (40 + (seed % 40));
 
-    return '<svg viewBox="0 0 ' + W + " " + H + '" preserveAspectRatio="xMidYMid slice" ' +
+    return '<svg class="visual-bg' + (muted ? " visual-bg-muted" : "") +
+      '" viewBox="0 0 ' + W + " " + H + '" preserveAspectRatio="xMidYMid slice" ' +
       'xmlns="http://www.w3.org/2000/svg" role="presentation" focusable="false">' +
       "<defs>" +
       '<linearGradient id="vg" x1="0" y1="0" x2="1" y2="1">' +
@@ -187,5 +188,22 @@
       "</svg>";
   }
 
-  global.WordVisual = { render: render, hash: hash };
+  /**
+   * Kart gorseli: arka planda kelimeye ozgu desen, onunde -varsa- kelimenin
+   * anlamini tasiyan animasyonlu emoji.
+   *
+   * @param {string} word   kelime
+   * @param {string} pos    soz turu (renk ailesini belirler)
+   * @param {string} [code] emoji kod noktasi; yoksa yalnizca desen cizilir
+   */
+  function render(word, pos, code) {
+    var svg = pattern(word, pos, Boolean(code));
+    if (!code) return svg;
+    // alt="" : emoji dekoratif, anlam kartin metninde. Yuklenemezse gizlenir.
+    return svg +
+      '<img class="visual-emoji" src="assets/emoji/' + code + '.gif" alt="" ' +
+      'loading="lazy" decoding="async" onerror="this.hidden=true">';
+  }
+
+  global.WordVisual = { render: render, pattern: pattern, hash: hash };
 })(window);

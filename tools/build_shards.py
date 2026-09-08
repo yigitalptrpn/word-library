@@ -6,13 +6,37 @@ yazildikca kutuphane buyur ve uygulama her an calisir durumda kalir.
 """
 import json
 import os
+import re
 import sys
 
 import shards as sh
 
 
+# WordNet tanimlari zaman zaman alinti kuyrugu ve bos anlam ayiraci tasir:
+#   "unequivocally detestable; ; ; ; - Edmund Burke"
+# Kelime listesi dondurulmus oldugu icin temizlik burada, yayina yazarken yapilir.
+_ATTRIBUTION = re.compile(r"[;,]?\s*-\s*[A-Z][\w.'-]*(?:\s+[A-Z][\w.'-]*)*\s*$")
+_EMPTY_SENSES = re.compile(r"(?:;\s*)+;")
+
+
+def clean_definition(text):
+    out = _EMPTY_SENSES.sub(";", text)
+    out = _ATTRIBUTION.sub("", out)
+    out = re.sub(r"\s+", " ", out).strip(" ;,-")
+    return out or text.strip()
+
+
+def load_emoji_index():
+    path = os.path.join(sh.ROOT, "assets", "emoji", "index.json")
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
 def main():
     rows = sh.load_wordlist()
+    emoji_index = load_emoji_index()
     sentences = sh.load_all_sentences()
     os.makedirs(sh.DATA_DIR, exist_ok=True)
 
@@ -26,14 +50,18 @@ def main():
         payload = []
         for r in chunk:
             rec = sentences[r["word"]]
-            payload.append({
+            entry = {
                 "w": r["word"],
                 "p": rec.get("p", r["pos"]),
                 "c": r["cefr"],
                 "s": rec["s"],
                 "t": rec.get("t", r["tr"]),
-                "d": rec.get("d", r["defn_en"]),
-            })
+                "d": clean_definition(rec.get("d", r["defn_en"])),
+            }
+            code = emoji_index.get(rec.get("e", ""))
+            if code:
+                entry["e"] = code
+            payload.append(entry)
         name = f"{index:03d}.json"
         with open(os.path.join(sh.DATA_DIR, name), "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))

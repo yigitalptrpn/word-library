@@ -9,12 +9,23 @@ Kontroller:
 """
 import argparse
 import collections
+import json
+import os
 import re
 import sys
 
 import shards as sh
 
 MIN_WORDS, MAX_WORDS = 8, 22
+
+
+def load_palette():
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                        "emoji_palette.json")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as f:
+        return {it["emoji"] for it in json.load(f)}
 
 
 def inflections(word):
@@ -44,7 +55,7 @@ def inflections(word):
     return forms
 
 
-def check_shard(index, rows, sentences, seen, errors):
+def check_shard(index, rows, sentences, seen, errors, palette):
     expected = [r["word"] for r in rows]
     if not sentences:
         return 0
@@ -73,6 +84,10 @@ def check_shard(index, rows, sentences, seen, errors):
             errors.append(f"{index:03d}  '{word}' buyuk harfle baslamiyor: {s}")
         if s[-1] not in ".!?":
             errors.append(f"{index:03d}  '{word}' noktalama ile bitmiyor: {s}")
+        emoji = rec.get("e")
+        if emoji is not None:
+            if palette is not None and emoji not in palette:
+                errors.append(f"{index:03d}  '{word}' emoji palette yok: {emoji}")
         if s in seen:
             errors.append(f"{index:03d}  '{word}' yinelenen cumle (ayrica '{seen[s]}'): {s}")
         else:
@@ -87,16 +102,22 @@ def main():
 
     rows = sh.load_wordlist()
     all_shards = sh.shards(rows)
+    palette = load_palette()
     errors = []
     seen = {}
     done = 0
+    emoji_count = 0
     for index, shard_rows in all_shards:
-        done += check_shard(index, shard_rows, sh.load_sentences(index), seen, errors)
+        recs = sh.load_sentences(index)
+        emoji_count += sum(1 for r in recs.values() if r.get("e"))
+        done += check_shard(index, shard_rows, recs, seen, errors, palette)
 
     total = len(rows)
     pct = done / total * 100 if total else 0
     print(f"cumle kapsamasi : {done}/{total}  ({pct:.1f}%)")
     print(f"shard           : {sum(1 for i, _ in all_shards if sh.load_sentences(i))}/{len(all_shards)} baslatildi")
+    if done:
+        print(f"emoji           : {emoji_count}/{done}  ({emoji_count / done * 100:.0f}%)")
     if errors:
         print(f"\n{len(errors)} HATA:")
         for e in errors[:60]:

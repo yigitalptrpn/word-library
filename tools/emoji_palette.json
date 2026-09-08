@@ -1,0 +1,9751 @@
+[
+ {
+  "emoji": "🥇",
+  "code": "1f947",
+  "name": "1st place medal",
+  "group": "Activities",
+  "keywords": [
+   "1st place medal",
+   "award",
+   "winning",
+   "first",
+   "gold"
+  ]
+ },
+ {
+  "emoji": "🥈",
+  "code": "1f948",
+  "name": "2nd place medal",
+  "group": "Activities",
+  "keywords": [
+   "2nd place medal",
+   "award",
+   "second",
+   "silver"
+  ]
+ },
+ {
+  "emoji": "🥉",
+  "code": "1f949",
+  "name": "3rd place medal",
+  "group": "Activities",
+  "keywords": [
+   "3rd place medal",
+   "award",
+   "third",
+   "bronze"
+  ]
+ },
+ {
+  "emoji": "🎟️",
+  "code": "1f39f",
+  "name": "admission tickets",
+  "group": "Activities",
+  "keywords": [
+   "admission tickets",
+   "sports",
+   "concert",
+   "entrance",
+   "entertainment",
+   "ticket"
+  ]
+ },
+ {
+  "emoji": "🏸",
+  "code": "1f3f8",
+  "name": "badminton",
+  "group": "Activities",
+  "keywords": [
+   "badminton",
+   "sports",
+   "birdie",
+   "game",
+   "racquet",
+   "shuttlecock"
+  ]
+ },
+ {
+  "emoji": "🎈",
+  "code": "1f388",
+  "name": "balloon",
+  "group": "Activities",
+  "keywords": [
+   "balloon",
+   "party",
+   "celebration",
+   "birthday",
+   "circus",
+   "activity",
+   "entertainment",
+   "red"
+  ]
+ },
+ {
+  "emoji": "⚾",
+  "code": "26be",
+  "name": "baseball",
+  "group": "Activities",
+  "keywords": [
+   "baseball",
+   "sports",
+   "balls",
+   "ball",
+   "softball"
+  ]
+ },
+ {
+  "emoji": "🏀",
+  "code": "1f3c0",
+  "name": "basketball",
+  "group": "Activities",
+  "keywords": [
+   "basketball",
+   "sports",
+   "balls",
+   "NBA",
+   "ball",
+   "hoop",
+   "orange"
+  ]
+ },
+ {
+  "emoji": "🎳",
+  "code": "1f3b3",
+  "name": "bowling",
+  "group": "Activities",
+  "keywords": [
+   "bowling",
+   "sports",
+   "fun",
+   "play",
+   "ball",
+   "game",
+   "pin",
+   "pins",
+   "skittles",
+   "ten"
+  ]
+ },
+ {
+  "emoji": "🎯",
+  "code": "1f3af",
+  "name": "bullseye",
+  "group": "Activities",
+  "keywords": [
+   "direct hit",
+   "game",
+   "play",
+   "bar",
+   "target",
+   "bullseye",
+   "activity",
+   "archery",
+   "bull",
+   "dart",
+   "darts",
+   "entertainment",
+   "eye"
+  ]
+ },
+ {
+  "emoji": "♟️",
+  "code": "265f",
+  "name": "chess pawn",
+  "group": "Activities",
+  "keywords": [
+   "chess pawn",
+   "expendable",
+   "black",
+   "dupe",
+   "game",
+   "piece"
+  ]
+ },
+ {
+  "emoji": "🎊",
+  "code": "1f38a",
+  "name": "confetti ball",
+  "group": "Activities",
+  "keywords": [
+   "confetti ball",
+   "festival",
+   "party",
+   "birthday",
+   "circus",
+   "activity",
+   "celebration",
+   "entertainment"
+  ]
+ },
+ {
+  "emoji": "🏏",
+  "code": "1f3cf",
+  "name": "cricket game",
+  "group": "Activities",
+  "keywords": [
+   "cricket game",
+   "sports",
+   "ball",
+   "bat",
+   "field"
+  ]
+ },
+ {
+  "emoji": "🔮",
+  "code": "1f52e",
+  "name": "crystal ball",
+  "group": "Activities",
+  "keywords": [
+   "crystal ball",
+   "disco",
+   "party",
+   "magic",
+   "circus",
+   "fortune teller",
+   "clairvoyant",
+   "fairy",
+   "fantasy",
+   "psychic",
+   "purple",
+   "tale",
+   "tool"
+  ]
+ },
+ {
+  "emoji": "🏑",
+  "code": "1f3d1",
+  "name": "field hockey",
+  "group": "Activities",
+  "keywords": [
+   "field hockey",
+   "sports",
+   "ball",
+   "game",
+   "stick"
+  ]
+ },
+ {
+  "emoji": "🎆",
+  "code": "1f386",
+  "name": "fireworks",
+  "group": "Activities",
+  "keywords": [
+   "fireworks",
+   "photo",
+   "festival",
+   "carnival",
+   "congratulations",
+   "activity",
+   "celebration",
+   "entertainment",
+   "explosion"
+  ]
+ },
+ {
+  "emoji": "🎣",
+  "code": "1f3a3",
+  "name": "fishing pole",
+  "group": "Activities",
+  "keywords": [
+   "fishing pole",
+   "food",
+   "hobby",
+   "summer",
+   "entertainment",
+   "fish",
+   "rod"
+  ]
+ },
+ {
+  "emoji": "⛳",
+  "code": "26f3",
+  "name": "flag in hole",
+  "group": "Activities",
+  "keywords": [
+   "flag in hole",
+   "sports",
+   "business",
+   "flag",
+   "hole",
+   "summer",
+   "golf"
+  ]
+ },
+ {
+  "emoji": "🥏",
+  "code": "1f94f",
+  "name": "flying disc",
+  "group": "Activities",
+  "keywords": [
+   "flying disc",
+   "sports",
+   "frisbee",
+   "ultimate",
+   "game",
+   "golf",
+   "sport"
+  ]
+ },
+ {
+  "emoji": "🎲",
+  "code": "1f3b2",
+  "name": "game die",
+  "group": "Activities",
+  "keywords": [
+   "game die",
+   "dice",
+   "random",
+   "tabletop",
+   "play",
+   "luck",
+   "entertainment",
+   "gambling"
+  ]
+ },
+ {
+  "emoji": "♥️",
+  "code": "2665",
+  "name": "heart suit",
+  "group": "Activities",
+  "keywords": [
+   "heart suit",
+   "poker",
+   "cards",
+   "magic",
+   "suits",
+   "black",
+   "card",
+   "game",
+   "hearts"
+  ]
+ },
+ {
+  "emoji": "🏒",
+  "code": "1f3d2",
+  "name": "ice hockey",
+  "group": "Activities",
+  "keywords": [
+   "ice hockey",
+   "sports",
+   "game",
+   "puck",
+   "stick"
+  ]
+ },
+ {
+  "emoji": "⛸️",
+  "code": "26f8",
+  "name": "ice skate",
+  "group": "Activities",
+  "keywords": [
+   "ice skate",
+   "sports",
+   "skating"
+  ]
+ },
+ {
+  "emoji": "🎃",
+  "code": "1f383",
+  "name": "jack-o-lantern",
+  "group": "Activities",
+  "keywords": [
+   "jack o lantern",
+   "halloween",
+   "light",
+   "pumpkin",
+   "creepy",
+   "fall",
+   "activity",
+   "celebration",
+   "entertainment",
+   "gourd"
+  ]
+ },
+ {
+  "emoji": "🪁",
+  "code": "1fa81",
+  "name": "kite",
+  "group": "Activities",
+  "keywords": [
+   "kite",
+   "wind",
+   "fly",
+   "soar",
+   "toy"
+  ]
+ },
+ {
+  "emoji": "🥍",
+  "code": "1f94d",
+  "name": "lacrosse",
+  "group": "Activities",
+  "keywords": [
+   "lacrosse",
+   "sports",
+   "ball",
+   "stick",
+   "game",
+   "goal",
+   "sport"
+  ]
+ },
+ {
+  "emoji": "🪄",
+  "code": "1fa84",
+  "name": "magic wand",
+  "group": "Activities",
+  "keywords": [
+   "magic wand",
+   "supernature",
+   "power",
+   "witch",
+   "wizard"
+  ]
+ },
+ {
+  "emoji": "🥋",
+  "code": "1f94b",
+  "name": "martial arts uniform",
+  "group": "Activities",
+  "keywords": [
+   "martial arts uniform",
+   "judo",
+   "karate",
+   "taekwondo"
+  ]
+ },
+ {
+  "emoji": "🪩",
+  "code": "1faa9",
+  "name": "mirror ball",
+  "group": "Activities",
+  "keywords": [
+   "mirror ball",
+   "disco",
+   "dance",
+   "party",
+   "glitter"
+  ]
+ },
+ {
+  "emoji": "🎉",
+  "code": "1f389",
+  "name": "party popper",
+  "group": "Activities",
+  "keywords": [
+   "party popper",
+   "party",
+   "congratulations",
+   "birthday",
+   "magic",
+   "circus",
+   "celebration",
+   "tada",
+   "activity",
+   "entertainment",
+   "hat",
+   "hooray"
+  ]
+ },
+ {
+  "emoji": "🎭",
+  "code": "1f3ad",
+  "name": "performing arts",
+  "group": "Activities",
+  "keywords": [
+   "performing arts",
+   "acting",
+   "theater",
+   "drama",
+   "activity",
+   "art",
+   "comedy",
+   "entertainment",
+   "greek",
+   "logo",
+   "mask",
+   "masks",
+   "theatre",
+   "theatre masks",
+   "tragedy"
+  ]
+ },
+ {
+  "emoji": "🏓",
+  "code": "1f3d3",
+  "name": "ping pong",
+  "group": "Activities",
+  "keywords": [
+   "ping pong",
+   "sports",
+   "pingpong",
+   "ball",
+   "bat",
+   "game",
+   "paddle",
+   "table",
+   "tennis"
+  ]
+ },
+ {
+  "emoji": "🪅",
+  "code": "1fa85",
+  "name": "piñata",
+  "group": "Activities",
+  "keywords": [
+   "pinata",
+   "mexico",
+   "candy",
+   "celebration",
+   "party",
+   "piñata"
+  ]
+ },
+ {
+  "emoji": "🎱",
+  "code": "1f3b1",
+  "name": "pool 8 ball",
+  "group": "Activities",
+  "keywords": [
+   "pool 8 ball",
+   "pool",
+   "hobby",
+   "game",
+   "luck",
+   "magic",
+   "8ball",
+   "billiard",
+   "billiards",
+   "cue",
+   "eight",
+   "snooker"
+  ]
+ },
+ {
+  "emoji": "🏉",
+  "code": "1f3c9",
+  "name": "rugby football",
+  "group": "Activities",
+  "keywords": [
+   "rugby football",
+   "sports",
+   "team",
+   "ball",
+   "league",
+   "union"
+  ]
+ },
+ {
+  "emoji": "🎿",
+  "code": "1f3bf",
+  "name": "skis",
+  "group": "Activities",
+  "keywords": [
+   "skis",
+   "sports",
+   "winter",
+   "cold",
+   "snow",
+   "boot",
+   "ski",
+   "skiing"
+  ]
+ },
+ {
+  "emoji": "🎰",
+  "code": "1f3b0",
+  "name": "slot machine",
+  "group": "Activities",
+  "keywords": [
+   "slot machine",
+   "bet",
+   "gamble",
+   "vegas",
+   "fruit machine",
+   "luck",
+   "casino",
+   "activity",
+   "gambling",
+   "game",
+   "poker"
+  ]
+ },
+ {
+  "emoji": "⚽",
+  "code": "26bd",
+  "name": "soccer ball",
+  "group": "Activities",
+  "keywords": [
+   "soccer ball",
+   "sports",
+   "football"
+  ]
+ },
+ {
+  "emoji": "🥎",
+  "code": "1f94e",
+  "name": "softball",
+  "group": "Activities",
+  "keywords": [
+   "softball",
+   "sports",
+   "balls",
+   "ball",
+   "game",
+   "glove",
+   "sport",
+   "underarm"
+  ]
+ },
+ {
+  "emoji": "♠️",
+  "code": "2660",
+  "name": "spade suit",
+  "group": "Activities",
+  "keywords": [
+   "spade suit",
+   "poker",
+   "cards",
+   "suits",
+   "magic",
+   "black",
+   "card",
+   "game",
+   "spades"
+  ]
+ },
+ {
+  "emoji": "✨",
+  "code": "2728",
+  "name": "sparkles",
+  "group": "Activities",
+  "keywords": [
+   "sparkles",
+   "stars",
+   "shine",
+   "shiny",
+   "cool",
+   "awesome",
+   "good",
+   "magic",
+   "entertainment",
+   "glitter",
+   "sparkle",
+   "star"
+  ]
+ },
+ {
+  "emoji": "🎾",
+  "code": "1f3be",
+  "name": "tennis",
+  "group": "Activities",
+  "keywords": [
+   "tennis",
+   "sports",
+   "balls",
+   "green",
+   "ball",
+   "racket",
+   "racquet"
+  ]
+ },
+ {
+  "emoji": "🏆",
+  "code": "1f3c6",
+  "name": "trophy",
+  "group": "Activities",
+  "keywords": [
+   "trophy",
+   "win",
+   "award",
+   "contest",
+   "place",
+   "ftw",
+   "ceremony",
+   "championship",
+   "prize",
+   "winner",
+   "winners"
+  ]
+ },
+ {
+  "emoji": "🎁",
+  "code": "1f381",
+  "name": "wrapped gift",
+  "group": "Activities",
+  "keywords": [
+   "wrapped gift",
+   "present",
+   "birthday",
+   "christmas",
+   "xmas",
+   "box",
+   "celebration",
+   "entertainment"
+  ]
+ },
+ {
+  "emoji": "🦖",
+  "code": "1f996",
+  "name": "T-Rex",
+  "group": "Animals & Nature",
+  "keywords": [
+   "t rex",
+   "animal",
+   "nature",
+   "dinosaur",
+   "tyrannosaurus",
+   "extinct",
+   "trex"
+  ]
+ },
+ {
+  "emoji": "🐜",
+  "code": "1f41c",
+  "name": "ant",
+  "group": "Animals & Nature",
+  "keywords": [
+   "ant",
+   "animal",
+   "insect",
+   "nature",
+   "bug"
+  ]
+ },
+ {
+  "emoji": "🐤",
+  "code": "1f424",
+  "name": "baby chick",
+  "group": "Animals & Nature",
+  "keywords": [
+   "baby chick",
+   "animal",
+   "chicken",
+   "bird",
+   "yellow"
+  ]
+ },
+ {
+  "emoji": "🦇",
+  "code": "1f987",
+  "name": "bat",
+  "group": "Animals & Nature",
+  "keywords": [
+   "bat",
+   "animal",
+   "nature",
+   "blind",
+   "vampire",
+   "batman"
+  ]
+ },
+ {
+  "emoji": "🐻",
+  "code": "1f43b",
+  "name": "bear",
+  "group": "Animals & Nature",
+  "keywords": [
+   "bear",
+   "animal",
+   "nature",
+   "wild",
+   "face",
+   "teddy"
+  ]
+ },
+ {
+  "emoji": "🐦",
+  "code": "1f426",
+  "name": "bird",
+  "group": "Animals & Nature",
+  "keywords": [
+   "bird",
+   "animal",
+   "nature",
+   "fly",
+   "tweet",
+   "spring"
+  ]
+ },
+ {
+  "emoji": "🐦‍⬛",
+  "code": "1f426_200d_2b1b",
+  "name": "black bird",
+  "group": "Animals & Nature",
+  "keywords": [
+   "black bird",
+   "crow"
+  ]
+ },
+ {
+  "emoji": "🌼",
+  "code": "1f33c",
+  "name": "blossom",
+  "group": "Animals & Nature",
+  "keywords": [
+   "blossom",
+   "nature",
+   "flowers",
+   "yellow",
+   "blossoming flower",
+   "daisy",
+   "flower",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🐡",
+  "code": "1f421",
+  "name": "blowfish",
+  "group": "Animals & Nature",
+  "keywords": [
+   "blowfish",
+   "animal",
+   "nature",
+   "food",
+   "sea",
+   "ocean",
+   "fish",
+   "fugu",
+   "pufferfish"
+  ]
+ },
+ {
+  "emoji": "💐",
+  "code": "1f490",
+  "name": "bouquet",
+  "group": "Animals & Nature",
+  "keywords": [
+   "bouquet",
+   "flowers",
+   "nature",
+   "spring",
+   "flower",
+   "plant",
+   "romance"
+  ]
+ },
+ {
+  "emoji": "🐛",
+  "code": "1f41b",
+  "name": "bug",
+  "group": "Animals & Nature",
+  "keywords": [
+   "bug",
+   "animal",
+   "insect",
+   "nature",
+   "worm",
+   "caterpillar"
+  ]
+ },
+ {
+  "emoji": "🦋",
+  "code": "1f98b",
+  "name": "butterfly",
+  "group": "Animals & Nature",
+  "keywords": [
+   "butterfly",
+   "animal",
+   "insect",
+   "nature",
+   "caterpillar",
+   "pretty"
+  ]
+ },
+ {
+  "emoji": "🌵",
+  "code": "1f335",
+  "name": "cactus",
+  "group": "Animals & Nature",
+  "keywords": [
+   "cactus",
+   "vegetable",
+   "plant",
+   "nature",
+   "desert"
+  ]
+ },
+ {
+  "emoji": "🐱",
+  "code": "1f431",
+  "name": "cat face",
+  "group": "Animals & Nature",
+  "keywords": [
+   "cat face",
+   "animal",
+   "meow",
+   "nature",
+   "pet",
+   "kitten",
+   "kitty"
+  ]
+ },
+ {
+  "emoji": "🌸",
+  "code": "1f338",
+  "name": "cherry blossom",
+  "group": "Animals & Nature",
+  "keywords": [
+   "cherry blossom",
+   "nature",
+   "plant",
+   "spring",
+   "flower",
+   "pink",
+   "sakura"
+  ]
+ },
+ {
+  "emoji": "🐿️",
+  "code": "1f43f",
+  "name": "chipmunk",
+  "group": "Animals & Nature",
+  "keywords": [
+   "chipmunk",
+   "animal",
+   "nature",
+   "rodent",
+   "squirrel"
+  ]
+ },
+ {
+  "emoji": "🪳",
+  "code": "1fab3",
+  "name": "cockroach",
+  "group": "Animals & Nature",
+  "keywords": [
+   "cockroach",
+   "insect",
+   "pests",
+   "pest",
+   "roach"
+  ]
+ },
+ {
+  "emoji": "🐮",
+  "code": "1f42e",
+  "name": "cow face",
+  "group": "Animals & Nature",
+  "keywords": [
+   "cow face",
+   "beef",
+   "ox",
+   "animal",
+   "nature",
+   "moo",
+   "milk",
+   "happy"
+  ]
+ },
+ {
+  "emoji": "🦀",
+  "code": "1f980",
+  "name": "crab",
+  "group": "Animals & Nature",
+  "keywords": [
+   "crab",
+   "animal",
+   "crustacean",
+   "cancer",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "🦗",
+  "code": "1f997",
+  "name": "cricket",
+  "group": "Animals & Nature",
+  "keywords": [
+   "cricket",
+   "animal",
+   "chirp",
+   "grasshopper",
+   "insect",
+   "orthoptera"
+  ]
+ },
+ {
+  "emoji": "🐊",
+  "code": "1f40a",
+  "name": "crocodile",
+  "group": "Animals & Nature",
+  "keywords": [
+   "crocodile",
+   "animal",
+   "nature",
+   "reptile",
+   "lizard",
+   "alligator",
+   "croc"
+  ]
+ },
+ {
+  "emoji": "🐕",
+  "code": "1f415",
+  "name": "dog",
+  "group": "Animals & Nature",
+  "keywords": [
+   "dog",
+   "animal",
+   "nature",
+   "friend",
+   "doge",
+   "pet",
+   "faithful",
+   "dog2",
+   "doggo"
+  ]
+ },
+ {
+  "emoji": "🐬",
+  "code": "1f42c",
+  "name": "dolphin",
+  "group": "Animals & Nature",
+  "keywords": [
+   "dolphin",
+   "animal",
+   "nature",
+   "fish",
+   "sea",
+   "ocean",
+   "flipper",
+   "fins",
+   "beach"
+  ]
+ },
+ {
+  "emoji": "🫏",
+  "code": "1facf",
+  "name": "donkey",
+  "group": "Animals & Nature",
+  "keywords": [
+   "donkey",
+   "eeyore",
+   "mule"
+  ]
+ },
+ {
+  "emoji": "🕊️",
+  "code": "1f54a",
+  "name": "dove",
+  "group": "Animals & Nature",
+  "keywords": [
+   "dove",
+   "animal",
+   "bird",
+   "fly",
+   "peace"
+  ]
+ },
+ {
+  "emoji": "🐉",
+  "code": "1f409",
+  "name": "dragon",
+  "group": "Animals & Nature",
+  "keywords": [
+   "dragon",
+   "animal",
+   "myth",
+   "nature",
+   "chinese",
+   "green",
+   "fairy",
+   "tale"
+  ]
+ },
+ {
+  "emoji": "🦅",
+  "code": "1f985",
+  "name": "eagle",
+  "group": "Animals & Nature",
+  "keywords": [
+   "eagle",
+   "animal",
+   "nature",
+   "bird",
+   "bald"
+  ]
+ },
+ {
+  "emoji": "🌲",
+  "code": "1f332",
+  "name": "evergreen tree",
+  "group": "Animals & Nature",
+  "keywords": [
+   "evergreen tree",
+   "plant",
+   "nature",
+   "fir",
+   "pine",
+   "wood"
+  ]
+ },
+ {
+  "emoji": "🍂",
+  "code": "1f342",
+  "name": "fallen leaf",
+  "group": "Animals & Nature",
+  "keywords": [
+   "fallen leaf",
+   "nature",
+   "plant",
+   "vegetable",
+   "leaves",
+   "autumn",
+   "brown",
+   "fall",
+   "falling"
+  ]
+ },
+ {
+  "emoji": "🐟",
+  "code": "1f41f",
+  "name": "fish",
+  "group": "Animals & Nature",
+  "keywords": [
+   "fish",
+   "animal",
+   "food",
+   "nature",
+   "freshwater",
+   "pisces",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "🦩",
+  "code": "1f9a9",
+  "name": "flamingo",
+  "group": "Animals & Nature",
+  "keywords": [
+   "flamingo",
+   "animal",
+   "flamboyant",
+   "tropical"
+  ]
+ },
+ {
+  "emoji": "🪰",
+  "code": "1fab0",
+  "name": "fly",
+  "group": "Animals & Nature",
+  "keywords": [
+   "fly",
+   "insect",
+   "disease",
+   "maggot",
+   "pest",
+   "rotting"
+  ]
+ },
+ {
+  "emoji": "🍀",
+  "code": "1f340",
+  "name": "four leaf clover",
+  "group": "Animals & Nature",
+  "keywords": [
+   "four leaf clover",
+   "vegetable",
+   "plant",
+   "nature",
+   "lucky",
+   "irish",
+   "ireland",
+   "luck"
+  ]
+ },
+ {
+  "emoji": "🦊",
+  "code": "1f98a",
+  "name": "fox",
+  "group": "Animals & Nature",
+  "keywords": [
+   "fox",
+   "animal",
+   "nature",
+   "face"
+  ]
+ },
+ {
+  "emoji": "🐸",
+  "code": "1f438",
+  "name": "frog",
+  "group": "Animals & Nature",
+  "keywords": [
+   "frog",
+   "animal",
+   "nature",
+   "croak",
+   "toad",
+   "face"
+  ]
+ },
+ {
+  "emoji": "🐥",
+  "code": "1f425",
+  "name": "front-facing baby chick",
+  "group": "Animals & Nature",
+  "keywords": [
+   "front facing baby chick",
+   "animal",
+   "chicken",
+   "baby",
+   "bird",
+   "hatched",
+   "standing"
+  ]
+ },
+ {
+  "emoji": "🐐",
+  "code": "1f410",
+  "name": "goat",
+  "group": "Animals & Nature",
+  "keywords": [
+   "goat",
+   "animal",
+   "nature",
+   "capricorn",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "🪿",
+  "code": "1fabf",
+  "name": "goose",
+  "group": "Animals & Nature",
+  "keywords": [
+   "goose",
+   "silly",
+   "jemima",
+   "goosebumps",
+   "honk"
+  ]
+ },
+ {
+  "emoji": "🦍",
+  "code": "1f98d",
+  "name": "gorilla",
+  "group": "Animals & Nature",
+  "keywords": [
+   "gorilla",
+   "animal",
+   "nature",
+   "circus"
+  ]
+ },
+ {
+  "emoji": "🦮",
+  "code": "1f9ae",
+  "name": "guide dog",
+  "group": "Animals & Nature",
+  "keywords": [
+   "guide dog",
+   "animal",
+   "blind",
+   "accessibility",
+   "eye",
+   "seeing"
+  ]
+ },
+ {
+  "emoji": "🐣",
+  "code": "1f423",
+  "name": "hatching chick",
+  "group": "Animals & Nature",
+  "keywords": [
+   "hatching chick",
+   "animal",
+   "chicken",
+   "egg",
+   "born",
+   "baby",
+   "bird"
+  ]
+ },
+ {
+  "emoji": "🦔",
+  "code": "1f994",
+  "name": "hedgehog",
+  "group": "Animals & Nature",
+  "keywords": [
+   "hedgehog",
+   "animal",
+   "nature",
+   "spiny",
+   "face"
+  ]
+ },
+ {
+  "emoji": "🌿",
+  "code": "1f33f",
+  "name": "herb",
+  "group": "Animals & Nature",
+  "keywords": [
+   "herb",
+   "vegetable",
+   "plant",
+   "medicine",
+   "weed",
+   "grass",
+   "lawn",
+   "crop",
+   "leaf"
+  ]
+ },
+ {
+  "emoji": "🐝",
+  "code": "1f41d",
+  "name": "honeybee",
+  "group": "Animals & Nature",
+  "keywords": [
+   "honeybee",
+   "animal",
+   "insect",
+   "nature",
+   "bug",
+   "spring",
+   "honey",
+   "bee",
+   "bumblebee"
+  ]
+ },
+ {
+  "emoji": "🐎",
+  "code": "1f40e",
+  "name": "horse",
+  "group": "Animals & Nature",
+  "keywords": [
+   "horse",
+   "animal",
+   "gamble",
+   "luck",
+   "equestrian",
+   "galloping",
+   "racehorse",
+   "racing",
+   "speed"
+  ]
+ },
+ {
+  "emoji": "🪻",
+  "code": "1fabb",
+  "name": "hyacinth",
+  "group": "Animals & Nature",
+  "keywords": [
+   "hyacinth",
+   "flower",
+   "lavender"
+  ]
+ },
+ {
+  "emoji": "🪼",
+  "code": "1fabc",
+  "name": "jellyfish",
+  "group": "Animals & Nature",
+  "keywords": [
+   "jellyfish",
+   "sting",
+   "tentacles"
+  ]
+ },
+ {
+  "emoji": "🦘",
+  "code": "1f998",
+  "name": "kangaroo",
+  "group": "Animals & Nature",
+  "keywords": [
+   "kangaroo",
+   "animal",
+   "nature",
+   "australia",
+   "joey",
+   "hop",
+   "marsupial",
+   "jump",
+   "roo"
+  ]
+ },
+ {
+  "emoji": "🐞",
+  "code": "1f41e",
+  "name": "lady beetle",
+  "group": "Animals & Nature",
+  "keywords": [
+   "lady beetle",
+   "animal",
+   "insect",
+   "nature",
+   "ladybug",
+   "bug",
+   "ladybird"
+  ]
+ },
+ {
+  "emoji": "🍃",
+  "code": "1f343",
+  "name": "leaf fluttering in wind",
+  "group": "Animals & Nature",
+  "keywords": [
+   "leaf fluttering in wind",
+   "nature",
+   "plant",
+   "tree",
+   "vegetable",
+   "grass",
+   "lawn",
+   "spring",
+   "blow",
+   "flutter",
+   "green",
+   "leaves"
+  ]
+ },
+ {
+  "emoji": "🪾",
+  "code": "1fabe",
+  "name": "leafless tree",
+  "group": "Animals & Nature",
+  "keywords": [
+   "leafless tree"
+  ]
+ },
+ {
+  "emoji": "🦁",
+  "code": "1f981",
+  "name": "lion",
+  "group": "Animals & Nature",
+  "keywords": [
+   "lion",
+   "animal",
+   "nature",
+   "face",
+   "leo",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "🦎",
+  "code": "1f98e",
+  "name": "lizard",
+  "group": "Animals & Nature",
+  "keywords": [
+   "lizard",
+   "animal",
+   "nature",
+   "reptile",
+   "gecko"
+  ]
+ },
+ {
+  "emoji": "🦞",
+  "code": "1f99e",
+  "name": "lobster",
+  "group": "Animals & Nature",
+  "keywords": [
+   "lobster",
+   "animal",
+   "nature",
+   "bisque",
+   "claws",
+   "seafood"
+  ]
+ },
+ {
+  "emoji": "🪷",
+  "code": "1fab7",
+  "name": "lotus",
+  "group": "Animals & Nature",
+  "keywords": [
+   "lotus",
+   "flower",
+   "calm",
+   "meditation",
+   "buddhism",
+   "hinduism",
+   "india",
+   "purity",
+   "vietnam"
+  ]
+ },
+ {
+  "emoji": "🍁",
+  "code": "1f341",
+  "name": "maple leaf",
+  "group": "Animals & Nature",
+  "keywords": [
+   "maple leaf",
+   "nature",
+   "plant",
+   "vegetable",
+   "ca",
+   "fall",
+   "canada",
+   "canadian",
+   "falling"
+  ]
+ },
+ {
+  "emoji": "🦠",
+  "code": "1f9a0",
+  "name": "microbe",
+  "group": "Animals & Nature",
+  "keywords": [
+   "microbe",
+   "amoeba",
+   "bacteria",
+   "germs",
+   "virus",
+   "covid",
+   "cell",
+   "coronavirus",
+   "germ",
+   "microorganism"
+  ]
+ },
+ {
+  "emoji": "🐒",
+  "code": "1f412",
+  "name": "monkey",
+  "group": "Animals & Nature",
+  "keywords": [
+   "monkey",
+   "animal",
+   "nature",
+   "banana",
+   "circus",
+   "cheeky"
+  ]
+ },
+ {
+  "emoji": "🦟",
+  "code": "1f99f",
+  "name": "mosquito",
+  "group": "Animals & Nature",
+  "keywords": [
+   "mosquito",
+   "animal",
+   "nature",
+   "insect",
+   "malaria",
+   "disease",
+   "fever",
+   "pest",
+   "virus"
+  ]
+ },
+ {
+  "emoji": "🍄",
+  "code": "1f344",
+  "name": "mushroom",
+  "group": "Animals & Nature",
+  "keywords": [
+   "mushroom",
+   "plant",
+   "vegetable",
+   "fungus",
+   "shroom",
+   "toadstool"
+  ]
+ },
+ {
+  "emoji": "🐙",
+  "code": "1f419",
+  "name": "octopus",
+  "group": "Animals & Nature",
+  "keywords": [
+   "octopus",
+   "animal",
+   "creature",
+   "ocean",
+   "sea",
+   "nature",
+   "beach"
+  ]
+ },
+ {
+  "emoji": "🦧",
+  "code": "1f9a7",
+  "name": "orangutan",
+  "group": "Animals & Nature",
+  "keywords": [
+   "orangutan",
+   "animal",
+   "ape"
+  ]
+ },
+ {
+  "emoji": "🫍",
+  "code": "1facd",
+  "name": "orca",
+  "group": "Animals & Nature",
+  "keywords": [
+   "orca",
+   "ocean",
+   "whale",
+   "dolphin",
+   "animal"
+  ]
+ },
+ {
+  "emoji": "🦦",
+  "code": "1f9a6",
+  "name": "otter",
+  "group": "Animals & Nature",
+  "keywords": [
+   "otter",
+   "animal",
+   "fishing",
+   "playful"
+  ]
+ },
+ {
+  "emoji": "🦉",
+  "code": "1f989",
+  "name": "owl",
+  "group": "Animals & Nature",
+  "keywords": [
+   "owl",
+   "animal",
+   "nature",
+   "bird",
+   "hoot",
+   "wise"
+  ]
+ },
+ {
+  "emoji": "🐂",
+  "code": "1f402",
+  "name": "ox",
+  "group": "Animals & Nature",
+  "keywords": [
+   "ox",
+   "animal",
+   "cow",
+   "beef",
+   "bull",
+   "bullock",
+   "oxen",
+   "steer",
+   "taurus",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "🐼",
+  "code": "1f43c",
+  "name": "panda",
+  "group": "Animals & Nature",
+  "keywords": [
+   "panda",
+   "animal",
+   "nature",
+   "face"
+  ]
+ },
+ {
+  "emoji": "🐾",
+  "code": "1f43e",
+  "name": "paw prints",
+  "group": "Animals & Nature",
+  "keywords": [
+   "paw prints",
+   "animal",
+   "tracking",
+   "footprints",
+   "dog",
+   "cat",
+   "pet",
+   "feet",
+   "kitten",
+   "print",
+   "puppy"
+  ]
+ },
+ {
+  "emoji": "🦚",
+  "code": "1f99a",
+  "name": "peacock",
+  "group": "Animals & Nature",
+  "keywords": [
+   "peacock",
+   "animal",
+   "nature",
+   "peahen",
+   "bird",
+   "ostentatious",
+   "proud"
+  ]
+ },
+ {
+  "emoji": "🐧",
+  "code": "1f427",
+  "name": "penguin",
+  "group": "Animals & Nature",
+  "keywords": [
+   "penguin",
+   "animal",
+   "nature",
+   "bird"
+  ]
+ },
+ {
+  "emoji": "🐦‍🔥",
+  "code": "1f426_200d_1f525",
+  "name": "phoenix",
+  "group": "Animals & Nature",
+  "keywords": [
+   "phoenix",
+   "immortal",
+   "bird",
+   "mythtical",
+   "reborn"
+  ]
+ },
+ {
+  "emoji": "🐖",
+  "code": "1f416",
+  "name": "pig",
+  "group": "Animals & Nature",
+  "keywords": [
+   "pig",
+   "animal",
+   "nature",
+   "hog",
+   "pig2",
+   "sow"
+  ]
+ },
+ {
+  "emoji": "🐩",
+  "code": "1f429",
+  "name": "poodle",
+  "group": "Animals & Nature",
+  "keywords": [
+   "poodle",
+   "dog",
+   "animal",
+   "101",
+   "nature",
+   "pet",
+   "miniature",
+   "standard",
+   "toy"
+  ]
+ },
+ {
+  "emoji": "🐇",
+  "code": "1f407",
+  "name": "rabbit",
+  "group": "Animals & Nature",
+  "keywords": [
+   "rabbit",
+   "animal",
+   "nature",
+   "pet",
+   "magic",
+   "spring",
+   "bunny",
+   "rabbit2"
+  ]
+ },
+ {
+  "emoji": "🦝",
+  "code": "1f99d",
+  "name": "raccoon",
+  "group": "Animals & Nature",
+  "keywords": [
+   "raccoon",
+   "animal",
+   "nature",
+   "curious",
+   "face",
+   "sly"
+  ]
+ },
+ {
+  "emoji": "🐀",
+  "code": "1f400",
+  "name": "rat",
+  "group": "Animals & Nature",
+  "keywords": [
+   "rat",
+   "animal",
+   "mouse",
+   "rodent"
+  ]
+ },
+ {
+  "emoji": "🐓",
+  "code": "1f413",
+  "name": "rooster",
+  "group": "Animals & Nature",
+  "keywords": [
+   "rooster",
+   "animal",
+   "nature",
+   "chicken",
+   "bird",
+   "cock",
+   "cockerel"
+  ]
+ },
+ {
+  "emoji": "🌹",
+  "code": "1f339",
+  "name": "rose",
+  "group": "Animals & Nature",
+  "keywords": [
+   "rose",
+   "flowers",
+   "valentines",
+   "love",
+   "spring",
+   "flower",
+   "plant",
+   "red"
+  ]
+ },
+ {
+  "emoji": "🦕",
+  "code": "1f995",
+  "name": "sauropod",
+  "group": "Animals & Nature",
+  "keywords": [
+   "sauropod",
+   "animal",
+   "nature",
+   "dinosaur",
+   "brachiosaurus",
+   "brontosaurus",
+   "diplodocus",
+   "extinct"
+  ]
+ },
+ {
+  "emoji": "🦂",
+  "code": "1f982",
+  "name": "scorpion",
+  "group": "Animals & Nature",
+  "keywords": [
+   "scorpion",
+   "animal",
+   "arachnid",
+   "scorpio",
+   "scorpius",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "🦭",
+  "code": "1f9ad",
+  "name": "seal",
+  "group": "Animals & Nature",
+  "keywords": [
+   "seal",
+   "animal",
+   "creature",
+   "sea",
+   "lion"
+  ]
+ },
+ {
+  "emoji": "🌱",
+  "code": "1f331",
+  "name": "seedling",
+  "group": "Animals & Nature",
+  "keywords": [
+   "seedling",
+   "plant",
+   "nature",
+   "grass",
+   "lawn",
+   "spring",
+   "sprout",
+   "sprouting",
+   "young",
+   "seed"
+  ]
+ },
+ {
+  "emoji": "🐕‍🦺",
+  "code": "1f415_200d_1f9ba",
+  "name": "service dog",
+  "group": "Animals & Nature",
+  "keywords": [
+   "service dog",
+   "blind",
+   "animal",
+   "accessibility",
+   "assistance"
+  ]
+ },
+ {
+  "emoji": "🦈",
+  "code": "1f988",
+  "name": "shark",
+  "group": "Animals & Nature",
+  "keywords": [
+   "shark",
+   "animal",
+   "nature",
+   "fish",
+   "sea",
+   "ocean",
+   "jaws",
+   "fins",
+   "beach",
+   "great",
+   "white"
+  ]
+ },
+ {
+  "emoji": "🦥",
+  "code": "1f9a5",
+  "name": "sloth",
+  "group": "Animals & Nature",
+  "keywords": [
+   "sloth",
+   "animal",
+   "lazy",
+   "slow"
+  ]
+ },
+ {
+  "emoji": "🐌",
+  "code": "1f40c",
+  "name": "snail",
+  "group": "Animals & Nature",
+  "keywords": [
+   "snail",
+   "slow",
+   "animal",
+   "shell",
+   "garden",
+   "slug"
+  ]
+ },
+ {
+  "emoji": "🐍",
+  "code": "1f40d",
+  "name": "snake",
+  "group": "Animals & Nature",
+  "keywords": [
+   "snake",
+   "animal",
+   "evil",
+   "nature",
+   "hiss",
+   "python",
+   "bearer",
+   "ophiuchus",
+   "serpent",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "🕷️",
+  "code": "1f577",
+  "name": "spider",
+  "group": "Animals & Nature",
+  "keywords": [
+   "spider",
+   "animal",
+   "arachnid",
+   "insect"
+  ]
+ },
+ {
+  "emoji": "🐳",
+  "code": "1f433",
+  "name": "spouting whale",
+  "group": "Animals & Nature",
+  "keywords": [
+   "spouting whale",
+   "animal",
+   "nature",
+   "sea",
+   "ocean",
+   "cute",
+   "face"
+  ]
+ },
+ {
+  "emoji": "🐅",
+  "code": "1f405",
+  "name": "tiger",
+  "group": "Animals & Nature",
+  "keywords": [
+   "tiger",
+   "animal",
+   "nature",
+   "roar",
+   "bengal",
+   "tiger2"
+  ]
+ },
+ {
+  "emoji": "🌷",
+  "code": "1f337",
+  "name": "tulip",
+  "group": "Animals & Nature",
+  "keywords": [
+   "tulip",
+   "flowers",
+   "plant",
+   "nature",
+   "summer",
+   "spring",
+   "flower"
+  ]
+ },
+ {
+  "emoji": "🐢",
+  "code": "1f422",
+  "name": "turtle",
+  "group": "Animals & Nature",
+  "keywords": [
+   "turtle",
+   "animal",
+   "slow",
+   "nature",
+   "tortoise",
+   "terrapin"
+  ]
+ },
+ {
+  "emoji": "🦄",
+  "code": "1f984",
+  "name": "unicorn",
+  "group": "Animals & Nature",
+  "keywords": [
+   "unicorn",
+   "animal",
+   "nature",
+   "mystical",
+   "face"
+  ]
+ },
+ {
+  "emoji": "🥀",
+  "code": "1f940",
+  "name": "wilted flower",
+  "group": "Animals & Nature",
+  "keywords": [
+   "wilted flower",
+   "plant",
+   "nature",
+   "flower",
+   "rose",
+   "dead",
+   "drooping"
+  ]
+ },
+ {
+  "emoji": "🐺",
+  "code": "1f43a",
+  "name": "wolf",
+  "group": "Animals & Nature",
+  "keywords": [
+   "wolf",
+   "animal",
+   "nature",
+   "wild",
+   "face"
+  ]
+ },
+ {
+  "emoji": "🪱",
+  "code": "1fab1",
+  "name": "worm",
+  "group": "Animals & Nature",
+  "keywords": [
+   "worm",
+   "animal",
+   "annelid",
+   "earthworm",
+   "parasite"
+  ]
+ },
+ {
+  "emoji": "🏴",
+  "code": "1f3f4",
+  "name": "black flag",
+  "group": "Flags",
+  "keywords": [
+   "black flag",
+   "pirate",
+   "waving"
+  ]
+ },
+ {
+  "emoji": "🏁",
+  "code": "1f3c1",
+  "name": "chequered flag",
+  "group": "Flags",
+  "keywords": [
+   "chequered flag",
+   "contest",
+   "finishline",
+   "race",
+   "gokart",
+   "checkered",
+   "finish",
+   "girl",
+   "grid",
+   "milestone",
+   "racing"
+  ]
+ },
+ {
+  "emoji": "🚩",
+  "code": "1f6a9",
+  "name": "triangular flag",
+  "group": "Flags",
+  "keywords": [
+   "triangular flag",
+   "mark",
+   "milestone",
+   "place",
+   "pole",
+   "post",
+   "red",
+   "flag"
+  ]
+ },
+ {
+  "emoji": "🏳️",
+  "code": "1f3f3",
+  "name": "white flag",
+  "group": "Flags",
+  "keywords": [
+   "white flag",
+   "losing",
+   "loser",
+   "lost",
+   "surrender",
+   "give up",
+   "fail",
+   "waving"
+  ]
+ },
+ {
+  "emoji": "🥑",
+  "code": "1f951",
+  "name": "avocado",
+  "group": "Food & Drink",
+  "keywords": [
+   "avocado",
+   "fruit",
+   "food"
+  ]
+ },
+ {
+  "emoji": "🍼",
+  "code": "1f37c",
+  "name": "baby bottle",
+  "group": "Food & Drink",
+  "keywords": [
+   "baby bottle",
+   "food",
+   "container",
+   "milk",
+   "drink",
+   "feeding"
+  ]
+ },
+ {
+  "emoji": "🥓",
+  "code": "1f953",
+  "name": "bacon",
+  "group": "Food & Drink",
+  "keywords": [
+   "bacon",
+   "food",
+   "breakfast",
+   "pork",
+   "pig",
+   "meat",
+   "brunch",
+   "rashers"
+  ]
+ },
+ {
+  "emoji": "🫘",
+  "code": "1fad8",
+  "name": "beans",
+  "group": "Food & Drink",
+  "keywords": [
+   "beans",
+   "food",
+   "kidney",
+   "legume"
+  ]
+ },
+ {
+  "emoji": "🫑",
+  "code": "1fad1",
+  "name": "bell pepper",
+  "group": "Food & Drink",
+  "keywords": [
+   "bell pepper",
+   "fruit",
+   "plant",
+   "capsicum",
+   "vegetable"
+  ]
+ },
+ {
+  "emoji": "🧃",
+  "code": "1f9c3",
+  "name": "beverage box",
+  "group": "Food & Drink",
+  "keywords": [
+   "beverage box",
+   "drink",
+   "juice",
+   "straw",
+   "sweet"
+  ]
+ },
+ {
+  "emoji": "🎂",
+  "code": "1f382",
+  "name": "birthday cake",
+  "group": "Food & Drink",
+  "keywords": [
+   "birthday cake",
+   "food",
+   "dessert",
+   "cake",
+   "candles",
+   "celebration",
+   "party",
+   "pastry",
+   "sweet"
+  ]
+ },
+ {
+  "emoji": "🫐",
+  "code": "1fad0",
+  "name": "blueberries",
+  "group": "Food & Drink",
+  "keywords": [
+   "blueberries",
+   "fruit",
+   "berry",
+   "bilberry",
+   "blue",
+   "blueberry"
+  ]
+ },
+ {
+  "emoji": "🍾",
+  "code": "1f37e",
+  "name": "bottle with popping cork",
+  "group": "Food & Drink",
+  "keywords": [
+   "bottle with popping cork",
+   "drink",
+   "wine",
+   "bottle",
+   "celebration",
+   "bar",
+   "bubbly",
+   "champagne",
+   "party",
+   "sparkling"
+  ]
+ },
+ {
+  "emoji": "🍞",
+  "code": "1f35e",
+  "name": "bread",
+  "group": "Food & Drink",
+  "keywords": [
+   "bread",
+   "food",
+   "wheat",
+   "breakfast",
+   "toast",
+   "loaf"
+  ]
+ },
+ {
+  "emoji": "🥦",
+  "code": "1f966",
+  "name": "broccoli",
+  "group": "Food & Drink",
+  "keywords": [
+   "broccoli",
+   "fruit",
+   "food",
+   "vegetable",
+   "cabbage",
+   "wild"
+  ]
+ },
+ {
+  "emoji": "🧋",
+  "code": "1f9cb",
+  "name": "bubble tea",
+  "group": "Food & Drink",
+  "keywords": [
+   "bubble tea",
+   "taiwan",
+   "boba",
+   "milk tea",
+   "straw",
+   "momi",
+   "pearl",
+   "tapioca"
+  ]
+ },
+ {
+  "emoji": "🌯",
+  "code": "1f32f",
+  "name": "burrito",
+  "group": "Food & Drink",
+  "keywords": [
+   "burrito",
+   "food",
+   "mexican",
+   "wrap"
+  ]
+ },
+ {
+  "emoji": "🥕",
+  "code": "1f955",
+  "name": "carrot",
+  "group": "Food & Drink",
+  "keywords": [
+   "carrot",
+   "vegetable",
+   "food",
+   "orange"
+  ]
+ },
+ {
+  "emoji": "🧀",
+  "code": "1f9c0",
+  "name": "cheese wedge",
+  "group": "Food & Drink",
+  "keywords": [
+   "cheese wedge",
+   "food",
+   "chadder",
+   "swiss"
+  ]
+ },
+ {
+  "emoji": "🍒",
+  "code": "1f352",
+  "name": "cherries",
+  "group": "Food & Drink",
+  "keywords": [
+   "cherries",
+   "food",
+   "fruit",
+   "berries",
+   "cherry",
+   "plant",
+   "red",
+   "wild"
+  ]
+ },
+ {
+  "emoji": "🥢",
+  "code": "1f962",
+  "name": "chopsticks",
+  "group": "Food & Drink",
+  "keywords": [
+   "chopsticks",
+   "food",
+   "hashi",
+   "jeotgarak",
+   "kuaizi"
+  ]
+ },
+ {
+  "emoji": "🍻",
+  "code": "1f37b",
+  "name": "clinking beer mugs",
+  "group": "Food & Drink",
+  "keywords": [
+   "clinking beer mugs",
+   "relax",
+   "beverage",
+   "drink",
+   "drunk",
+   "party",
+   "pub",
+   "summer",
+   "alcohol",
+   "booze",
+   "bar",
+   "beers",
+   "cheers",
+   "clink",
+   "drinks",
+   "mug"
+  ]
+ },
+ {
+  "emoji": "🥂",
+  "code": "1f942",
+  "name": "clinking glasses",
+  "group": "Food & Drink",
+  "keywords": [
+   "clinking glasses",
+   "beverage",
+   "drink",
+   "party",
+   "alcohol",
+   "celebrate",
+   "cheers",
+   "wine",
+   "champagne",
+   "toast",
+   "celebration",
+   "clink",
+   "glass"
+  ]
+ },
+ {
+  "emoji": "🍪",
+  "code": "1f36a",
+  "name": "cookie",
+  "group": "Food & Drink",
+  "keywords": [
+   "cookie",
+   "food",
+   "snack",
+   "oreo",
+   "chocolate",
+   "sweet",
+   "dessert",
+   "biscuit",
+   "chip"
+  ]
+ },
+ {
+  "emoji": "🍳",
+  "code": "1f373",
+  "name": "cooking",
+  "group": "Food & Drink",
+  "keywords": [
+   "cooking",
+   "food",
+   "breakfast",
+   "kitchen",
+   "egg",
+   "skillet",
+   "fried",
+   "frying",
+   "pan"
+  ]
+ },
+ {
+  "emoji": "🥒",
+  "code": "1f952",
+  "name": "cucumber",
+  "group": "Food & Drink",
+  "keywords": [
+   "cucumber",
+   "fruit",
+   "food",
+   "pickle",
+   "gherkin",
+   "vegetable"
+  ]
+ },
+ {
+  "emoji": "🍡",
+  "code": "1f361",
+  "name": "dango",
+  "group": "Food & Drink",
+  "keywords": [
+   "dango",
+   "food",
+   "dessert",
+   "sweet",
+   "japanese",
+   "barbecue",
+   "meat",
+   "balls",
+   "green",
+   "pink",
+   "skewer",
+   "stick",
+   "white"
+  ]
+ },
+ {
+  "emoji": "🍩",
+  "code": "1f369",
+  "name": "doughnut",
+  "group": "Food & Drink",
+  "keywords": [
+   "doughnut",
+   "food",
+   "dessert",
+   "snack",
+   "sweet",
+   "donut",
+   "breakfast"
+  ]
+ },
+ {
+  "emoji": "🌽",
+  "code": "1f33d",
+  "name": "ear of corn",
+  "group": "Food & Drink",
+  "keywords": [
+   "ear of corn",
+   "food",
+   "vegetable",
+   "plant",
+   "cob",
+   "maize",
+   "maze"
+  ]
+ },
+ {
+  "emoji": "🍽️",
+  "code": "1f37d",
+  "name": "fork and knife with plate",
+  "group": "Food & Drink",
+  "keywords": [
+   "fork and knife with plate",
+   "food",
+   "eat",
+   "meal",
+   "lunch",
+   "dinner",
+   "restaurant",
+   "cooking",
+   "cutlery",
+   "dining",
+   "tableware"
+  ]
+ },
+ {
+  "emoji": "🧄",
+  "code": "1f9c4",
+  "name": "garlic",
+  "group": "Food & Drink",
+  "keywords": [
+   "garlic",
+   "food",
+   "spice",
+   "cook",
+   "flavoring",
+   "plant",
+   "vegetable"
+  ]
+ },
+ {
+  "emoji": "🫚",
+  "code": "1fada",
+  "name": "ginger root",
+  "group": "Food & Drink",
+  "keywords": [
+   "ginger root",
+   "spice",
+   "yellow",
+   "cooking",
+   "gingerbread"
+  ]
+ },
+ {
+  "emoji": "🍇",
+  "code": "1f347",
+  "name": "grapes",
+  "group": "Food & Drink",
+  "keywords": [
+   "grapes",
+   "fruit",
+   "food",
+   "wine",
+   "grape",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🥗",
+  "code": "1f957",
+  "name": "green salad",
+  "group": "Food & Drink",
+  "keywords": [
+   "green salad",
+   "food",
+   "healthy",
+   "lettuce",
+   "vegetable"
+  ]
+ },
+ {
+  "emoji": "🍔",
+  "code": "1f354",
+  "name": "hamburger",
+  "group": "Food & Drink",
+  "keywords": [
+   "hamburger",
+   "meat",
+   "fast food",
+   "beef",
+   "cheeseburger",
+   "mcdonalds",
+   "burger king"
+  ]
+ },
+ {
+  "emoji": "☕",
+  "code": "2615",
+  "name": "hot beverage",
+  "group": "Food & Drink",
+  "keywords": [
+   "hot beverage",
+   "beverage",
+   "caffeine",
+   "latte",
+   "espresso",
+   "coffee",
+   "mug",
+   "cafe",
+   "chocolate",
+   "drink",
+   "steaming",
+   "tea"
+  ]
+ },
+ {
+  "emoji": "🌭",
+  "code": "1f32d",
+  "name": "hot dog",
+  "group": "Food & Drink",
+  "keywords": [
+   "hot dog",
+   "food",
+   "frankfurter",
+   "america",
+   "hotdog",
+   "redhot",
+   "sausage",
+   "wiener"
+  ]
+ },
+ {
+  "emoji": "🍨",
+  "code": "1f368",
+  "name": "ice cream",
+  "group": "Food & Drink",
+  "keywords": [
+   "ice cream",
+   "food",
+   "hot",
+   "dessert",
+   "bowl",
+   "sweet"
+  ]
+ },
+ {
+  "emoji": "🥝",
+  "code": "1f95d",
+  "name": "kiwi fruit",
+  "group": "Food & Drink",
+  "keywords": [
+   "kiwi fruit",
+   "fruit",
+   "food",
+   "chinese",
+   "gooseberry",
+   "kiwifruit"
+  ]
+ },
+ {
+  "emoji": "🥬",
+  "code": "1f96c",
+  "name": "leafy green",
+  "group": "Food & Drink",
+  "keywords": [
+   "leafy green",
+   "food",
+   "vegetable",
+   "plant",
+   "bok choy",
+   "cabbage",
+   "kale",
+   "lettuce",
+   "chinese",
+   "cos",
+   "greens",
+   "romaine"
+  ]
+ },
+ {
+  "emoji": "🍋",
+  "code": "1f34b",
+  "name": "lemon",
+  "group": "Food & Drink",
+  "keywords": [
+   "lemon",
+   "fruit",
+   "nature",
+   "citrus",
+   "lemonade",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🥭",
+  "code": "1f96d",
+  "name": "mango",
+  "group": "Food & Drink",
+  "keywords": [
+   "mango",
+   "fruit",
+   "food",
+   "tropical"
+  ]
+ },
+ {
+  "emoji": "🧉",
+  "code": "1f9c9",
+  "name": "mate",
+  "group": "Food & Drink",
+  "keywords": [
+   "mate",
+   "drink",
+   "tea",
+   "beverage",
+   "bombilla",
+   "chimarrão",
+   "cimarrón",
+   "maté",
+   "yerba"
+  ]
+ },
+ {
+  "emoji": "🍈",
+  "code": "1f348",
+  "name": "melon",
+  "group": "Food & Drink",
+  "keywords": [
+   "melon",
+   "fruit",
+   "nature",
+   "food",
+   "cantaloupe",
+   "honeydew",
+   "muskmelon",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🍢",
+  "code": "1f362",
+  "name": "oden",
+  "group": "Food & Drink",
+  "keywords": [
+   "oden",
+   "skewer",
+   "food",
+   "japanese",
+   "kebab",
+   "seafood",
+   "stick"
+  ]
+ },
+ {
+  "emoji": "🧅",
+  "code": "1f9c5",
+  "name": "onion",
+  "group": "Food & Drink",
+  "keywords": [
+   "onion",
+   "cook",
+   "food",
+   "spice",
+   "flavoring",
+   "plant",
+   "vegetable"
+  ]
+ },
+ {
+  "emoji": "🥞",
+  "code": "1f95e",
+  "name": "pancakes",
+  "group": "Food & Drink",
+  "keywords": [
+   "pancakes",
+   "food",
+   "breakfast",
+   "flapjacks",
+   "hotcakes",
+   "brunch",
+   "crêpe",
+   "crêpes",
+   "hotcake",
+   "pancake"
+  ]
+ },
+ {
+  "emoji": "🫛",
+  "code": "1fadb",
+  "name": "pea pod",
+  "group": "Food & Drink",
+  "keywords": [
+   "pea pod",
+   "cozy",
+   "green"
+  ]
+ },
+ {
+  "emoji": "🍐",
+  "code": "1f350",
+  "name": "pear",
+  "group": "Food & Drink",
+  "keywords": [
+   "pear",
+   "fruit",
+   "nature",
+   "food",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🥧",
+  "code": "1f967",
+  "name": "pie",
+  "group": "Food & Drink",
+  "keywords": [
+   "pie",
+   "food",
+   "dessert",
+   "pastry",
+   "filling",
+   "sweet"
+  ]
+ },
+ {
+  "emoji": "🍍",
+  "code": "1f34d",
+  "name": "pineapple",
+  "group": "Food & Drink",
+  "keywords": [
+   "pineapple",
+   "fruit",
+   "nature",
+   "food",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🍕",
+  "code": "1f355",
+  "name": "pizza",
+  "group": "Food & Drink",
+  "keywords": [
+   "pizza",
+   "food",
+   "party",
+   "italy",
+   "cheese",
+   "pepperoni",
+   "slice"
+  ]
+ },
+ {
+  "emoji": "🍿",
+  "code": "1f37f",
+  "name": "popcorn",
+  "group": "Food & Drink",
+  "keywords": [
+   "popcorn",
+   "food",
+   "movie theater",
+   "films",
+   "snack",
+   "drama",
+   "corn",
+   "popping"
+  ]
+ },
+ {
+  "emoji": "🥔",
+  "code": "1f954",
+  "name": "potato",
+  "group": "Food & Drink",
+  "keywords": [
+   "potato",
+   "food",
+   "tuber",
+   "vegatable",
+   "starch",
+   "baked",
+   "idaho",
+   "vegetable"
+  ]
+ },
+ {
+  "emoji": "🍗",
+  "code": "1f357",
+  "name": "poultry leg",
+  "group": "Food & Drink",
+  "keywords": [
+   "poultry leg",
+   "food",
+   "meat",
+   "drumstick",
+   "bird",
+   "chicken",
+   "turkey",
+   "bone"
+  ]
+ },
+ {
+  "emoji": "🫗",
+  "code": "1fad7",
+  "name": "pouring liquid",
+  "group": "Food & Drink",
+  "keywords": [
+   "pouring liquid",
+   "cup",
+   "water",
+   "drink",
+   "empty",
+   "glass",
+   "spill"
+  ]
+ },
+ {
+  "emoji": "🥨",
+  "code": "1f968",
+  "name": "pretzel",
+  "group": "Food & Drink",
+  "keywords": [
+   "pretzel",
+   "food",
+   "bread",
+   "twisted",
+   "germany",
+   "bakery",
+   "soft",
+   "twist"
+  ]
+ },
+ {
+  "emoji": "🍎",
+  "code": "1f34e",
+  "name": "red apple",
+  "group": "Food & Drink",
+  "keywords": [
+   "red apple",
+   "fruit",
+   "mac",
+   "school",
+   "delicious",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🫜",
+  "code": "1fadc",
+  "name": "root vegetable",
+  "group": "Food & Drink",
+  "keywords": [
+   "root vegetable",
+   "radish"
+  ]
+ },
+ {
+  "emoji": "🧂",
+  "code": "1f9c2",
+  "name": "salt",
+  "group": "Food & Drink",
+  "keywords": [
+   "salt",
+   "condiment",
+   "shaker"
+  ]
+ },
+ {
+  "emoji": "🍦",
+  "code": "1f366",
+  "name": "soft ice cream",
+  "group": "Food & Drink",
+  "keywords": [
+   "soft ice cream",
+   "food",
+   "hot",
+   "dessert",
+   "summer",
+   "icecream",
+   "mr.",
+   "serve",
+   "sweet",
+   "whippy"
+  ]
+ },
+ {
+  "emoji": "🍝",
+  "code": "1f35d",
+  "name": "spaghetti",
+  "group": "Food & Drink",
+  "keywords": [
+   "spaghetti",
+   "food",
+   "italian",
+   "pasta",
+   "noodle"
+  ]
+ },
+ {
+  "emoji": "🍜",
+  "code": "1f35c",
+  "name": "steaming bowl",
+  "group": "Food & Drink",
+  "keywords": [
+   "steaming bowl",
+   "food",
+   "japanese",
+   "noodle",
+   "chopsticks",
+   "ramen",
+   "noodles",
+   "soup"
+  ]
+ },
+ {
+  "emoji": "🍓",
+  "code": "1f353",
+  "name": "strawberry",
+  "group": "Food & Drink",
+  "keywords": [
+   "strawberry",
+   "fruit",
+   "food",
+   "nature",
+   "berry",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🌮",
+  "code": "1f32e",
+  "name": "taco",
+  "group": "Food & Drink",
+  "keywords": [
+   "taco",
+   "food",
+   "mexican"
+  ]
+ },
+ {
+  "emoji": "🍊",
+  "code": "1f34a",
+  "name": "tangerine",
+  "group": "Food & Drink",
+  "keywords": [
+   "tangerine",
+   "food",
+   "fruit",
+   "nature",
+   "orange",
+   "mandarin",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🍵",
+  "code": "1f375",
+  "name": "teacup without handle",
+  "group": "Food & Drink",
+  "keywords": [
+   "teacup without handle",
+   "drink",
+   "bowl",
+   "breakfast",
+   "green",
+   "british",
+   "beverage",
+   "cup",
+   "matcha",
+   "tea"
+  ]
+ },
+ {
+  "emoji": "🫖",
+  "code": "1fad6",
+  "name": "teapot",
+  "group": "Food & Drink",
+  "keywords": [
+   "teapot",
+   "drink",
+   "hot",
+   "kettle",
+   "pot",
+   "tea"
+  ]
+ },
+ {
+  "emoji": "🍅",
+  "code": "1f345",
+  "name": "tomato",
+  "group": "Food & Drink",
+  "keywords": [
+   "tomato",
+   "fruit",
+   "vegetable",
+   "nature",
+   "food",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🍹",
+  "code": "1f379",
+  "name": "tropical drink",
+  "group": "Food & Drink",
+  "keywords": [
+   "tropical drink",
+   "beverage",
+   "cocktail",
+   "summer",
+   "beach",
+   "alcohol",
+   "booze",
+   "mojito",
+   "bar",
+   "fruit",
+   "punch",
+   "tiki",
+   "vacation"
+  ]
+ },
+ {
+  "emoji": "🍉",
+  "code": "1f349",
+  "name": "watermelon",
+  "group": "Food & Drink",
+  "keywords": [
+   "watermelon",
+   "fruit",
+   "food",
+   "picnic",
+   "summer",
+   "plant"
+  ]
+ },
+ {
+  "emoji": "🍷",
+  "code": "1f377",
+  "name": "wine glass",
+  "group": "Food & Drink",
+  "keywords": [
+   "wine glass",
+   "drink",
+   "beverage",
+   "drunk",
+   "alcohol",
+   "booze",
+   "bar",
+   "red"
+  ]
+ },
+ {
+  "emoji": "⚖️",
+  "code": "2696",
+  "name": "balance scale",
+  "group": "Objects",
+  "keywords": [
+   "balance scale",
+   "law",
+   "fairness",
+   "weight",
+   "justice",
+   "libra",
+   "scales",
+   "tool",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "🩰",
+  "code": "1fa70",
+  "name": "ballet shoes",
+  "group": "Objects",
+  "keywords": [
+   "ballet shoes",
+   "dance",
+   "clothing",
+   "pointe",
+   "shoe"
+  ]
+ },
+ {
+  "emoji": "🗳️",
+  "code": "1f5f3",
+  "name": "ballot box with ballot",
+  "group": "Objects",
+  "keywords": [
+   "ballot box with ballot",
+   "election",
+   "vote",
+   "voting"
+  ]
+ },
+ {
+  "emoji": "🪕",
+  "code": "1fa95",
+  "name": "banjo",
+  "group": "Objects",
+  "keywords": [
+   "banjo",
+   "music",
+   "instructment",
+   "activity",
+   "entertainment",
+   "instrument",
+   "stringed"
+  ]
+ },
+ {
+  "emoji": "📊",
+  "code": "1f4ca",
+  "name": "bar chart",
+  "group": "Objects",
+  "keywords": [
+   "bar chart",
+   "graph",
+   "presentation",
+   "stats",
+   "metrics"
+  ]
+ },
+ {
+  "emoji": "🔋",
+  "code": "1f50b",
+  "name": "battery",
+  "group": "Objects",
+  "keywords": [
+   "battery",
+   "power",
+   "energy",
+   "sustain",
+   "aa",
+   "phone"
+  ]
+ },
+ {
+  "emoji": "🔔",
+  "code": "1f514",
+  "name": "bell",
+  "group": "Objects",
+  "keywords": [
+   "bell",
+   "sound",
+   "notification",
+   "christmas",
+   "xmas",
+   "chime",
+   "liberty",
+   "ringer",
+   "wedding"
+  ]
+ },
+ {
+  "emoji": "💣",
+  "code": "1f4a3",
+  "name": "bomb",
+  "group": "Objects",
+  "keywords": [
+   "bomb",
+   "boom",
+   "explode",
+   "explosion",
+   "terrorism",
+   "comic"
+  ]
+ },
+ {
+  "emoji": "📚",
+  "code": "1f4da",
+  "name": "books",
+  "group": "Objects",
+  "keywords": [
+   "books",
+   "literature",
+   "library",
+   "study",
+   "book",
+   "pile",
+   "stack"
+  ]
+ },
+ {
+  "emoji": "🪃",
+  "code": "1fa83",
+  "name": "boomerang",
+  "group": "Objects",
+  "keywords": [
+   "boomerang",
+   "weapon",
+   "australia",
+   "rebound",
+   "repercussion"
+  ]
+ },
+ {
+  "emoji": "⛓️‍💥",
+  "code": "26d3_200d_1f4a5",
+  "name": "broken chain",
+  "group": "Objects",
+  "keywords": [
+   "broken chain",
+   "constraint",
+   "break"
+  ]
+ },
+ {
+  "emoji": "🧹",
+  "code": "1f9f9",
+  "name": "broom",
+  "group": "Objects",
+  "keywords": [
+   "broom",
+   "cleaning",
+   "sweeping",
+   "witch",
+   "brush",
+   "sweep"
+  ]
+ },
+ {
+  "emoji": "🫧",
+  "code": "1fae7",
+  "name": "bubbles",
+  "group": "Objects",
+  "keywords": [
+   "bubbles",
+   "soap",
+   "fun",
+   "carbonation",
+   "sparkling",
+   "burp",
+   "clean",
+   "underwater"
+  ]
+ },
+ {
+  "emoji": "📷",
+  "code": "1f4f7",
+  "name": "camera",
+  "group": "Objects",
+  "keywords": [
+   "camera",
+   "gadgets",
+   "photography",
+   "digital",
+   "entertainment",
+   "photo",
+   "video"
+  ]
+ },
+ {
+  "emoji": "📸",
+  "code": "1f4f8",
+  "name": "camera with flash",
+  "group": "Objects",
+  "keywords": [
+   "camera with flash",
+   "photography",
+   "gadgets",
+   "photo",
+   "video",
+   "snapshots"
+  ]
+ },
+ {
+  "emoji": "⛓️",
+  "code": "26d3",
+  "name": "chains",
+  "group": "Objects",
+  "keywords": [
+   "chains",
+   "lock",
+   "arrest",
+   "chain"
+  ]
+ },
+ {
+  "emoji": "📉",
+  "code": "1f4c9",
+  "name": "chart decreasing",
+  "group": "Objects",
+  "keywords": [
+   "chart decreasing",
+   "graph",
+   "presentation",
+   "stats",
+   "recession",
+   "business",
+   "economics",
+   "money",
+   "sales",
+   "bad",
+   "failure",
+   "down",
+   "downwards",
+   "down pointing",
+   "metrics",
+   "negative chart",
+   "trend"
+  ]
+ },
+ {
+  "emoji": "📈",
+  "code": "1f4c8",
+  "name": "chart increasing",
+  "group": "Objects",
+  "keywords": [
+   "chart increasing",
+   "graph",
+   "presentation",
+   "stats",
+   "recovery",
+   "business",
+   "economics",
+   "money",
+   "sales",
+   "good",
+   "success",
+   "growth",
+   "metrics",
+   "pointing",
+   "positive chart",
+   "trend",
+   "up",
+   "upward",
+   "upwards",
+   "analytics"
+  ]
+ },
+ {
+  "emoji": "🎬",
+  "code": "1f3ac",
+  "name": "clapper board",
+  "group": "Objects",
+  "keywords": [
+   "clapper board",
+   "movie",
+   "film",
+   "record",
+   "activity",
+   "clapboard",
+   "director",
+   "entertainment",
+   "slate"
+  ]
+ },
+ {
+  "emoji": "🪙",
+  "code": "1fa99",
+  "name": "coin",
+  "group": "Objects",
+  "keywords": [
+   "coin",
+   "money",
+   "currency",
+   "gold",
+   "metal",
+   "silver",
+   "treasure"
+  ]
+ },
+ {
+  "emoji": "👑",
+  "code": "1f451",
+  "name": "crown",
+  "group": "Objects",
+  "keywords": [
+   "crown",
+   "king",
+   "kod",
+   "leader",
+   "royalty",
+   "lord",
+   "clothing",
+   "queen",
+   "royal"
+  ]
+ },
+ {
+  "emoji": "🪔",
+  "code": "1fa94",
+  "name": "diya lamp",
+  "group": "Objects",
+  "keywords": [
+   "diya lamp",
+   "lighting",
+   "oil"
+  ]
+ },
+ {
+  "emoji": "🩸",
+  "code": "1fa78",
+  "name": "drop of blood",
+  "group": "Objects",
+  "keywords": [
+   "drop of blood",
+   "period",
+   "hurt",
+   "harm",
+   "wound",
+   "bleed",
+   "doctor",
+   "donation",
+   "injury",
+   "medicine",
+   "menstruation"
+  ]
+ },
+ {
+  "emoji": "🥁",
+  "code": "1f941",
+  "name": "drum",
+  "group": "Objects",
+  "keywords": [
+   "drum",
+   "music",
+   "instrument",
+   "drumsticks",
+   "snare"
+  ]
+ },
+ {
+  "emoji": "🔌",
+  "code": "1f50c",
+  "name": "electric plug",
+  "group": "Objects",
+  "keywords": [
+   "electric plug",
+   "charger",
+   "power",
+   "ac",
+   "adaptor",
+   "cable",
+   "electricity"
+  ]
+ },
+ {
+  "emoji": "🎞️",
+  "code": "1f39e",
+  "name": "film frames",
+  "group": "Objects",
+  "keywords": [
+   "film frames",
+   "movie",
+   "cinema",
+   "entertainment",
+   "strip"
+  ]
+ },
+ {
+  "emoji": "🪭",
+  "code": "1faad",
+  "name": "folding hand fan",
+  "group": "Objects",
+  "keywords": [
+   "folding hand fan",
+   "flamenco",
+   "hot",
+   "sensu"
+  ]
+ },
+ {
+  "emoji": "⚙️",
+  "code": "2699",
+  "name": "gear",
+  "group": "Objects",
+  "keywords": [
+   "gear",
+   "cog",
+   "cogwheel",
+   "tool"
+  ]
+ },
+ {
+  "emoji": "💎",
+  "code": "1f48e",
+  "name": "gem stone",
+  "group": "Objects",
+  "keywords": [
+   "gem stone",
+   "blue",
+   "ruby",
+   "diamond",
+   "jewelry",
+   "gemstone",
+   "jewel",
+   "romance"
+  ]
+ },
+ {
+  "emoji": "🎓",
+  "code": "1f393",
+  "name": "graduation cap",
+  "group": "Objects",
+  "keywords": [
+   "graduation cap",
+   "school",
+   "college",
+   "degree",
+   "university",
+   "graduation",
+   "cap",
+   "hat",
+   "legal",
+   "learn",
+   "education",
+   "academic",
+   "activity",
+   "board",
+   "celebration",
+   "clothing",
+   "graduate",
+   "mortar",
+   "square"
+  ]
+ },
+ {
+  "emoji": "🎸",
+  "code": "1f3b8",
+  "name": "guitar",
+  "group": "Objects",
+  "keywords": [
+   "guitar",
+   "music",
+   "instrument",
+   "acoustic guitar",
+   "activity",
+   "bass",
+   "electric",
+   "entertainment",
+   "rock"
+  ]
+ },
+ {
+  "emoji": "🛠️",
+  "code": "1f6e0",
+  "name": "hammer and wrench",
+  "group": "Objects",
+  "keywords": [
+   "hammer and wrench",
+   "tools",
+   "build",
+   "create",
+   "spanner",
+   "tool"
+  ]
+ },
+ {
+  "emoji": "🪉",
+  "code": "1fa89",
+  "name": "harp",
+  "group": "Objects",
+  "keywords": [
+   "harp",
+   "music",
+   "instrument"
+  ]
+ },
+ {
+  "emoji": "👠",
+  "code": "1f460",
+  "name": "high-heeled shoe",
+  "group": "Objects",
+  "keywords": [
+   "high heeled shoe",
+   "fashion",
+   "shoes",
+   "female",
+   "pumps",
+   "stiletto",
+   "clothing",
+   "heel",
+   "heels",
+   "woman"
+  ]
+ },
+ {
+  "emoji": "💻",
+  "code": "1f4bb",
+  "name": "laptop",
+  "group": "Objects",
+  "keywords": [
+   "laptop",
+   "technology",
+   "screen",
+   "display",
+   "monitor",
+   "computer",
+   "desktop",
+   "notebook",
+   "pc",
+   "personal"
+  ]
+ },
+ {
+  "emoji": "💡",
+  "code": "1f4a1",
+  "name": "light bulb",
+  "group": "Objects",
+  "keywords": [
+   "light bulb",
+   "light",
+   "electricity",
+   "idea",
+   "comic",
+   "electric"
+  ]
+ },
+ {
+  "emoji": "🖇️",
+  "code": "1f587",
+  "name": "linked paperclips",
+  "group": "Objects",
+  "keywords": [
+   "linked paperclips",
+   "documents",
+   "stationery",
+   "communication",
+   "link",
+   "paperclip"
+  ]
+ },
+ {
+  "emoji": "🔒",
+  "code": "1f512",
+  "name": "locked",
+  "group": "Objects",
+  "keywords": [
+   "locked",
+   "security",
+   "password",
+   "padlock",
+   "closed",
+   "lock",
+   "private",
+   "privacy"
+  ]
+ },
+ {
+  "emoji": "🪫",
+  "code": "1faab",
+  "name": "low battery",
+  "group": "Objects",
+  "keywords": [
+   "low battery",
+   "drained",
+   "dead",
+   "electronic",
+   "energy",
+   "no",
+   "red"
+  ]
+ },
+ {
+  "emoji": "🔎",
+  "code": "1f50e",
+  "name": "magnifying glass tilted right",
+  "group": "Objects",
+  "keywords": [
+   "magnifying glass tilted right",
+   "search",
+   "zoom",
+   "find",
+   "detective",
+   "icon",
+   "mag",
+   "magnifier",
+   "pointing",
+   "tool",
+   "seo"
+  ]
+ },
+ {
+  "emoji": "🪇",
+  "code": "1fa87",
+  "name": "maracas",
+  "group": "Objects",
+  "keywords": [
+   "maracas",
+   "music",
+   "instrument",
+   "percussion",
+   "shaker"
+  ]
+ },
+ {
+  "emoji": "📣",
+  "code": "1f4e3",
+  "name": "megaphone",
+  "group": "Objects",
+  "keywords": [
+   "megaphone",
+   "sound",
+   "speaker",
+   "volume",
+   "bullhorn",
+   "cheering",
+   "communication",
+   "mega"
+  ]
+ },
+ {
+  "emoji": "🗿",
+  "code": "1f5ff",
+  "name": "moai",
+  "group": "Objects",
+  "keywords": [
+   "moai",
+   "rock",
+   "easter island",
+   "carving",
+   "face",
+   "human",
+   "moyai",
+   "statue",
+   "stone"
+  ]
+ },
+ {
+  "emoji": "💸",
+  "code": "1f4b8",
+  "name": "money with wings",
+  "group": "Objects",
+  "keywords": [
+   "money with wings",
+   "dollar",
+   "bills",
+   "payment",
+   "sale",
+   "bank",
+   "banknote",
+   "bill",
+   "fly",
+   "flying",
+   "losing",
+   "note"
+  ]
+ },
+ {
+  "emoji": "🪤",
+  "code": "1faa4",
+  "name": "mouse trap",
+  "group": "Objects",
+  "keywords": [
+   "mouse trap",
+   "cheese",
+   "bait",
+   "mousetrap",
+   "rodent",
+   "snare"
+  ]
+ },
+ {
+  "emoji": "🎶",
+  "code": "1f3b6",
+  "name": "musical notes",
+  "group": "Objects",
+  "keywords": [
+   "musical notes",
+   "music",
+   "score",
+   "activity",
+   "entertainment",
+   "multiple",
+   "note",
+   "singing"
+  ]
+ },
+ {
+  "emoji": "💿",
+  "code": "1f4bf",
+  "name": "optical disk",
+  "group": "Objects",
+  "keywords": [
+   "optical disk",
+   "technology",
+   "dvd",
+   "disk",
+   "disc",
+   "90s",
+   "cd",
+   "compact",
+   "computer",
+   "rom"
+  ]
+ },
+ {
+  "emoji": "📦",
+  "code": "1f4e6",
+  "name": "package",
+  "group": "Objects",
+  "keywords": [
+   "package",
+   "mail",
+   "gift",
+   "cardboard",
+   "box",
+   "moving",
+   "communication",
+   "parcel",
+   "shipping",
+   "container"
+  ]
+ },
+ {
+  "emoji": "📟",
+  "code": "1f4df",
+  "name": "pager",
+  "group": "Objects",
+  "keywords": [
+   "pager",
+   "bbcall",
+   "oldschool",
+   "90s",
+   "beeper",
+   "bleeper",
+   "communication"
+  ]
+ },
+ {
+  "emoji": "✏️",
+  "code": "270f",
+  "name": "pencil",
+  "group": "Objects",
+  "keywords": [
+   "pencil",
+   "stationery",
+   "write",
+   "paper",
+   "writing",
+   "school",
+   "study",
+   "lead",
+   "pencil2",
+   "typos"
+  ]
+ },
+ {
+  "emoji": "🖨️",
+  "code": "1f5a8",
+  "name": "printer",
+  "group": "Objects",
+  "keywords": [
+   "printer",
+   "paper",
+   "ink",
+   "computer"
+  ]
+ },
+ {
+  "emoji": "💍",
+  "code": "1f48d",
+  "name": "ring",
+  "group": "Objects",
+  "keywords": [
+   "ring",
+   "wedding",
+   "propose",
+   "marriage",
+   "valentines",
+   "diamond",
+   "fashion",
+   "jewelry",
+   "gem",
+   "engagement",
+   "engaged",
+   "romance"
+  ]
+ },
+ {
+  "emoji": "👟",
+  "code": "1f45f",
+  "name": "running shoe",
+  "group": "Objects",
+  "keywords": [
+   "running shoe",
+   "shoes",
+   "sports",
+   "sneakers",
+   "athletic",
+   "clothing",
+   "runner",
+   "sneaker",
+   "sport",
+   "tennis",
+   "trainer"
+  ]
+ },
+ {
+  "emoji": "🎷",
+  "code": "1f3b7",
+  "name": "saxophone",
+  "group": "Objects",
+  "keywords": [
+   "saxophone",
+   "music",
+   "instrument",
+   "jazz",
+   "blues",
+   "activity",
+   "entertainment",
+   "sax"
+  ]
+ },
+ {
+  "emoji": "✂️",
+  "code": "2702",
+  "name": "scissors",
+  "group": "Objects",
+  "keywords": [
+   "scissors",
+   "stationery",
+   "cut",
+   "black",
+   "cutting",
+   "tool"
+  ]
+ },
+ {
+  "emoji": "🛒",
+  "code": "1f6d2",
+  "name": "shopping cart",
+  "group": "Objects",
+  "keywords": [
+   "shopping cart",
+   "trolley"
+  ]
+ },
+ {
+  "emoji": "🪏",
+  "code": "1fa8f",
+  "name": "shovel",
+  "group": "Objects",
+  "keywords": [
+   "shovel",
+   "tool",
+   "dig"
+  ]
+ },
+ {
+  "emoji": "🧦",
+  "code": "1f9e6",
+  "name": "socks",
+  "group": "Objects",
+  "keywords": [
+   "socks",
+   "stockings",
+   "clothes",
+   "clothing",
+   "pair",
+   "stocking"
+  ]
+ },
+ {
+  "emoji": "🩺",
+  "code": "1fa7a",
+  "name": "stethoscope",
+  "group": "Objects",
+  "keywords": [
+   "stethoscope",
+   "health",
+   "doctor",
+   "heart",
+   "medicine",
+   "healthcheck"
+  ]
+ },
+ {
+  "emoji": "📺",
+  "code": "1f4fa",
+  "name": "television",
+  "group": "Objects",
+  "keywords": [
+   "television",
+   "technology",
+   "program",
+   "oldschool",
+   "show",
+   "entertainment",
+   "tv",
+   "video"
+  ]
+ },
+ {
+  "emoji": "🪎",
+  "code": "1fa8e",
+  "name": "treasure chest",
+  "group": "Objects",
+  "keywords": [
+   "treasure chest",
+   "gold",
+   "haul",
+   "mimic",
+   "crate",
+   "jewelry",
+   "riches"
+  ]
+ },
+ {
+  "emoji": "🪊",
+  "code": "1fa8a",
+  "name": "trombone",
+  "group": "Objects",
+  "keywords": [
+   "trombone",
+   "music",
+   "instrument"
+  ]
+ },
+ {
+  "emoji": "🎺",
+  "code": "1f3ba",
+  "name": "trumpet",
+  "group": "Objects",
+  "keywords": [
+   "trumpet",
+   "music",
+   "brass",
+   "activity",
+   "entertainment",
+   "horn",
+   "instrument",
+   "jazz"
+  ]
+ },
+ {
+  "emoji": "🎻",
+  "code": "1f3bb",
+  "name": "violin",
+  "group": "Objects",
+  "keywords": [
+   "violin",
+   "music",
+   "instrument",
+   "orchestra",
+   "symphony",
+   "activity",
+   "entertainment",
+   "quartet",
+   "smallest",
+   "string",
+   "world’s"
+  ]
+ },
+ {
+  "emoji": "🗑️",
+  "code": "1f5d1",
+  "name": "wastebasket",
+  "group": "Objects",
+  "keywords": [
+   "wastebasket",
+   "bin",
+   "trash",
+   "rubbish",
+   "garbage",
+   "toss",
+   "basket",
+   "can",
+   "litter",
+   "wastepaper"
+  ]
+ },
+ {
+  "emoji": "👌",
+  "code": "1f44c",
+  "name": "OK hand",
+  "group": "People & Body",
+  "keywords": [
+   "ok hand",
+   "fingers",
+   "limbs",
+   "perfect",
+   "ok",
+   "okay",
+   "body",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "🫀",
+  "code": "1fac0",
+  "name": "anatomical heart",
+  "group": "People & Body",
+  "keywords": [
+   "anatomical heart",
+   "health",
+   "heartbeat",
+   "cardiology",
+   "organ",
+   "pulse"
+  ]
+ },
+ {
+  "emoji": "👇",
+  "code": "1f447",
+  "name": "backhand index pointing down",
+  "group": "People & Body",
+  "keywords": [
+   "backhand index pointing down",
+   "fingers",
+   "hand",
+   "direction",
+   "down",
+   "body",
+   "finger",
+   "point",
+   "white"
+  ]
+ },
+ {
+  "emoji": "👈",
+  "code": "1f448",
+  "name": "backhand index pointing left",
+  "group": "People & Body",
+  "keywords": [
+   "backhand index pointing left",
+   "direction",
+   "fingers",
+   "hand",
+   "left",
+   "body",
+   "finger",
+   "point",
+   "white"
+  ]
+ },
+ {
+  "emoji": "👉",
+  "code": "1f449",
+  "name": "backhand index pointing right",
+  "group": "People & Body",
+  "keywords": [
+   "backhand index pointing right",
+   "fingers",
+   "hand",
+   "direction",
+   "right",
+   "body",
+   "finger",
+   "point",
+   "white"
+  ]
+ },
+ {
+  "emoji": "👆",
+  "code": "1f446",
+  "name": "backhand index pointing up",
+  "group": "People & Body",
+  "keywords": [
+   "backhand index pointing up",
+   "fingers",
+   "hand",
+   "direction",
+   "up",
+   "body",
+   "finger",
+   "middle",
+   "point",
+   "white"
+  ]
+ },
+ {
+  "emoji": "🫦",
+  "code": "1fae6",
+  "name": "biting lip",
+  "group": "People & Body",
+  "keywords": [
+   "biting lip",
+   "flirt",
+   "sexy",
+   "pain",
+   "worry",
+   "anxious",
+   "fear",
+   "flirting",
+   "nervous",
+   "uncomfortable",
+   "worried"
+  ]
+ },
+ {
+  "emoji": "🦴",
+  "code": "1f9b4",
+  "name": "bone",
+  "group": "People & Body",
+  "keywords": [
+   "bone",
+   "skeleton",
+   "body"
+  ]
+ },
+ {
+  "emoji": "🧠",
+  "code": "1f9e0",
+  "name": "brain",
+  "group": "People & Body",
+  "keywords": [
+   "brain",
+   "smart",
+   "intelligent",
+   "body",
+   "organ"
+  ]
+ },
+ {
+  "emoji": "🤙",
+  "code": "1f919",
+  "name": "call me hand",
+  "group": "People & Body",
+  "keywords": [
+   "call me hand",
+   "hands",
+   "gesture",
+   "shaka",
+   "body",
+   "phone",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "👏",
+  "code": "1f44f",
+  "name": "clapping hands",
+  "group": "People & Body",
+  "keywords": [
+   "clapping hands",
+   "hands",
+   "praise",
+   "applause",
+   "congrats",
+   "yay",
+   "body",
+   "clap",
+   "golf",
+   "hand",
+   "round",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "🤞",
+  "code": "1f91e",
+  "name": "crossed fingers",
+  "group": "People & Body",
+  "keywords": [
+   "crossed fingers",
+   "good",
+   "lucky",
+   "body",
+   "cross",
+   "finger",
+   "hand",
+   "hopeful",
+   "index",
+   "luck",
+   "middle"
+  ]
+ },
+ {
+  "emoji": "👂",
+  "code": "1f442",
+  "name": "ear",
+  "group": "People & Body",
+  "keywords": [
+   "ear",
+   "face",
+   "hear",
+   "sound",
+   "listen",
+   "body",
+   "ears",
+   "hearing",
+   "listening",
+   "nose"
+  ]
+ },
+ {
+  "emoji": "🦻",
+  "code": "1f9bb",
+  "name": "ear with hearing aid",
+  "group": "People & Body",
+  "keywords": [
+   "ear with hearing aid",
+   "accessibility",
+   "body",
+   "hard"
+  ]
+ },
+ {
+  "emoji": "👁️",
+  "code": "1f441",
+  "name": "eye",
+  "group": "People & Body",
+  "keywords": [
+   "eye",
+   "face",
+   "look",
+   "see",
+   "watch",
+   "stare",
+   "body",
+   "single"
+  ]
+ },
+ {
+  "emoji": "👀",
+  "code": "1f440",
+  "name": "eyes",
+  "group": "People & Body",
+  "keywords": [
+   "eyes",
+   "look",
+   "watch",
+   "stalk",
+   "peek",
+   "see",
+   "body",
+   "eye",
+   "eyeballs",
+   "face",
+   "shifty",
+   "wide"
+  ]
+ },
+ {
+  "emoji": "🫆",
+  "code": "1fac6",
+  "name": "fingerprint",
+  "group": "People & Body",
+  "keywords": [
+   "fingerprint"
+  ]
+ },
+ {
+  "emoji": "💪",
+  "code": "1f4aa",
+  "name": "flexed biceps",
+  "group": "People & Body",
+  "keywords": [
+   "flexed biceps",
+   "arm",
+   "flex",
+   "hand",
+   "summer",
+   "strong",
+   "biceps",
+   "bicep",
+   "body",
+   "comic",
+   "feats",
+   "flexing",
+   "muscle",
+   "muscles",
+   "strength",
+   "workout"
+  ]
+ },
+ {
+  "emoji": "🙏",
+  "code": "1f64f",
+  "name": "folded hands",
+  "group": "People & Body",
+  "keywords": [
+   "folded hands",
+   "please",
+   "hope",
+   "wish",
+   "namaste",
+   "highfive",
+   "pray",
+   "thank you",
+   "thanks",
+   "appreciate",
+   "ask",
+   "body",
+   "bow",
+   "five",
+   "gesture",
+   "hand",
+   "high",
+   "person",
+   "prayer",
+   "pressed",
+   "together"
+  ]
+ },
+ {
+  "emoji": "🦶",
+  "code": "1f9b6",
+  "name": "foot",
+  "group": "People & Body",
+  "keywords": [
+   "foot",
+   "kick",
+   "stomp",
+   "body"
+  ]
+ },
+ {
+  "emoji": "👣",
+  "code": "1f463",
+  "name": "footprints",
+  "group": "People & Body",
+  "keywords": [
+   "footprints",
+   "feet",
+   "tracking",
+   "walking",
+   "beach",
+   "body",
+   "clothing",
+   "footprint",
+   "footsteps",
+   "print",
+   "tracks"
+  ]
+ },
+ {
+  "emoji": "🫈",
+  "code": "1fac8",
+  "name": "hairy creature",
+  "group": "People & Body",
+  "keywords": [
+   "hairy creature",
+   "sasquatch",
+   "bigfoot",
+   "treeman"
+  ]
+ },
+ {
+  "emoji": "🖐️",
+  "code": "1f590",
+  "name": "hand with fingers splayed",
+  "group": "People & Body",
+  "keywords": [
+   "hand with fingers splayed",
+   "hand",
+   "fingers",
+   "palm",
+   "body",
+   "finger",
+   "five",
+   "raised"
+  ]
+ },
+ {
+  "emoji": "🫰",
+  "code": "1faf0",
+  "name": "hand with index finger and thumb crossed",
+  "group": "People & Body",
+  "keywords": [
+   "hand with index finger and thumb crossed",
+   "heart",
+   "love",
+   "money",
+   "expensive",
+   "snap"
+  ]
+ },
+ {
+  "emoji": "🤝",
+  "code": "1f91d",
+  "name": "handshake",
+  "group": "People & Body",
+  "keywords": [
+   "handshake",
+   "agreement",
+   "shake",
+   "deal",
+   "hand",
+   "hands",
+   "meeting",
+   "shaking"
+  ]
+ },
+ {
+  "emoji": "🫶",
+  "code": "1faf6",
+  "name": "heart hands",
+  "group": "People & Body",
+  "keywords": [
+   "heart hands",
+   "love",
+   "appreciation",
+   "support"
+  ]
+ },
+ {
+  "emoji": "🫵",
+  "code": "1faf5",
+  "name": "index pointing at the viewer",
+  "group": "People & Body",
+  "keywords": [
+   "index pointing at the viewer",
+   "you",
+   "recruit",
+   "point"
+  ]
+ },
+ {
+  "emoji": "☝️",
+  "code": "261d",
+  "name": "index pointing up",
+  "group": "People & Body",
+  "keywords": [
+   "index pointing up",
+   "hand",
+   "fingers",
+   "direction",
+   "up",
+   "body",
+   "finger",
+   "point",
+   "secret",
+   "white"
+  ]
+ },
+ {
+  "emoji": "🤛",
+  "code": "1f91b",
+  "name": "left-facing fist",
+  "group": "People & Body",
+  "keywords": [
+   "left facing fist",
+   "hand",
+   "fistbump",
+   "body",
+   "bump",
+   "leftwards"
+  ]
+ },
+ {
+  "emoji": "🫲",
+  "code": "1faf2",
+  "name": "leftwards hand",
+  "group": "People & Body",
+  "keywords": [
+   "leftwards hand",
+   "palm",
+   "offer",
+   "left",
+   "leftward"
+  ]
+ },
+ {
+  "emoji": "🫷",
+  "code": "1faf7",
+  "name": "leftwards pushing hand",
+  "group": "People & Body",
+  "keywords": [
+   "leftwards pushing hand",
+   "highfive",
+   "pressing",
+   "stop"
+  ]
+ },
+ {
+  "emoji": "🦵",
+  "code": "1f9b5",
+  "name": "leg",
+  "group": "People & Body",
+  "keywords": [
+   "leg",
+   "kick",
+   "limb",
+   "body"
+  ]
+ },
+ {
+  "emoji": "🤟",
+  "code": "1f91f",
+  "name": "love-you gesture",
+  "group": "People & Body",
+  "keywords": [
+   "love you gesture",
+   "hand",
+   "fingers",
+   "gesture",
+   "body",
+   "i",
+   "ily",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "🦾",
+  "code": "1f9be",
+  "name": "mechanical arm",
+  "group": "People & Body",
+  "keywords": [
+   "mechanical arm",
+   "accessibility",
+   "body",
+   "prosthetic"
+  ]
+ },
+ {
+  "emoji": "🦿",
+  "code": "1f9bf",
+  "name": "mechanical leg",
+  "group": "People & Body",
+  "keywords": [
+   "mechanical leg",
+   "accessibility",
+   "body",
+   "prosthetic"
+  ]
+ },
+ {
+  "emoji": "🖕",
+  "code": "1f595",
+  "name": "middle finger",
+  "group": "People & Body",
+  "keywords": [
+   "middle finger",
+   "hand",
+   "fingers",
+   "rude",
+   "middle",
+   "flipping",
+   "bird",
+   "body",
+   "dito",
+   "extended",
+   "fu",
+   "medio",
+   "middle finger",
+   "reversed"
+  ]
+ },
+ {
+  "emoji": "💅",
+  "code": "1f485",
+  "name": "nail polish",
+  "group": "People & Body",
+  "keywords": [
+   "nail polish",
+   "nail care",
+   "beauty",
+   "manicure",
+   "finger",
+   "fashion",
+   "nail",
+   "slay",
+   "body",
+   "cosmetics",
+   "fingers",
+   "nonchalant"
+  ]
+ },
+ {
+  "emoji": "👃",
+  "code": "1f443",
+  "name": "nose",
+  "group": "People & Body",
+  "keywords": [
+   "nose",
+   "smell",
+   "sniff",
+   "body",
+   "smelling",
+   "sniffing",
+   "stinky"
+  ]
+ },
+ {
+  "emoji": "👊",
+  "code": "1f44a",
+  "name": "oncoming fist",
+  "group": "People & Body",
+  "keywords": [
+   "oncoming fist",
+   "angry",
+   "violence",
+   "fist",
+   "hit",
+   "attack",
+   "hand",
+   "body",
+   "bro",
+   "brofist",
+   "bump",
+   "clenched",
+   "closed",
+   "facepunch",
+   "fisted",
+   "punch",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "👐",
+  "code": "1f450",
+  "name": "open hands",
+  "group": "People & Body",
+  "keywords": [
+   "open hands",
+   "fingers",
+   "butterfly",
+   "hands",
+   "open",
+   "body",
+   "hand",
+   "hug",
+   "jazz",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "🫳",
+  "code": "1faf3",
+  "name": "palm down hand",
+  "group": "People & Body",
+  "keywords": [
+   "palm down hand",
+   "palm",
+   "drop",
+   "dismiss",
+   "shoo"
+  ]
+ },
+ {
+  "emoji": "🫴",
+  "code": "1faf4",
+  "name": "palm up hand",
+  "group": "People & Body",
+  "keywords": [
+   "palm up hand",
+   "lift",
+   "offer",
+   "demand",
+   "beckon",
+   "catch",
+   "come"
+  ]
+ },
+ {
+  "emoji": "🤲",
+  "code": "1f932",
+  "name": "palms up together",
+  "group": "People & Body",
+  "keywords": [
+   "palms up together",
+   "hands",
+   "gesture",
+   "cupped",
+   "prayer",
+   "body",
+   "dua",
+   "facing"
+  ]
+ },
+ {
+  "emoji": "🫂",
+  "code": "1fac2",
+  "name": "people hugging",
+  "group": "People & Body",
+  "keywords": [
+   "people hugging",
+   "care",
+   "goodbye",
+   "hello",
+   "hug",
+   "thanks"
+  ]
+ },
+ {
+  "emoji": "🤌",
+  "code": "1f90c",
+  "name": "pinched fingers",
+  "group": "People & Body",
+  "keywords": [
+   "pinched fingers",
+   "size",
+   "tiny",
+   "small",
+   "che",
+   "finger",
+   "gesture",
+   "hand",
+   "interrogation",
+   "ma",
+   "purse",
+   "sarcastic",
+   "vuoi"
+  ]
+ },
+ {
+  "emoji": "🤏",
+  "code": "1f90f",
+  "name": "pinching hand",
+  "group": "People & Body",
+  "keywords": [
+   "pinching hand",
+   "tiny",
+   "small",
+   "size",
+   "amount",
+   "body",
+   "little"
+  ]
+ },
+ {
+  "emoji": "🤚",
+  "code": "1f91a",
+  "name": "raised back of hand",
+  "group": "People & Body",
+  "keywords": [
+   "raised back of hand",
+   "fingers",
+   "raised",
+   "backhand",
+   "body"
+  ]
+ },
+ {
+  "emoji": "✊",
+  "code": "270a",
+  "name": "raised fist",
+  "group": "People & Body",
+  "keywords": [
+   "raised fist",
+   "fingers",
+   "hand",
+   "grasp",
+   "body",
+   "clenched",
+   "power",
+   "pump",
+   "punch"
+  ]
+ },
+ {
+  "emoji": "✋",
+  "code": "270b",
+  "name": "raised hand",
+  "group": "People & Body",
+  "keywords": [
+   "raised hand",
+   "fingers",
+   "stop",
+   "highfive",
+   "palm",
+   "ban",
+   "body",
+   "five",
+   "high"
+  ]
+ },
+ {
+  "emoji": "🙌",
+  "code": "1f64c",
+  "name": "raising hands",
+  "group": "People & Body",
+  "keywords": [
+   "raising hands",
+   "gesture",
+   "hooray",
+   "yea",
+   "celebration",
+   "hands",
+   "air",
+   "arms",
+   "banzai",
+   "body",
+   "both",
+   "festivus",
+   "hallelujah",
+   "hand",
+   "miracle",
+   "person",
+   "praise",
+   "raised",
+   "two"
+  ]
+ },
+ {
+  "emoji": "🤜",
+  "code": "1f91c",
+  "name": "right-facing fist",
+  "group": "People & Body",
+  "keywords": [
+   "right facing fist",
+   "hand",
+   "fistbump",
+   "body",
+   "bump",
+   "rightwards",
+   "right fist"
+  ]
+ },
+ {
+  "emoji": "🫱",
+  "code": "1faf1",
+  "name": "rightwards hand",
+  "group": "People & Body",
+  "keywords": [
+   "rightwards hand",
+   "palm",
+   "offer",
+   "right",
+   "rightward"
+  ]
+ },
+ {
+  "emoji": "🫸",
+  "code": "1faf8",
+  "name": "rightwards pushing hand",
+  "group": "People & Body",
+  "keywords": [
+   "rightwards pushing hand",
+   "highfive",
+   "pressing",
+   "stop"
+  ]
+ },
+ {
+  "emoji": "🤳",
+  "code": "1f933",
+  "name": "selfie",
+  "group": "People & Body",
+  "keywords": [
+   "selfie",
+   "camera",
+   "phone",
+   "arm",
+   "hand"
+  ]
+ },
+ {
+  "emoji": "🤘",
+  "code": "1f918",
+  "name": "sign of the horns",
+  "group": "People & Body",
+  "keywords": [
+   "sign of the horns",
+   "hand",
+   "fingers",
+   "evil eye",
+   "sign of horns",
+   "rock on",
+   "body",
+   "devil",
+   "finger",
+   "heavy",
+   "metal"
+  ]
+ },
+ {
+  "emoji": "🗣️",
+  "code": "1f5e3",
+  "name": "speaking head",
+  "group": "People & Body",
+  "keywords": [
+   "speaking head",
+   "user",
+   "person",
+   "human",
+   "sing",
+   "say",
+   "talk",
+   "face",
+   "mansplaining",
+   "shout",
+   "shouting",
+   "silhouette",
+   "speak"
+  ]
+ },
+ {
+  "emoji": "👎",
+  "code": "1f44e",
+  "name": "thumbs down",
+  "group": "People & Body",
+  "keywords": [
+   "thumbs down",
+   "thumbsdown",
+   "no",
+   "dislike",
+   "hand",
+   "-1",
+   "bad",
+   "body",
+   "bury",
+   "disapprove",
+   "sign",
+   "thumb"
+  ]
+ },
+ {
+  "emoji": "👍",
+  "code": "1f44d",
+  "name": "thumbs up",
+  "group": "People & Body",
+  "keywords": [
+   "thumbs up",
+   "thumbsup",
+   "yes",
+   "awesome",
+   "good",
+   "agree",
+   "accept",
+   "cool",
+   "hand",
+   "like",
+   "+1",
+   "approve",
+   "body",
+   "ok",
+   "sign",
+   "thumb"
+  ]
+ },
+ {
+  "emoji": "✌️",
+  "code": "270c",
+  "name": "victory hand",
+  "group": "People & Body",
+  "keywords": [
+   "victory hand",
+   "fingers",
+   "ohyeah",
+   "hand",
+   "peace",
+   "victory",
+   "two",
+   "air",
+   "body",
+   "quotes",
+   "sign",
+   "v"
+  ]
+ },
+ {
+  "emoji": "🖖",
+  "code": "1f596",
+  "name": "vulcan salute",
+  "group": "People & Body",
+  "keywords": [
+   "vulcan salute",
+   "hand",
+   "fingers",
+   "spock",
+   "star trek",
+   "between",
+   "body",
+   "finger",
+   "middle",
+   "part",
+   "prosper",
+   "raised",
+   "ring",
+   "split"
+  ]
+ },
+ {
+  "emoji": "👋",
+  "code": "1f44b",
+  "name": "waving hand",
+  "group": "People & Body",
+  "keywords": [
+   "waving hand",
+   "wave",
+   "hands",
+   "gesture",
+   "goodbye",
+   "solong",
+   "farewell",
+   "hello",
+   "hi",
+   "palm",
+   "body",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "💃",
+  "code": "1f483",
+  "name": "woman dancing",
+  "group": "People & Body",
+  "keywords": [
+   "woman dancing",
+   "female",
+   "girl",
+   "woman",
+   "fun",
+   "dance",
+   "dancer",
+   "dress",
+   "red",
+   "salsa",
+   "women"
+  ]
+ },
+ {
+  "emoji": "✍️",
+  "code": "270d",
+  "name": "writing hand",
+  "group": "People & Body",
+  "keywords": [
+   "writing hand",
+   "lower left ballpoint pen",
+   "stationery",
+   "write",
+   "compose",
+   "body"
+  ]
+ },
+ {
+  "emoji": "👽",
+  "code": "1f47d",
+  "name": "alien",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "alien",
+   "UFO",
+   "paul",
+   "weird",
+   "outer space",
+   "creature",
+   "et",
+   "extraterrestrial",
+   "face",
+   "fairy",
+   "fantasy",
+   "monster",
+   "tale",
+   "external"
+  ]
+ },
+ {
+  "emoji": "👾",
+  "code": "1f47e",
+  "name": "alien monster",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "alien monster",
+   "game",
+   "arcade",
+   "play",
+   "creature",
+   "extraterrestrial",
+   "face",
+   "fairy",
+   "fantasy",
+   "invader",
+   "retro",
+   "space",
+   "tale",
+   "ufo",
+   "video"
+  ]
+ },
+ {
+  "emoji": "😠",
+  "code": "1f620",
+  "name": "angry face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "angry face",
+   "mad",
+   "face",
+   "annoyed",
+   "frustrated",
+   "anger",
+   "grumpy"
+  ]
+ },
+ {
+  "emoji": "👿",
+  "code": "1f47f",
+  "name": "angry face with horns",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "angry face with horns",
+   "devil",
+   "angry",
+   "horns",
+   "demon",
+   "evil",
+   "fairy",
+   "fantasy",
+   "goblin",
+   "imp",
+   "purple",
+   "sad",
+   "tale"
+  ]
+ },
+ {
+  "emoji": "😧",
+  "code": "1f627",
+  "name": "anguished face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "anguished face",
+   "face",
+   "stunned",
+   "nervous",
+   "pained"
+  ]
+ },
+ {
+  "emoji": "😰",
+  "code": "1f630",
+  "name": "anxious face with sweat",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "anxious face with sweat",
+   "face",
+   "nervous",
+   "sweat",
+   "blue",
+   "cold",
+   "concerned face",
+   "mouth",
+   "open",
+   "rushed"
+  ]
+ },
+ {
+  "emoji": "😲",
+  "code": "1f632",
+  "name": "astonished face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "astonished face",
+   "face",
+   "xox",
+   "surprised",
+   "poisoned",
+   "amazed",
+   "drunk face",
+   "gasp",
+   "gasping",
+   "shocked",
+   "totally"
+  ]
+ },
+ {
+  "emoji": "😁",
+  "code": "1f601",
+  "name": "beaming face with smiling eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "beaming face with smiling eyes",
+   "face",
+   "happy",
+   "smile",
+   "joy",
+   "kawaii",
+   "eye",
+   "grin",
+   "grinning"
+  ]
+ },
+ {
+  "emoji": "💓",
+  "code": "1f493",
+  "name": "beating heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "beating heart",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "pink",
+   "heart",
+   "alarm",
+   "heartbeat",
+   "pulsating",
+   "wifi"
+  ]
+ },
+ {
+  "emoji": "🖤",
+  "code": "1f5a4",
+  "name": "black heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "black heart",
+   "evil",
+   "dark",
+   "wicked"
+  ]
+ },
+ {
+  "emoji": "💙",
+  "code": "1f499",
+  "name": "blue heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "blue heart",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "brand",
+   "neutral"
+  ]
+ },
+ {
+  "emoji": "💔",
+  "code": "1f494",
+  "name": "broken heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "broken heart",
+   "sad",
+   "sorry",
+   "break",
+   "heart",
+   "heartbreak",
+   "breaking",
+   "brokenhearted"
+  ]
+ },
+ {
+  "emoji": "🤎",
+  "code": "1f90e",
+  "name": "brown heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "brown heart",
+   "coffee"
+  ]
+ },
+ {
+  "emoji": "😹",
+  "code": "1f639",
+  "name": "cat with tears of joy",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "cat with tears of joy",
+   "animal",
+   "cats",
+   "haha",
+   "happy",
+   "tears",
+   "face",
+   "laughing",
+   "tear"
+  ]
+ },
+ {
+  "emoji": "😼",
+  "code": "1f63c",
+  "name": "cat with wry smile",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "cat with wry smile",
+   "animal",
+   "cats",
+   "smirk",
+   "face",
+   "ironic",
+   "smirking"
+  ]
+ },
+ {
+  "emoji": "🤡",
+  "code": "1f921",
+  "name": "clown face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "clown face",
+   "face",
+   "mock"
+  ]
+ },
+ {
+  "emoji": "🥶",
+  "code": "1f976",
+  "name": "cold face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "cold face",
+   "face",
+   "blue",
+   "freezing",
+   "frozen",
+   "frostbite",
+   "icicles",
+   "ice"
+  ]
+ },
+ {
+  "emoji": "💥",
+  "code": "1f4a5",
+  "name": "collision",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "collision",
+   "bomb",
+   "explode",
+   "explosion",
+   "blown",
+   "bang",
+   "boom",
+   "comic",
+   "impact",
+   "red",
+   "spark",
+   "symbol",
+   "break"
+  ]
+ },
+ {
+  "emoji": "😖",
+  "code": "1f616",
+  "name": "confounded face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "confounded face",
+   "face",
+   "confused",
+   "sick",
+   "unwell",
+   "oops",
+   ":S",
+   "mouth",
+   "quivering",
+   "scrunched"
+  ]
+ },
+ {
+  "emoji": "😕",
+  "code": "1f615",
+  "name": "confused face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "confused face",
+   "face",
+   "indifference",
+   "huh",
+   "weird",
+   "hmmm",
+   ":/",
+   "meh",
+   "nonplussed",
+   "puzzled",
+   "s"
+  ]
+ },
+ {
+  "emoji": "🤠",
+  "code": "1f920",
+  "name": "cowboy hat face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "cowboy hat face",
+   "face",
+   "cowgirl",
+   "hat"
+  ]
+ },
+ {
+  "emoji": "😿",
+  "code": "1f63f",
+  "name": "crying cat",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "crying cat",
+   "animal",
+   "tears",
+   "weep",
+   "sad",
+   "cats",
+   "upset",
+   "cry",
+   "face",
+   "sad cat",
+   "tear"
+  ]
+ },
+ {
+  "emoji": "😢",
+  "code": "1f622",
+  "name": "crying face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "crying face",
+   "face",
+   "tears",
+   "sad",
+   "depressed",
+   "upset",
+   ":'(",
+   "cry",
+   "tear"
+  ]
+ },
+ {
+  "emoji": "😞",
+  "code": "1f61e",
+  "name": "disappointed face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "disappointed face",
+   "face",
+   "sad",
+   "upset",
+   "depressed",
+   ":(",
+   "sadface"
+  ]
+ },
+ {
+  "emoji": "🥸",
+  "code": "1f978",
+  "name": "disguised face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "disguised face",
+   "pretent",
+   "brows",
+   "glasses",
+   "moustache",
+   "disguise",
+   "incognito",
+   "nose"
+  ]
+ },
+ {
+  "emoji": "🫪",
+  "code": "1faea",
+  "name": "distorted face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "distorted face",
+   "surprised",
+   "fluttered",
+   "wide-eyed"
+  ]
+ },
+ {
+  "emoji": "💫",
+  "code": "1f4ab",
+  "name": "dizzy",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "dizzy",
+   "star",
+   "sparkle",
+   "shoot",
+   "magic",
+   "circle",
+   "comic",
+   "symbol",
+   "animations",
+   "transitions"
+  ]
+ },
+ {
+  "emoji": "🫥",
+  "code": "1fae5",
+  "name": "dotted line face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "dotted line face",
+   "invisible",
+   "lonely",
+   "isolation",
+   "depression",
+   "depressed",
+   "disappear",
+   "hide",
+   "introvert"
+  ]
+ },
+ {
+  "emoji": "😓",
+  "code": "1f613",
+  "name": "downcast face with sweat",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "downcast face with sweat",
+   "face",
+   "hot",
+   "sad",
+   "tired",
+   "exercise",
+   "cold",
+   "hard",
+   "work"
+  ]
+ },
+ {
+  "emoji": "🤤",
+  "code": "1f924",
+  "name": "drooling face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "drooling face",
+   "face",
+   "drool"
+  ]
+ },
+ {
+  "emoji": "😡",
+  "code": "1f621",
+  "name": "enraged face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "pouting face",
+   "angry",
+   "mad",
+   "hate",
+   "despise",
+   "enraged",
+   "grumpy",
+   "pout",
+   "rage",
+   "red"
+  ]
+ },
+ {
+  "emoji": "🤯",
+  "code": "1f92f",
+  "name": "exploding head",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "exploding head",
+   "face",
+   "shocked",
+   "mind",
+   "blown",
+   "blowing",
+   "explosion",
+   "mad"
+  ]
+ },
+ {
+  "emoji": "😑",
+  "code": "1f611",
+  "name": "expressionless face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "expressionless face",
+   "face",
+   "indifferent",
+   "- -",
+   "meh",
+   "deadpan",
+   "inexpressive",
+   "mouth",
+   "straight",
+   "unexpressive"
+  ]
+ },
+ {
+  "emoji": "😘",
+  "code": "1f618",
+  "name": "face blowing a kiss",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face blowing a kiss",
+   "face",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "infatuation",
+   "kiss",
+   "blow",
+   "flirt",
+   "heart",
+   "kissing",
+   "throwing"
+  ]
+ },
+ {
+  "emoji": "😮‍💨",
+  "code": "1f62e_200d_1f4a8",
+  "name": "face exhaling",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face exhaling",
+   "relieve",
+   "relief",
+   "tired",
+   "sigh",
+   "exhale",
+   "gasp",
+   "groan",
+   "whisper",
+   "whistle"
+  ]
+ },
+ {
+  "emoji": "🥹",
+  "code": "1f979",
+  "name": "face holding back tears",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face holding back tears",
+   "touched",
+   "gratitude",
+   "cry",
+   "angry",
+   "proud",
+   "resist",
+   "sad"
+  ]
+ },
+ {
+  "emoji": "😶‍🌫️",
+  "code": "1f636_200d_1f32b",
+  "name": "face in clouds",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face in clouds",
+   "shower",
+   "steam",
+   "dream",
+   "absentminded",
+   "brain",
+   "fog",
+   "forgetful",
+   "haze",
+   "head",
+   "impractical",
+   "unrealistic"
+  ]
+ },
+ {
+  "emoji": "😋",
+  "code": "1f60b",
+  "name": "face savoring food",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face savoring food",
+   "happy",
+   "joy",
+   "tongue",
+   "smile",
+   "face",
+   "silly",
+   "yummy",
+   "nom",
+   "delicious",
+   "savouring",
+   "goofy",
+   "hungry",
+   "lick",
+   "licking",
+   "lips",
+   "smiling",
+   "um",
+   "yum"
+  ]
+ },
+ {
+  "emoji": "😱",
+  "code": "1f631",
+  "name": "face screaming in fear",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face screaming in fear",
+   "face",
+   "munch",
+   "scared",
+   "omg",
+   "alone",
+   "fearful",
+   "home",
+   "horror",
+   "scream",
+   "shocked"
+  ]
+ },
+ {
+  "emoji": "🤮",
+  "code": "1f92e",
+  "name": "face vomiting",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face vomiting",
+   "face",
+   "sick",
+   "barf",
+   "ill",
+   "mouth",
+   "open",
+   "puke",
+   "spew",
+   "throwing",
+   "up",
+   "vomit"
+  ]
+ },
+ {
+  "emoji": "🫩",
+  "code": "1fae9",
+  "name": "face with bags under eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with bags under eyes",
+   "tired",
+   "sleepy",
+   "exhausted"
+  ]
+ },
+ {
+  "emoji": "😵",
+  "code": "1f635",
+  "name": "face with crossed-out eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "dizzy face",
+   "spent",
+   "unconscious",
+   "xox",
+   "dizzy",
+   "cross",
+   "crossed",
+   "dead",
+   "eyes",
+   "knocked",
+   "out",
+   "spiral eyes"
+  ]
+ },
+ {
+  "emoji": "🫤",
+  "code": "1fae4",
+  "name": "face with diagonal mouth",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with diagonal mouth",
+   "skeptic",
+   "confuse",
+   "frustrated",
+   "indifferent",
+   "confused",
+   "disappointed",
+   "meh",
+   "skeptical",
+   "unsure"
+  ]
+ },
+ {
+  "emoji": "🤭",
+  "code": "1f92d",
+  "name": "face with hand over mouth",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with hand over mouth",
+   "face",
+   "whoops",
+   "shock",
+   "surprise",
+   "blushing",
+   "covering",
+   "eyes",
+   "quiet",
+   "smiling"
+  ]
+ },
+ {
+  "emoji": "🤕",
+  "code": "1f915",
+  "name": "face with head-bandage",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with head bandage",
+   "injured",
+   "clumsy",
+   "bandage",
+   "hurt",
+   "bandaged",
+   "injury"
+  ]
+ },
+ {
+  "emoji": "😷",
+  "code": "1f637",
+  "name": "face with medical mask",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with medical mask",
+   "face",
+   "sick",
+   "ill",
+   "disease",
+   "covid",
+   "cold",
+   "coronavirus",
+   "doctor",
+   "medicine",
+   "surgical"
+  ]
+ },
+ {
+  "emoji": "🧐",
+  "code": "1f9d0",
+  "name": "face with monocle",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with monocle",
+   "face",
+   "stuffy",
+   "wealthy",
+   "rich",
+   "exploration",
+   "inspection"
+  ]
+ },
+ {
+  "emoji": "🫢",
+  "code": "1fae2",
+  "name": "face with open eyes and hand over mouth",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with open eyes and hand over mouth",
+   "silence",
+   "secret",
+   "shock",
+   "surprise",
+   "amazement",
+   "awe",
+   "disbelief",
+   "embarrass",
+   "gasp",
+   "scared"
+  ]
+ },
+ {
+  "emoji": "😮",
+  "code": "1f62e",
+  "name": "face with open mouth",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with open mouth",
+   "face",
+   "surprise",
+   "impressed",
+   "wow",
+   "whoa",
+   ":O",
+   "surprised",
+   "sympathy"
+  ]
+ },
+ {
+  "emoji": "🫣",
+  "code": "1fae3",
+  "name": "face with peeking eye",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with peeking eye",
+   "scared",
+   "frightening",
+   "embarrassing",
+   "shy",
+   "captivated",
+   "peep",
+   "stare"
+  ]
+ },
+ {
+  "emoji": "🤨",
+  "code": "1f928",
+  "name": "face with raised eyebrow",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with raised eyebrow",
+   "face",
+   "distrust",
+   "scepticism",
+   "disapproval",
+   "disbelief",
+   "surprise",
+   "suspicious",
+   "colbert",
+   "mild",
+   "one",
+   "rock",
+   "skeptic"
+  ]
+ },
+ {
+  "emoji": "🙄",
+  "code": "1f644",
+  "name": "face with rolling eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with rolling eyes",
+   "face",
+   "eyeroll",
+   "frustrated",
+   "eye",
+   "roll"
+  ]
+ },
+ {
+  "emoji": "😵‍💫",
+  "code": "1f635_200d_1f4ab",
+  "name": "face with spiral eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with spiral eyes",
+   "sick",
+   "ill",
+   "confused",
+   "nauseous",
+   "nausea",
+   "dizzy",
+   "hypnotized",
+   "trouble",
+   "whoa"
+  ]
+ },
+ {
+  "emoji": "😤",
+  "code": "1f624",
+  "name": "face with steam from nose",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with steam from nose",
+   "face",
+   "gas",
+   "phew",
+   "proud",
+   "pride",
+   "triumph",
+   "airing",
+   "frustrated",
+   "grievances",
+   "look",
+   "mad",
+   "smug",
+   "steaming",
+   "won"
+  ]
+ },
+ {
+  "emoji": "🤬",
+  "code": "1f92c",
+  "name": "face with symbols on mouth",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with symbols on mouth",
+   "face",
+   "swearing",
+   "cursing",
+   "cussing",
+   "profanity",
+   "expletive",
+   "covering",
+   "foul",
+   "grawlix",
+   "over",
+   "serious"
+  ]
+ },
+ {
+  "emoji": "😂",
+  "code": "1f602",
+  "name": "face with tears of joy",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with tears of joy",
+   "face",
+   "cry",
+   "tears",
+   "weep",
+   "happy",
+   "happytears",
+   "haha",
+   "crying",
+   "laugh",
+   "laughing",
+   "lol",
+   "tear"
+  ]
+ },
+ {
+  "emoji": "🤒",
+  "code": "1f912",
+  "name": "face with thermometer",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with thermometer",
+   "sick",
+   "temperature",
+   "thermometer",
+   "cold",
+   "fever",
+   "covid",
+   "ill"
+  ]
+ },
+ {
+  "emoji": "😛",
+  "code": "1f61b",
+  "name": "face with tongue",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face with tongue",
+   "face",
+   "prank",
+   "childish",
+   "playful",
+   "mischievous",
+   "smile",
+   "tongue",
+   "cheeky",
+   "out",
+   "stuck"
+  ]
+ },
+ {
+  "emoji": "😶",
+  "code": "1f636",
+  "name": "face without mouth",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "face without mouth",
+   "face",
+   "blank",
+   "mouthless",
+   "mute",
+   "no",
+   "quiet",
+   "silence",
+   "silent"
+  ]
+ },
+ {
+  "emoji": "😨",
+  "code": "1f628",
+  "name": "fearful face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "fearful face",
+   "face",
+   "scared",
+   "terrified",
+   "nervous",
+   "fear",
+   "oops",
+   "shocked",
+   "surprised"
+  ]
+ },
+ {
+  "emoji": "🫯",
+  "code": "1faef",
+  "name": "fight cloud",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "fight cloud",
+   "brawl",
+   "conflict"
+  ]
+ },
+ {
+  "emoji": "😳",
+  "code": "1f633",
+  "name": "flushed face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "flushed face",
+   "face",
+   "blush",
+   "shy",
+   "flattered",
+   "blushing",
+   "dazed",
+   "embarrassed",
+   "eyes",
+   "open",
+   "shame",
+   "wide"
+  ]
+ },
+ {
+  "emoji": "☹️",
+  "code": "2639",
+  "name": "frowning face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "frowning face",
+   "face",
+   "sad",
+   "upset",
+   "frown",
+   "megafrown",
+   "unhappy",
+   "white"
+  ]
+ },
+ {
+  "emoji": "😦",
+  "code": "1f626",
+  "name": "frowning face with open mouth",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "frowning face with open mouth",
+   "face",
+   "aw",
+   "what",
+   "frown",
+   "yawning"
+  ]
+ },
+ {
+  "emoji": "👻",
+  "code": "1f47b",
+  "name": "ghost",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "ghost",
+   "halloween",
+   "spooky",
+   "scary",
+   "creature",
+   "disappear",
+   "face",
+   "fairy",
+   "fantasy",
+   "ghoul",
+   "monster",
+   "tale"
+  ]
+ },
+ {
+  "emoji": "💚",
+  "code": "1f49a",
+  "name": "green heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "green heart",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "nct"
+  ]
+ },
+ {
+  "emoji": "🩶",
+  "code": "1fa76",
+  "name": "grey heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grey heart",
+   "silver",
+   "monochrome"
+  ]
+ },
+ {
+  "emoji": "😬",
+  "code": "1f62c",
+  "name": "grimacing face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grimacing face",
+   "face",
+   "grimace",
+   "teeth",
+   "awkward",
+   "eek",
+   "nervous"
+  ]
+ },
+ {
+  "emoji": "😺",
+  "code": "1f63a",
+  "name": "grinning cat",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grinning cat",
+   "animal",
+   "cats",
+   "happy",
+   "smile",
+   "face",
+   "mouth",
+   "open",
+   "smiley",
+   "smiling"
+  ]
+ },
+ {
+  "emoji": "😸",
+  "code": "1f638",
+  "name": "grinning cat with smiling eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grinning cat with smiling eyes",
+   "animal",
+   "cats",
+   "smile",
+   "eye",
+   "face",
+   "grin",
+   "happy"
+  ]
+ },
+ {
+  "emoji": "😀",
+  "code": "1f600",
+  "name": "grinning face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grinning face",
+   "face",
+   "smile",
+   "happy",
+   "joy",
+   ":D",
+   "grin",
+   "smiley"
+  ]
+ },
+ {
+  "emoji": "😃",
+  "code": "1f603",
+  "name": "grinning face with big eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grinning face with big eyes",
+   "face",
+   "happy",
+   "joy",
+   "haha",
+   ":D",
+   ":)",
+   "smile",
+   "funny",
+   "mouth",
+   "open",
+   "smiley",
+   "smiling"
+  ]
+ },
+ {
+  "emoji": "😄",
+  "code": "1f604",
+  "name": "grinning face with smiling eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grinning face with smiling eyes",
+   "face",
+   "happy",
+   "joy",
+   "funny",
+   "haha",
+   "laugh",
+   "like",
+   ":D",
+   ":)",
+   "smile",
+   "eye",
+   "grin",
+   "mouth",
+   "open",
+   "pleased",
+   "smiley"
+  ]
+ },
+ {
+  "emoji": "😅",
+  "code": "1f605",
+  "name": "grinning face with sweat",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grinning face with sweat",
+   "face",
+   "hot",
+   "happy",
+   "laugh",
+   "sweat",
+   "smile",
+   "relief",
+   "cold",
+   "exercise",
+   "mouth",
+   "open",
+   "smiling"
+  ]
+ },
+ {
+  "emoji": "😆",
+  "code": "1f606",
+  "name": "grinning squinting face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "grinning squinting face",
+   "happy",
+   "joy",
+   "lol",
+   "satisfied",
+   "haha",
+   "face",
+   "glad",
+   "XD",
+   "laugh",
+   "big",
+   "closed",
+   "eyes",
+   "grin",
+   "laughing",
+   "mouth",
+   "open",
+   "smile",
+   "smiling",
+   "tightly"
+  ]
+ },
+ {
+  "emoji": "💗",
+  "code": "1f497",
+  "name": "growing heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "growing heart",
+   "like",
+   "love",
+   "affection",
+   "valentines",
+   "pink",
+   "excited",
+   "heartpulse",
+   "multiple",
+   "nervous",
+   "pulse",
+   "triple"
+  ]
+ },
+ {
+  "emoji": "🙂‍↔️",
+  "code": "1f642_200d_2194",
+  "name": "head shaking horizontally",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "head shaking horizontally",
+   "disapprove",
+   "indiffernt",
+   "left"
+  ]
+ },
+ {
+  "emoji": "🙂‍↕️",
+  "code": "1f642_200d_2195",
+  "name": "head shaking vertically",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "head shaking vertically",
+   "down",
+   "nod"
+  ]
+ },
+ {
+  "emoji": "🙉",
+  "code": "1f649",
+  "name": "hear-no-evil monkey",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "hear no evil monkey",
+   "animal",
+   "monkey",
+   "nature",
+   "covering",
+   "deaf",
+   "ears",
+   "face",
+   "forbidden",
+   "gesture",
+   "kikazaru",
+   "not",
+   "prohibited"
+  ]
+ },
+ {
+  "emoji": "💟",
+  "code": "1f49f",
+  "name": "heart decoration",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "heart decoration",
+   "purple-square",
+   "love",
+   "like"
+  ]
+ },
+ {
+  "emoji": "❣️",
+  "code": "2763",
+  "name": "heart exclamation",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "heart exclamation",
+   "decoration",
+   "love",
+   "above",
+   "an",
+   "as",
+   "dot",
+   "heavy",
+   "mark",
+   "ornament",
+   "punctuation",
+   "red"
+  ]
+ },
+ {
+  "emoji": "❤️‍🔥",
+  "code": "2764_200d_1f525",
+  "name": "heart on fire",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "heart on fire",
+   "passionate",
+   "enthusiastic",
+   "burn",
+   "love",
+   "lust",
+   "sacred"
+  ]
+ },
+ {
+  "emoji": "💘",
+  "code": "1f498",
+  "name": "heart with arrow",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "heart with arrow",
+   "love",
+   "like",
+   "heart",
+   "affection",
+   "valentines",
+   "cupid",
+   "lovestruck",
+   "romance"
+  ]
+ },
+ {
+  "emoji": "💝",
+  "code": "1f49d",
+  "name": "heart with ribbon",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "heart with ribbon",
+   "love",
+   "valentines",
+   "box",
+   "chocolate",
+   "chocolates",
+   "gift",
+   "valentine"
+  ]
+ },
+ {
+  "emoji": "🕳️",
+  "code": "1f573",
+  "name": "hole",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "hole",
+   "embarrassing"
+  ]
+ },
+ {
+  "emoji": "🥵",
+  "code": "1f975",
+  "name": "hot face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "hot face",
+   "face",
+   "feverish",
+   "heat",
+   "red",
+   "sweating",
+   "overheated",
+   "stroke"
+  ]
+ },
+ {
+  "emoji": "💯",
+  "code": "1f4af",
+  "name": "hundred points",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "hundred points",
+   "score",
+   "perfect",
+   "numbers",
+   "century",
+   "exam",
+   "quiz",
+   "test",
+   "pass",
+   "hundred",
+   "100",
+   "full",
+   "keep",
+   "symbol"
+  ]
+ },
+ {
+  "emoji": "😯",
+  "code": "1f62f",
+  "name": "hushed face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "hushed face",
+   "face",
+   "woo",
+   "shh",
+   "silence",
+   "speechless",
+   "stunned",
+   "surprise",
+   "surprised"
+  ]
+ },
+ {
+  "emoji": "💋",
+  "code": "1f48b",
+  "name": "kiss mark",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "kiss mark",
+   "face",
+   "lips",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "heart",
+   "kissing",
+   "lipstick",
+   "romance"
+  ]
+ },
+ {
+  "emoji": "😽",
+  "code": "1f63d",
+  "name": "kissing cat",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "kissing cat",
+   "animal",
+   "cats",
+   "kiss",
+   "closed",
+   "eye",
+   "eyes",
+   "face"
+  ]
+ },
+ {
+  "emoji": "😗",
+  "code": "1f617",
+  "name": "kissing face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "kissing face",
+   "love",
+   "like",
+   "face",
+   "3",
+   "valentines",
+   "infatuation",
+   "kiss",
+   "duck",
+   "kissy",
+   "whistling"
+  ]
+ },
+ {
+  "emoji": "😚",
+  "code": "1f61a",
+  "name": "kissing face with closed eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "kissing face with closed eyes",
+   "face",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "infatuation",
+   "kiss",
+   "eye",
+   "kissy"
+  ]
+ },
+ {
+  "emoji": "😙",
+  "code": "1f619",
+  "name": "kissing face with smiling eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "kissing face with smiling eyes",
+   "face",
+   "affection",
+   "valentines",
+   "infatuation",
+   "kiss",
+   "eye",
+   "kissy",
+   "smile",
+   "whistle",
+   "whistling"
+  ]
+ },
+ {
+  "emoji": "🩵",
+  "code": "1fa75",
+  "name": "light blue heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "light blue heart",
+   "ice",
+   "baby blue"
+  ]
+ },
+ {
+  "emoji": "😭",
+  "code": "1f62d",
+  "name": "loudly crying face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "loudly crying face",
+   "sobbing",
+   "face",
+   "cry",
+   "tears",
+   "sad",
+   "upset",
+   "depressed",
+   "bawling",
+   "sob",
+   "tear"
+  ]
+ },
+ {
+  "emoji": "💌",
+  "code": "1f48c",
+  "name": "love letter",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "love letter",
+   "email",
+   "like",
+   "affection",
+   "envelope",
+   "valentines",
+   "heart",
+   "mail",
+   "note",
+   "romance"
+  ]
+ },
+ {
+  "emoji": "🤥",
+  "code": "1f925",
+  "name": "lying face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "lying face",
+   "face",
+   "lie",
+   "pinocchio",
+   "liar",
+   "long",
+   "nose"
+  ]
+ },
+ {
+  "emoji": "🫠",
+  "code": "1fae0",
+  "name": "melting face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "melting face",
+   "hot",
+   "heat",
+   "disappear",
+   "dissolve",
+   "dread",
+   "liquid",
+   "melt",
+   "sarcasm"
+  ]
+ },
+ {
+  "emoji": "❤️‍🩹",
+  "code": "2764_200d_1fa79",
+  "name": "mending heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "mending heart",
+   "broken heart",
+   "bandage",
+   "wounded",
+   "bandaged",
+   "healing",
+   "healthier",
+   "improving",
+   "recovering",
+   "recuperating",
+   "unbroken",
+   "well"
+  ]
+ },
+ {
+  "emoji": "🤑",
+  "code": "1f911",
+  "name": "money-mouth face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "money mouth face",
+   "face",
+   "rich",
+   "dollar",
+   "money",
+   "eyes",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "🤢",
+  "code": "1f922",
+  "name": "nauseated face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "nauseated face",
+   "face",
+   "vomit",
+   "gross",
+   "green",
+   "sick",
+   "throw up",
+   "ill",
+   "barf",
+   "disgust",
+   "disgusted",
+   "green face"
+  ]
+ },
+ {
+  "emoji": "🤓",
+  "code": "1f913",
+  "name": "nerd face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "nerd face",
+   "face",
+   "nerdy",
+   "geek",
+   "dork",
+   "glasses",
+   "smiling"
+  ]
+ },
+ {
+  "emoji": "😐",
+  "code": "1f610",
+  "name": "neutral face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "neutral face",
+   "indifference",
+   "meh",
+   ":|",
+   "neutral",
+   "deadpan",
+   "faced",
+   "mouth",
+   "straight"
+  ]
+ },
+ {
+  "emoji": "👹",
+  "code": "1f479",
+  "name": "ogre",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "ogre",
+   "monster",
+   "red",
+   "mask",
+   "halloween",
+   "scary",
+   "creepy",
+   "devil",
+   "demon",
+   "japanese ogre",
+   "creature",
+   "face",
+   "fairy",
+   "fantasy",
+   "oni",
+   "tale",
+   "shrek"
+  ]
+ },
+ {
+  "emoji": "🧡",
+  "code": "1f9e1",
+  "name": "orange heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "orange heart",
+   "love",
+   "like",
+   "affection",
+   "valentines"
+  ]
+ },
+ {
+  "emoji": "🥳",
+  "code": "1f973",
+  "name": "partying face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "partying face",
+   "face",
+   "celebration",
+   "woohoo",
+   "birthday",
+   "hat",
+   "horn",
+   "party"
+  ]
+ },
+ {
+  "emoji": "😔",
+  "code": "1f614",
+  "name": "pensive face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "pensive face",
+   "face",
+   "sad",
+   "depressed",
+   "upset",
+   "dejected",
+   "sadface",
+   "sorrowful"
+  ]
+ },
+ {
+  "emoji": "😣",
+  "code": "1f623",
+  "name": "persevering face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "persevering face",
+   "face",
+   "sick",
+   "no",
+   "upset",
+   "oops",
+   "eyes",
+   "helpless",
+   "persevere",
+   "scrunched",
+   "struggling"
+  ]
+ },
+ {
+  "emoji": "💩",
+  "code": "1f4a9",
+  "name": "pile of poo",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "pile of poo",
+   "hankey",
+   "shitface",
+   "fail",
+   "turd",
+   "shit",
+   "comic",
+   "crap",
+   "dirt",
+   "dog",
+   "dung",
+   "face",
+   "monster",
+   "poop",
+   "smiling",
+   "bad",
+   "needs improvement"
+  ]
+ },
+ {
+  "emoji": "🩷",
+  "code": "1fa77",
+  "name": "pink heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "pink heart",
+   "valentines"
+  ]
+ },
+ {
+  "emoji": "🥺",
+  "code": "1f97a",
+  "name": "pleading face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "pleading face",
+   "face",
+   "begging",
+   "mercy",
+   "cry",
+   "tears",
+   "sad",
+   "grievance",
+   "eyes",
+   "glossy",
+   "puppy",
+   "simp"
+  ]
+ },
+ {
+  "emoji": "😾",
+  "code": "1f63e",
+  "name": "pouting cat",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "pouting cat",
+   "animal",
+   "cats",
+   "face",
+   "grumpy"
+  ]
+ },
+ {
+  "emoji": "💜",
+  "code": "1f49c",
+  "name": "purple heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "purple heart",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "bts",
+   "emoji"
+  ]
+ },
+ {
+  "emoji": "❤️",
+  "code": "2764",
+  "name": "red heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "red heart",
+   "love",
+   "like",
+   "valentines",
+   "black",
+   "heavy"
+  ]
+ },
+ {
+  "emoji": "😌",
+  "code": "1f60c",
+  "name": "relieved face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "relieved face",
+   "face",
+   "relaxed",
+   "phew",
+   "massage",
+   "happiness",
+   "content",
+   "pleased",
+   "whew"
+  ]
+ },
+ {
+  "emoji": "💞",
+  "code": "1f49e",
+  "name": "revolving hearts",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "revolving hearts",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "heart",
+   "two"
+  ]
+ },
+ {
+  "emoji": "🗯️",
+  "code": "1f5ef",
+  "name": "right anger bubble",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "right anger bubble",
+   "caption",
+   "speech",
+   "thinking",
+   "mad",
+   "angry",
+   "balloon",
+   "zag",
+   "zig"
+  ]
+ },
+ {
+  "emoji": "🤖",
+  "code": "1f916",
+  "name": "robot",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "robot",
+   "computer",
+   "machine",
+   "bot",
+   "face",
+   "monster"
+  ]
+ },
+ {
+  "emoji": "🤣",
+  "code": "1f923",
+  "name": "rolling on the floor laughing",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "rolling on the floor laughing",
+   "face",
+   "rolling",
+   "floor",
+   "laughing",
+   "lol",
+   "haha",
+   "rofl",
+   "laugh",
+   "rotfl"
+  ]
+ },
+ {
+  "emoji": "😥",
+  "code": "1f625",
+  "name": "sad but relieved face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "sad but relieved face",
+   "face",
+   "phew",
+   "sweat",
+   "nervous",
+   "disappointed",
+   "eyebrow",
+   "whew"
+  ]
+ },
+ {
+  "emoji": "🫡",
+  "code": "1fae1",
+  "name": "saluting face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "saluting face",
+   "respect",
+   "salute",
+   "ok",
+   "sunny",
+   "troops",
+   "yes"
+  ]
+ },
+ {
+  "emoji": "🙈",
+  "code": "1f648",
+  "name": "see-no-evil monkey",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "see no evil monkey",
+   "monkey",
+   "animal",
+   "nature",
+   "haha",
+   "blind",
+   "covering",
+   "eyes",
+   "face",
+   "forbidden",
+   "gesture",
+   "ignore",
+   "mizaru",
+   "not",
+   "prohibited"
+  ]
+ },
+ {
+  "emoji": "🫨",
+  "code": "1fae8",
+  "name": "shaking face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "shaking face",
+   "dizzy",
+   "shock",
+   "blurry",
+   "earthquake"
+  ]
+ },
+ {
+  "emoji": "🤫",
+  "code": "1f92b",
+  "name": "shushing face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "shushing face",
+   "face",
+   "quiet",
+   "shhh",
+   "closed",
+   "covering",
+   "finger",
+   "hush",
+   "lips",
+   "shh",
+   "shush",
+   "silence"
+  ]
+ },
+ {
+  "emoji": "💀",
+  "code": "1f480",
+  "name": "skull",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "skull",
+   "dead",
+   "skeleton",
+   "creepy",
+   "death",
+   "dead",
+   "body",
+   "danger",
+   "face",
+   "fairy",
+   "grey",
+   "halloween",
+   "monster",
+   "poison",
+   "tale"
+  ]
+ },
+ {
+  "emoji": "😴",
+  "code": "1f634",
+  "name": "sleeping face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "sleeping face",
+   "face",
+   "tired",
+   "sleepy",
+   "night",
+   "zzz",
+   "sleep",
+   "snoring"
+  ]
+ },
+ {
+  "emoji": "😪",
+  "code": "1f62a",
+  "name": "sleepy face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "sleepy face",
+   "face",
+   "tired",
+   "rest",
+   "nap",
+   "bubble",
+   "side",
+   "sleep",
+   "snot",
+   "tear"
+  ]
+ },
+ {
+  "emoji": "🙁",
+  "code": "1f641",
+  "name": "slightly frowning face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "slightly frowning face",
+   "face",
+   "frowning",
+   "disappointed",
+   "sad",
+   "upset",
+   "frown",
+   "unhappy"
+  ]
+ },
+ {
+  "emoji": "🙂",
+  "code": "1f642",
+  "name": "slightly smiling face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "slightly smiling face",
+   "face",
+   "smile",
+   "fine",
+   "happy",
+   "this"
+  ]
+ },
+ {
+  "emoji": "😻",
+  "code": "1f63b",
+  "name": "smiling cat with heart-eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling cat with heart eyes",
+   "animal",
+   "love",
+   "like",
+   "affection",
+   "cats",
+   "valentines",
+   "heart",
+   "eye",
+   "face",
+   "loving cat",
+   "shaped",
+   "smile"
+  ]
+ },
+ {
+  "emoji": "☺️",
+  "code": "263a",
+  "name": "smiling face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling face",
+   "face",
+   "blush",
+   "massage",
+   "happiness",
+   "happy",
+   "outlined",
+   "pleased",
+   "relaxed",
+   "smile",
+   "smiley",
+   "white"
+  ]
+ },
+ {
+  "emoji": "😇",
+  "code": "1f607",
+  "name": "smiling face with halo",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling face with halo",
+   "face",
+   "angel",
+   "heaven",
+   "halo",
+   "innocent",
+   "fairy",
+   "fantasy",
+   "smile",
+   "tale"
+  ]
+ },
+ {
+  "emoji": "😍",
+  "code": "1f60d",
+  "name": "smiling face with heart-eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling face with heart eyes",
+   "face",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "infatuation",
+   "crush",
+   "heart",
+   "eye",
+   "shaped",
+   "smile"
+  ]
+ },
+ {
+  "emoji": "🥰",
+  "code": "1f970",
+  "name": "smiling face with hearts",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling face with hearts",
+   "face",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "infatuation",
+   "crush",
+   "hearts",
+   "adore",
+   "eyes",
+   "three"
+  ]
+ },
+ {
+  "emoji": "😈",
+  "code": "1f608",
+  "name": "smiling face with horns",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling face with horns",
+   "devil",
+   "horns",
+   "evil",
+   "fairy",
+   "fantasy",
+   "happy",
+   "imp",
+   "purple",
+   "red devil",
+   "smile",
+   "tale"
+  ]
+ },
+ {
+  "emoji": "🤗",
+  "code": "1f917",
+  "name": "smiling face with open hands",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "hugging face",
+   "face",
+   "smile",
+   "hug",
+   "hands",
+   "hugs",
+   "open",
+   "smiling"
+  ]
+ },
+ {
+  "emoji": "😊",
+  "code": "1f60a",
+  "name": "smiling face with smiling eyes",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling face with smiling eyes",
+   "face",
+   "smile",
+   "happy",
+   "flushed",
+   "crush",
+   "embarrassed",
+   "shy",
+   "joy",
+   "^^",
+   "blush",
+   "eye",
+   "proud",
+   "smiley"
+  ]
+ },
+ {
+  "emoji": "😎",
+  "code": "1f60e",
+  "name": "smiling face with sunglasses",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling face with sunglasses",
+   "face",
+   "cool",
+   "smile",
+   "summer",
+   "beach",
+   "sunglass",
+   "best",
+   "bright",
+   "eye",
+   "eyewear",
+   "friends",
+   "glasses",
+   "mutual",
+   "snapchat",
+   "sun",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🥲",
+  "code": "1f972",
+  "name": "smiling face with tear",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smiling face with tear",
+   "sad",
+   "cry",
+   "pretend",
+   "grateful",
+   "happy",
+   "proud",
+   "relieved",
+   "smile",
+   "touched"
+  ]
+ },
+ {
+  "emoji": "😏",
+  "code": "1f60f",
+  "name": "smirking face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "smirking face",
+   "face",
+   "smile",
+   "mean",
+   "prank",
+   "smug",
+   "sarcasm",
+   "flirting",
+   "sexual",
+   "smirk",
+   "suggestive"
+  ]
+ },
+ {
+  "emoji": "🤧",
+  "code": "1f927",
+  "name": "sneezing face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "sneezing face",
+   "face",
+   "gesundheit",
+   "sneeze",
+   "sick",
+   "allergy",
+   "achoo"
+  ]
+ },
+ {
+  "emoji": "💖",
+  "code": "1f496",
+  "name": "sparkling heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "sparkling heart",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "excited",
+   "sparkle",
+   "sparkly",
+   "stars heart"
+  ]
+ },
+ {
+  "emoji": "🙊",
+  "code": "1f64a",
+  "name": "speak-no-evil monkey",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "speak no evil monkey",
+   "monkey",
+   "animal",
+   "nature",
+   "omg",
+   "covering",
+   "face",
+   "forbidden",
+   "gesture",
+   "hush",
+   "iwazaru",
+   "mouth",
+   "mute",
+   "not",
+   "no speaking",
+   "prohibited",
+   "ignore"
+  ]
+ },
+ {
+  "emoji": "💬",
+  "code": "1f4ac",
+  "name": "speech balloon",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "speech balloon",
+   "bubble",
+   "words",
+   "message",
+   "talk",
+   "chatting",
+   "chat",
+   "comic",
+   "comment",
+   "dialog",
+   "text",
+   "literals"
+  ]
+ },
+ {
+  "emoji": "😝",
+  "code": "1f61d",
+  "name": "squinting face with tongue",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "squinting face with tongue",
+   "face",
+   "prank",
+   "playful",
+   "mischievous",
+   "smile",
+   "tongue",
+   "closed",
+   "eye",
+   "eyes",
+   "horrible",
+   "out",
+   "stuck",
+   "taste",
+   "tightly"
+  ]
+ },
+ {
+  "emoji": "🤩",
+  "code": "1f929",
+  "name": "star-struck",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "star struck",
+   "face",
+   "smile",
+   "starry",
+   "eyes",
+   "grinning",
+   "excited",
+   "eyed",
+   "wow"
+  ]
+ },
+ {
+  "emoji": "🤔",
+  "code": "1f914",
+  "name": "thinking face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "thinking face",
+   "face",
+   "hmmm",
+   "think",
+   "consider",
+   "chin",
+   "shade",
+   "thinker",
+   "throwing",
+   "thumb"
+  ]
+ },
+ {
+  "emoji": "😫",
+  "code": "1f62b",
+  "name": "tired face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "tired face",
+   "sick",
+   "whine",
+   "upset",
+   "frustrated",
+   "distraught",
+   "exhausted",
+   "fed",
+   "up"
+  ]
+ },
+ {
+  "emoji": "💕",
+  "code": "1f495",
+  "name": "two hearts",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "two hearts",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "heart",
+   "pink",
+   "small"
+  ]
+ },
+ {
+  "emoji": "😒",
+  "code": "1f612",
+  "name": "unamused face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "unamused face",
+   "indifference",
+   "bored",
+   "straight face",
+   "serious",
+   "sarcasm",
+   "unimpressed",
+   "skeptical",
+   "dubious",
+   "ugh",
+   "side eye",
+   "dissatisfied",
+   "meh",
+   "unhappy"
+  ]
+ },
+ {
+  "emoji": "🙃",
+  "code": "1f643",
+  "name": "upside-down face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "upside down face",
+   "face",
+   "flipped",
+   "silly",
+   "smile",
+   "sarcasm"
+  ]
+ },
+ {
+  "emoji": "🙀",
+  "code": "1f640",
+  "name": "weary cat",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "weary cat",
+   "animal",
+   "cats",
+   "munch",
+   "scared",
+   "scream",
+   "face",
+   "fear",
+   "horror",
+   "oh",
+   "screaming",
+   "surprised"
+  ]
+ },
+ {
+  "emoji": "😩",
+  "code": "1f629",
+  "name": "weary face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "weary face",
+   "face",
+   "tired",
+   "sleepy",
+   "sad",
+   "frustrated",
+   "upset",
+   "distraught",
+   "wailing"
+  ]
+ },
+ {
+  "emoji": "🤍",
+  "code": "1f90d",
+  "name": "white heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "white heart",
+   "pure"
+  ]
+ },
+ {
+  "emoji": "😉",
+  "code": "1f609",
+  "name": "winking face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "winking face",
+   "face",
+   "happy",
+   "mischievous",
+   "secret",
+   ";)",
+   "smile",
+   "eye",
+   "flirt",
+   "wink",
+   "winky"
+  ]
+ },
+ {
+  "emoji": "😜",
+  "code": "1f61c",
+  "name": "winking face with tongue",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "winking face with tongue",
+   "face",
+   "prank",
+   "childish",
+   "playful",
+   "mischievous",
+   "smile",
+   "wink",
+   "tongue",
+   "crazy",
+   "eye",
+   "joke",
+   "out",
+   "silly",
+   "stuck"
+  ]
+ },
+ {
+  "emoji": "🥴",
+  "code": "1f974",
+  "name": "woozy face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "woozy face",
+   "face",
+   "dizzy",
+   "intoxicated",
+   "tipsy",
+   "wavy",
+   "drunk",
+   "eyes",
+   "groggy",
+   "mouth",
+   "uneven"
+  ]
+ },
+ {
+  "emoji": "😟",
+  "code": "1f61f",
+  "name": "worried face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "worried face",
+   "face",
+   "concern",
+   "nervous",
+   ":(",
+   "sad",
+   "sadface"
+  ]
+ },
+ {
+  "emoji": "🥱",
+  "code": "1f971",
+  "name": "yawning face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "yawning face",
+   "tired",
+   "sleepy",
+   "bored",
+   "yawn"
+  ]
+ },
+ {
+  "emoji": "💛",
+  "code": "1f49b",
+  "name": "yellow heart",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "yellow heart",
+   "love",
+   "like",
+   "affection",
+   "valentines",
+   "bf",
+   "gold",
+   "snapchat"
+  ]
+ },
+ {
+  "emoji": "🤪",
+  "code": "1f92a",
+  "name": "zany face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "zany face",
+   "face",
+   "goofy",
+   "crazy",
+   "excited",
+   "eye",
+   "eyes",
+   "grinning",
+   "large",
+   "one",
+   "small",
+   "wacky",
+   "wild"
+  ]
+ },
+ {
+  "emoji": "🤐",
+  "code": "1f910",
+  "name": "zipper-mouth face",
+  "group": "Smileys & Emotion",
+  "keywords": [
+   "zipper mouth face",
+   "face",
+   "sealed",
+   "zipper",
+   "secret",
+   "hush",
+   "lips",
+   "silence",
+   "zip"
+  ]
+ },
+ {
+  "emoji": "♒",
+  "code": "2652",
+  "name": "Aquarius",
+  "group": "Symbols",
+  "keywords": [
+   "aquarius",
+   "sign",
+   "purple-square",
+   "zodiac",
+   "astrology",
+   "bearer",
+   "water"
+  ]
+ },
+ {
+  "emoji": "♈",
+  "code": "2648",
+  "name": "Aries",
+  "group": "Symbols",
+  "keywords": [
+   "aries",
+   "sign",
+   "purple-square",
+   "zodiac",
+   "astrology",
+   "ram"
+  ]
+ },
+ {
+  "emoji": "🆒",
+  "code": "1f192",
+  "name": "COOL button",
+  "group": "Symbols",
+  "keywords": [
+   "cool button",
+   "words",
+   "blue-square",
+   "sign",
+   "square",
+   "squared"
+  ]
+ },
+ {
+  "emoji": "♋",
+  "code": "264b",
+  "name": "Cancer",
+  "group": "Symbols",
+  "keywords": [
+   "cancer",
+   "sign",
+   "zodiac",
+   "purple-square",
+   "astrology",
+   "crab"
+  ]
+ },
+ {
+  "emoji": "♑",
+  "code": "2651",
+  "name": "Capricorn",
+  "group": "Symbols",
+  "keywords": [
+   "capricorn",
+   "sign",
+   "zodiac",
+   "purple-square",
+   "astrology",
+   "goat"
+  ]
+ },
+ {
+  "emoji": "🆓",
+  "code": "1f193",
+  "name": "FREE button",
+  "group": "Symbols",
+  "keywords": [
+   "free button",
+   "blue-square",
+   "words",
+   "sign",
+   "squared"
+  ]
+ },
+ {
+  "emoji": "♊",
+  "code": "264a",
+  "name": "Gemini",
+  "group": "Symbols",
+  "keywords": [
+   "gemini",
+   "sign",
+   "zodiac",
+   "purple-square",
+   "astrology",
+   "twins"
+  ]
+ },
+ {
+  "emoji": "♌",
+  "code": "264c",
+  "name": "Leo",
+  "group": "Symbols",
+  "keywords": [
+   "leo",
+   "sign",
+   "purple-square",
+   "zodiac",
+   "astrology",
+   "lion"
+  ]
+ },
+ {
+  "emoji": "♎",
+  "code": "264e",
+  "name": "Libra",
+  "group": "Symbols",
+  "keywords": [
+   "libra",
+   "sign",
+   "purple-square",
+   "zodiac",
+   "astrology",
+   "balance",
+   "justice",
+   "scales"
+  ]
+ },
+ {
+  "emoji": "🆕",
+  "code": "1f195",
+  "name": "NEW button",
+  "group": "Symbols",
+  "keywords": [
+   "new button",
+   "blue-square",
+   "words",
+   "start",
+   "fresh",
+   "sign",
+   "squared"
+  ]
+ },
+ {
+  "emoji": "🆗",
+  "code": "1f197",
+  "name": "OK button",
+  "group": "Symbols",
+  "keywords": [
+   "ok button",
+   "good",
+   "agree",
+   "yes",
+   "blue-square",
+   "okay",
+   "sign",
+   "square",
+   "squared"
+  ]
+ },
+ {
+  "emoji": "⛎",
+  "code": "26ce",
+  "name": "Ophiuchus",
+  "group": "Symbols",
+  "keywords": [
+   "ophiuchus",
+   "sign",
+   "purple-square",
+   "constellation",
+   "astrology",
+   "bearer",
+   "serpent",
+   "snake",
+   "zodiac"
+  ]
+ },
+ {
+  "emoji": "♓",
+  "code": "2653",
+  "name": "Pisces",
+  "group": "Symbols",
+  "keywords": [
+   "pisces",
+   "purple-square",
+   "sign",
+   "zodiac",
+   "astrology",
+   "fish"
+  ]
+ },
+ {
+  "emoji": "🆘",
+  "code": "1f198",
+  "name": "SOS button",
+  "group": "Symbols",
+  "keywords": [
+   "sos button",
+   "help",
+   "red-square",
+   "words",
+   "emergency",
+   "911",
+   "distress",
+   "sign",
+   "signal",
+   "squared"
+  ]
+ },
+ {
+  "emoji": "♐",
+  "code": "2650",
+  "name": "Sagittarius",
+  "group": "Symbols",
+  "keywords": [
+   "sagittarius",
+   "sign",
+   "zodiac",
+   "purple-square",
+   "astrology",
+   "archer"
+  ]
+ },
+ {
+  "emoji": "♏",
+  "code": "264f",
+  "name": "Scorpio",
+  "group": "Symbols",
+  "keywords": [
+   "scorpio",
+   "sign",
+   "zodiac",
+   "purple-square",
+   "astrology",
+   "scorpion",
+   "scorpius"
+  ]
+ },
+ {
+  "emoji": "♉",
+  "code": "2649",
+  "name": "Taurus",
+  "group": "Symbols",
+  "keywords": [
+   "taurus",
+   "purple-square",
+   "sign",
+   "zodiac",
+   "astrology",
+   "bull",
+   "ox"
+  ]
+ },
+ {
+  "emoji": "🆙",
+  "code": "1f199",
+  "name": "UP! button",
+  "group": "Symbols",
+  "keywords": [
+   "up button",
+   "blue-square",
+   "above",
+   "high",
+   "exclamation",
+   "level",
+   "mark",
+   "sign",
+   "squared",
+   "up!"
+  ]
+ },
+ {
+  "emoji": "♍",
+  "code": "264d",
+  "name": "Virgo",
+  "group": "Symbols",
+  "keywords": [
+   "virgo",
+   "sign",
+   "zodiac",
+   "purple-square",
+   "astrology",
+   "maiden",
+   "virgin"
+  ]
+ },
+ {
+  "emoji": "☣️",
+  "code": "2623",
+  "name": "biohazard",
+  "group": "Symbols",
+  "keywords": [
+   "biohazard",
+   "danger",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "✅",
+  "code": "2705",
+  "name": "check mark button",
+  "group": "Symbols",
+  "keywords": [
+   "check mark button",
+   "green-square",
+   "ok",
+   "agree",
+   "vote",
+   "election",
+   "answer",
+   "tick",
+   "green",
+   "heavy",
+   "symbol",
+   "white",
+   "pass tests"
+  ]
+ },
+ {
+  "emoji": "❌",
+  "code": "274c",
+  "name": "cross mark",
+  "group": "Symbols",
+  "keywords": [
+   "cross mark",
+   "no",
+   "delete",
+   "remove",
+   "cancel",
+   "red",
+   "multiplication",
+   "multiply",
+   "x"
+  ]
+ },
+ {
+  "emoji": "‼️",
+  "code": "203c",
+  "name": "double exclamation mark",
+  "group": "Symbols",
+  "keywords": [
+   "double exclamation mark",
+   "exclamation",
+   "surprise",
+   "bangbang",
+   "punctuation",
+   "red"
+  ]
+ },
+ {
+  "emoji": "⁉️",
+  "code": "2049",
+  "name": "exclamation question mark",
+  "group": "Symbols",
+  "keywords": [
+   "exclamation question mark",
+   "wat",
+   "punctuation",
+   "surprise",
+   "interrobang",
+   "red"
+  ]
+ },
+ {
+  "emoji": "♾️",
+  "code": "267e",
+  "name": "infinity",
+  "group": "Symbols",
+  "keywords": [
+   "infinity",
+   "forever",
+   "paper",
+   "permanent",
+   "sign",
+   "unbounded",
+   "universal"
+  ]
+ },
+ {
+  "emoji": "🚮",
+  "code": "1f6ae",
+  "name": "litter in bin sign",
+  "group": "Symbols",
+  "keywords": [
+   "litter in bin sign",
+   "blue-square",
+   "sign",
+   "human",
+   "info",
+   "its",
+   "litterbox",
+   "person",
+   "place",
+   "put",
+   "symbol",
+   "trash"
+  ]
+ },
+ {
+  "emoji": "📴",
+  "code": "1f4f4",
+  "name": "mobile phone off",
+  "group": "Symbols",
+  "keywords": [
+   "mobile phone off",
+   "mute",
+   "orange-square",
+   "silence",
+   "quiet",
+   "cell",
+   "communication",
+   "telephone"
+  ]
+ },
+ {
+  "emoji": "☮️",
+  "code": "262e",
+  "name": "peace symbol",
+  "group": "Symbols",
+  "keywords": [
+   "peace symbol",
+   "hippie",
+   "sign"
+  ]
+ },
+ {
+  "emoji": "➕",
+  "code": "2795",
+  "name": "plus",
+  "group": "Symbols",
+  "keywords": [
+   "plus sign",
+   "math",
+   "calculation",
+   "addition",
+   "more",
+   "increase",
+   "heavy",
+   "symbol",
+   "add"
+  ]
+ },
+ {
+  "emoji": "☢️",
+  "code": "2622",
+  "name": "radioactive",
+  "group": "Symbols",
+  "keywords": [
+   "radioactive",
+   "nuclear",
+   "danger",
+   "international",
+   "radiation",
+   "sign",
+   "symbol"
+  ]
+ },
+ {
+  "emoji": "❗",
+  "code": "2757",
+  "name": "red exclamation mark",
+  "group": "Symbols",
+  "keywords": [
+   "exclamation mark",
+   "heavy exclamation mark",
+   "danger",
+   "surprise",
+   "punctuation",
+   "wow",
+   "warning",
+   "bang",
+   "red",
+   "symbol"
+  ]
+ },
+ {
+  "emoji": "❓",
+  "code": "2753",
+  "name": "red question mark",
+  "group": "Symbols",
+  "keywords": [
+   "question mark",
+   "doubt",
+   "confused",
+   "black",
+   "ornament",
+   "punctuation",
+   "red"
+  ]
+ },
+ {
+  "emoji": "🫟",
+  "code": "1fadf",
+  "name": "splatter",
+  "group": "Symbols",
+  "keywords": [
+   "splatter"
+  ]
+ },
+ {
+  "emoji": "™️",
+  "code": "2122",
+  "name": "trade mark",
+  "group": "Symbols",
+  "keywords": [
+   "trade mark",
+   "trademark",
+   "brand",
+   "law",
+   "legal",
+   "sign",
+   "tm"
+  ]
+ },
+ {
+  "emoji": "⚠️",
+  "code": "26a0",
+  "name": "warning",
+  "group": "Symbols",
+  "keywords": [
+   "warning",
+   "exclamation",
+   "wip",
+   "alert",
+   "error",
+   "problem",
+   "issue",
+   "sign",
+   "symbol"
+  ]
+ },
+ {
+  "emoji": "☯️",
+  "code": "262f",
+  "name": "yin yang",
+  "group": "Symbols",
+  "keywords": [
+   "yin yang",
+   "balance",
+   "religion",
+   "tao",
+   "taoist"
+  ]
+ },
+ {
+  "emoji": "✈️",
+  "code": "2708",
+  "name": "airplane",
+  "group": "Travel & Places",
+  "keywords": [
+   "airplane",
+   "vehicle",
+   "transportation",
+   "flight",
+   "fly",
+   "aeroplane",
+   "plane"
+  ]
+ },
+ {
+  "emoji": "🛬",
+  "code": "1f6ec",
+  "name": "airplane arrival",
+  "group": "Travel & Places",
+  "keywords": [
+   "airplane arrival",
+   "airport",
+   "flight",
+   "boarding",
+   "aeroplane",
+   "arrivals",
+   "arriving",
+   "landing",
+   "plane",
+   "vehicle"
+  ]
+ },
+ {
+  "emoji": "🛫",
+  "code": "1f6eb",
+  "name": "airplane departure",
+  "group": "Travel & Places",
+  "keywords": [
+   "airplane departure",
+   "airport",
+   "flight",
+   "landing",
+   "aeroplane",
+   "departures",
+   "off",
+   "plane",
+   "taking",
+   "vehicle"
+  ]
+ },
+ {
+  "emoji": "⏰",
+  "code": "23f0",
+  "name": "alarm clock",
+  "group": "Travel & Places",
+  "keywords": [
+   "alarm clock",
+   "time",
+   "wake",
+   "morning"
+  ]
+ },
+ {
+  "emoji": "⚓",
+  "code": "2693",
+  "name": "anchor",
+  "group": "Travel & Places",
+  "keywords": [
+   "anchor",
+   "ship",
+   "ferry",
+   "sea",
+   "boat",
+   "admiralty",
+   "fisherman",
+   "pattern",
+   "tool"
+  ]
+ },
+ {
+  "emoji": "🚗",
+  "code": "1f697",
+  "name": "automobile",
+  "group": "Travel & Places",
+  "keywords": [
+   "automobile",
+   "red",
+   "transportation",
+   "vehicle",
+   "car",
+   "side"
+  ]
+ },
+ {
+  "emoji": "🛎️",
+  "code": "1f6ce",
+  "name": "bellhop bell",
+  "group": "Travel & Places",
+  "keywords": [
+   "bellhop bell",
+   "service",
+   "hotel"
+  ]
+ },
+ {
+  "emoji": "🚲",
+  "code": "1f6b2",
+  "name": "bicycle",
+  "group": "Travel & Places",
+  "keywords": [
+   "bicycle",
+   "bike",
+   "sports",
+   "exercise",
+   "hipster",
+   "push",
+   "vehicle"
+  ]
+ },
+ {
+  "emoji": "🚌",
+  "code": "1f68c",
+  "name": "bus",
+  "group": "Travel & Places",
+  "keywords": [
+   "bus",
+   "car",
+   "vehicle",
+   "transportation",
+   "school"
+  ]
+ },
+ {
+  "emoji": "🏕️",
+  "code": "1f3d5",
+  "name": "camping",
+  "group": "Travel & Places",
+  "keywords": [
+   "camping",
+   "photo",
+   "outdoors",
+   "tent",
+   "campsite"
+  ]
+ },
+ {
+  "emoji": "🛶",
+  "code": "1f6f6",
+  "name": "canoe",
+  "group": "Travel & Places",
+  "keywords": [
+   "canoe",
+   "boat",
+   "paddle",
+   "water",
+   "ship"
+  ]
+ },
+ {
+  "emoji": "🎠",
+  "code": "1f3a0",
+  "name": "carousel horse",
+  "group": "Travel & Places",
+  "keywords": [
+   "carousel horse",
+   "photo",
+   "carnival",
+   "activity",
+   "entertainment",
+   "fairground",
+   "go",
+   "merry",
+   "round"
+  ]
+ },
+ {
+  "emoji": "☁️",
+  "code": "2601",
+  "name": "cloud",
+  "group": "Travel & Places",
+  "keywords": [
+   "cloud",
+   "weather",
+   "sky",
+   "cloudy",
+   "overcast"
+  ]
+ },
+ {
+  "emoji": "🌩️",
+  "code": "1f329",
+  "name": "cloud with lightning",
+  "group": "Travel & Places",
+  "keywords": [
+   "cloud with lightning",
+   "weather",
+   "thunder"
+  ]
+ },
+ {
+  "emoji": "🌧️",
+  "code": "1f327",
+  "name": "cloud with rain",
+  "group": "Travel & Places",
+  "keywords": [
+   "cloud with rain",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "☄️",
+  "code": "2604",
+  "name": "comet",
+  "group": "Travel & Places",
+  "keywords": [
+   "comet",
+   "space"
+  ]
+ },
+ {
+  "emoji": "🚧",
+  "code": "1f6a7",
+  "name": "construction",
+  "group": "Travel & Places",
+  "keywords": [
+   "construction",
+   "wip",
+   "progress",
+   "caution",
+   "warning",
+   "barrier",
+   "black",
+   "roadwork",
+   "sign",
+   "striped",
+   "yellow",
+   "work in progress"
+  ]
+ },
+ {
+  "emoji": "🌀",
+  "code": "1f300",
+  "name": "cyclone",
+  "group": "Travel & Places",
+  "keywords": [
+   "cyclone",
+   "weather",
+   "swirl",
+   "blue",
+   "cloud",
+   "vortex",
+   "spiral",
+   "whirlpool",
+   "spin",
+   "tornado",
+   "hurricane",
+   "typhoon",
+   "dizzy",
+   "twister"
+  ]
+ },
+ {
+  "emoji": "🚚",
+  "code": "1f69a",
+  "name": "delivery truck",
+  "group": "Travel & Places",
+  "keywords": [
+   "delivery truck",
+   "cars",
+   "transportation",
+   "vehicle",
+   "resources"
+  ]
+ },
+ {
+  "emoji": "🏚️",
+  "code": "1f3da",
+  "name": "derelict house",
+  "group": "Travel & Places",
+  "keywords": [
+   "derelict house",
+   "abandon",
+   "evict",
+   "broken",
+   "building",
+   "abandoned",
+   "haunted",
+   "old"
+  ]
+ },
+ {
+  "emoji": "💧",
+  "code": "1f4a7",
+  "name": "droplet",
+  "group": "Travel & Places",
+  "keywords": [
+   "droplet",
+   "water",
+   "drip",
+   "faucet",
+   "spring",
+   "cold",
+   "comic",
+   "drop",
+   "sweat",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🎡",
+  "code": "1f3a1",
+  "name": "ferris wheel",
+  "group": "Travel & Places",
+  "keywords": [
+   "ferris wheel",
+   "photo",
+   "carnival",
+   "londoneye",
+   "activity",
+   "amusement",
+   "big",
+   "entertainment",
+   "fairground",
+   "observation",
+   "park"
+  ]
+ },
+ {
+  "emoji": "🔥",
+  "code": "1f525",
+  "name": "fire",
+  "group": "Travel & Places",
+  "keywords": [
+   "fire",
+   "hot",
+   "cook",
+   "flame",
+   "burn",
+   "lit",
+   "snapstreak",
+   "tool",
+   "remove"
+  ]
+ },
+ {
+  "emoji": "🌛",
+  "code": "1f31b",
+  "name": "first quarter moon face",
+  "group": "Travel & Places",
+  "keywords": [
+   "first quarter moon face",
+   "nature",
+   "twilight",
+   "planet",
+   "space",
+   "night",
+   "evening",
+   "sleep",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🛸",
+  "code": "1f6f8",
+  "name": "flying saucer",
+  "group": "Travel & Places",
+  "keywords": [
+   "flying saucer",
+   "transportation",
+   "vehicle",
+   "ufo",
+   "alien",
+   "extraterrestrial",
+   "fantasy",
+   "space"
+  ]
+ },
+ {
+  "emoji": "⛽",
+  "code": "26fd",
+  "name": "fuel pump",
+  "group": "Travel & Places",
+  "keywords": [
+   "fuel pump",
+   "gas station",
+   "petroleum",
+   "diesel",
+   "fuelpump",
+   "petrol"
+  ]
+ },
+ {
+  "emoji": "🌝",
+  "code": "1f31d",
+  "name": "full moon face",
+  "group": "Travel & Places",
+  "keywords": [
+   "full moon face",
+   "nature",
+   "twilight",
+   "planet",
+   "space",
+   "night",
+   "evening",
+   "sleep",
+   "bright",
+   "moonface",
+   "smiley",
+   "smiling",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🌎",
+  "code": "1f30e",
+  "name": "globe showing Americas",
+  "group": "Travel & Places",
+  "keywords": [
+   "globe showing americas",
+   "globe",
+   "world",
+   "USA",
+   "earth",
+   "international",
+   "planet"
+  ]
+ },
+ {
+  "emoji": "🌏",
+  "code": "1f30f",
+  "name": "globe showing Asia-Australia",
+  "group": "Travel & Places",
+  "keywords": [
+   "globe showing asia australia",
+   "globe",
+   "world",
+   "east",
+   "earth",
+   "international",
+   "planet"
+  ]
+ },
+ {
+  "emoji": "🌍",
+  "code": "1f30d",
+  "name": "globe showing Europe-Africa",
+  "group": "Travel & Places",
+  "keywords": [
+   "globe showing europe africa",
+   "globe",
+   "world",
+   "earth",
+   "international",
+   "planet"
+  ]
+ },
+ {
+  "emoji": "🌟",
+  "code": "1f31f",
+  "name": "glowing star",
+  "group": "Travel & Places",
+  "keywords": [
+   "glowing star",
+   "night",
+   "sparkle",
+   "awesome",
+   "good",
+   "magic",
+   "glittery",
+   "glow",
+   "shining",
+   "star2"
+  ]
+ },
+ {
+  "emoji": "⚡",
+  "code": "26a1",
+  "name": "high voltage",
+  "group": "Travel & Places",
+  "keywords": [
+   "high voltage",
+   "thunder",
+   "weather",
+   "lightning bolt",
+   "fast",
+   "zap",
+   "danger",
+   "electric",
+   "electricity",
+   "sign",
+   "thunderbolt",
+   "speed"
+  ]
+ },
+ {
+  "emoji": "♨️",
+  "code": "2668",
+  "name": "hot springs",
+  "group": "Travel & Places",
+  "keywords": [
+   "hot springs",
+   "bath",
+   "warm",
+   "relax",
+   "hotsprings",
+   "onsen",
+   "steam",
+   "steaming"
+  ]
+ },
+ {
+  "emoji": "⌛",
+  "code": "231b",
+  "name": "hourglass done",
+  "group": "Travel & Places",
+  "keywords": [
+   "hourglass done",
+   "time",
+   "clock",
+   "oldschool",
+   "limit",
+   "exam",
+   "quiz",
+   "test",
+   "sand",
+   "timer"
+  ]
+ },
+ {
+  "emoji": "⏳",
+  "code": "23f3",
+  "name": "hourglass not done",
+  "group": "Travel & Places",
+  "keywords": [
+   "hourglass not done",
+   "oldschool",
+   "time",
+   "countdown",
+   "flowing",
+   "sand",
+   "timer"
+  ]
+ },
+ {
+  "emoji": "🏠",
+  "code": "1f3e0",
+  "name": "house",
+  "group": "Travel & Places",
+  "keywords": [
+   "house",
+   "building",
+   "home"
+  ]
+ },
+ {
+  "emoji": "🛘",
+  "code": "1f6d8",
+  "name": "landslide",
+  "group": "Travel & Places",
+  "keywords": [
+   "landslide",
+   "disaster",
+   "accident"
+  ]
+ },
+ {
+  "emoji": "🌜",
+  "code": "1f31c",
+  "name": "last quarter moon face",
+  "group": "Travel & Places",
+  "keywords": [
+   "last quarter moon face",
+   "nature",
+   "twilight",
+   "planet",
+   "space",
+   "night",
+   "evening",
+   "sleep",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🚂",
+  "code": "1f682",
+  "name": "locomotive",
+  "group": "Travel & Places",
+  "keywords": [
+   "locomotive",
+   "transportation",
+   "vehicle",
+   "train",
+   "engine",
+   "railway",
+   "steam"
+  ]
+ },
+ {
+  "emoji": "🌌",
+  "code": "1f30c",
+  "name": "milky way",
+  "group": "Travel & Places",
+  "keywords": [
+   "milky way",
+   "photo",
+   "space",
+   "stars",
+   "galaxy",
+   "night",
+   "sky",
+   "universe",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🏍️",
+  "code": "1f3cd",
+  "name": "motorcycle",
+  "group": "Travel & Places",
+  "keywords": [
+   "motorcycle",
+   "race",
+   "sports",
+   "fast",
+   "motorbike",
+   "racing"
+  ]
+ },
+ {
+  "emoji": "🏞️",
+  "code": "1f3de",
+  "name": "national park",
+  "group": "Travel & Places",
+  "keywords": [
+   "national park",
+   "photo",
+   "environment",
+   "nature"
+  ]
+ },
+ {
+  "emoji": "🌚",
+  "code": "1f31a",
+  "name": "new moon face",
+  "group": "Travel & Places",
+  "keywords": [
+   "new moon face",
+   "nature",
+   "twilight",
+   "planet",
+   "space",
+   "night",
+   "evening",
+   "sleep",
+   "creepy",
+   "dark",
+   "molester",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🪂",
+  "code": "1fa82",
+  "name": "parachute",
+  "group": "Travel & Places",
+  "keywords": [
+   "parachute",
+   "fly",
+   "glide",
+   "hang",
+   "parasail",
+   "skydive"
+  ]
+ },
+ {
+  "emoji": "🚨",
+  "code": "1f6a8",
+  "name": "police car light",
+  "group": "Travel & Places",
+  "keywords": [
+   "police car light",
+   "police",
+   "ambulance",
+   "911",
+   "emergency",
+   "alert",
+   "error",
+   "pinged",
+   "law",
+   "legal",
+   "beacon",
+   "cars",
+   "car’s",
+   "emergency light",
+   "flashing",
+   "revolving",
+   "rotating",
+   "siren",
+   "vehicle",
+   "warning"
+  ]
+ },
+ {
+  "emoji": "🏎️",
+  "code": "1f3ce",
+  "name": "racing car",
+  "group": "Travel & Places",
+  "keywords": [
+   "racing car",
+   "sports",
+   "race",
+   "fast",
+   "formula",
+   "f1",
+   "one"
+  ]
+ },
+ {
+  "emoji": "🌈",
+  "code": "1f308",
+  "name": "rainbow",
+  "group": "Travel & Places",
+  "keywords": [
+   "rainbow",
+   "nature",
+   "happy",
+   "unicorn face",
+   "photo",
+   "sky",
+   "spring",
+   "gay",
+   "lgbt",
+   "pride",
+   "primary",
+   "rain",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🛟",
+  "code": "1f6df",
+  "name": "ring buoy",
+  "group": "Travel & Places",
+  "keywords": [
+   "ring buoy",
+   "life saver",
+   "life preserver",
+   "float",
+   "rescue",
+   "safety"
+  ]
+ },
+ {
+  "emoji": "🪐",
+  "code": "1fa90",
+  "name": "ringed planet",
+  "group": "Travel & Places",
+  "keywords": [
+   "ringed planet",
+   "outerspace",
+   "planets",
+   "saturn",
+   "saturnine",
+   "space"
+  ]
+ },
+ {
+  "emoji": "🪨",
+  "code": "1faa8",
+  "name": "rock",
+  "group": "Travel & Places",
+  "keywords": [
+   "rock",
+   "stone",
+   "boulder",
+   "construction",
+   "heavy",
+   "solid"
+  ]
+ },
+ {
+  "emoji": "🚀",
+  "code": "1f680",
+  "name": "rocket",
+  "group": "Travel & Places",
+  "keywords": [
+   "rocket",
+   "launch",
+   "ship",
+   "staffmode",
+   "NASA",
+   "outer space",
+   "outer space",
+   "fly",
+   "shuttle",
+   "vehicle",
+   "deploy"
+  ]
+ },
+ {
+  "emoji": "🎢",
+  "code": "1f3a2",
+  "name": "roller coaster",
+  "group": "Travel & Places",
+  "keywords": [
+   "roller coaster",
+   "carnival",
+   "playground",
+   "photo",
+   "fun",
+   "activity",
+   "amusement",
+   "entertainment",
+   "park",
+   "rollercoaster",
+   "theme"
+  ]
+ },
+ {
+  "emoji": "🛼",
+  "code": "1f6fc",
+  "name": "roller skate",
+  "group": "Travel & Places",
+  "keywords": [
+   "roller skate",
+   "footwear",
+   "sports",
+   "derby",
+   "inline"
+  ]
+ },
+ {
+  "emoji": "⛵",
+  "code": "26f5",
+  "name": "sailboat",
+  "group": "Travel & Places",
+  "keywords": [
+   "sailboat",
+   "ship",
+   "summer",
+   "transportation",
+   "water",
+   "sailing",
+   "boat",
+   "dinghy",
+   "resort",
+   "sea",
+   "vehicle",
+   "yacht"
+  ]
+ },
+ {
+  "emoji": "🛹",
+  "code": "1f6f9",
+  "name": "skateboard",
+  "group": "Travel & Places",
+  "keywords": [
+   "skateboard",
+   "board",
+   "skate"
+  ]
+ },
+ {
+  "emoji": "❄️",
+  "code": "2744",
+  "name": "snowflake",
+  "group": "Travel & Places",
+  "keywords": [
+   "snowflake",
+   "winter",
+   "season",
+   "cold",
+   "weather",
+   "christmas",
+   "xmas",
+   "snow",
+   "snowing"
+  ]
+ },
+ {
+  "emoji": "☃️",
+  "code": "2603",
+  "name": "snowman",
+  "group": "Travel & Places",
+  "keywords": [
+   "snowman",
+   "winter",
+   "season",
+   "cold",
+   "weather",
+   "christmas",
+   "xmas",
+   "frozen",
+   "snow",
+   "snowflakes",
+   "snowing"
+  ]
+ },
+ {
+  "emoji": "⛄",
+  "code": "26c4",
+  "name": "snowman without snow",
+  "group": "Travel & Places",
+  "keywords": [
+   "snowman without snow",
+   "winter",
+   "season",
+   "cold",
+   "weather",
+   "christmas",
+   "xmas",
+   "frozen",
+   "without snow",
+   "frosty",
+   "olaf"
+  ]
+ },
+ {
+  "emoji": "⭐",
+  "code": "2b50",
+  "name": "star",
+  "group": "Travel & Places",
+  "keywords": [
+   "star",
+   "night",
+   "yellow",
+   "gold",
+   "medium",
+   "white"
+  ]
+ },
+ {
+  "emoji": "🛑",
+  "code": "1f6d1",
+  "name": "stop sign",
+  "group": "Travel & Places",
+  "keywords": [
+   "stop sign",
+   "stop",
+   "octagonal"
+  ]
+ },
+ {
+  "emoji": "⛅",
+  "code": "26c5",
+  "name": "sun behind cloud",
+  "group": "Travel & Places",
+  "keywords": [
+   "sun behind cloud",
+   "weather",
+   "nature",
+   "cloudy",
+   "morning",
+   "fall",
+   "spring",
+   "partly",
+   "sunny"
+  ]
+ },
+ {
+  "emoji": "🌞",
+  "code": "1f31e",
+  "name": "sun with face",
+  "group": "Travel & Places",
+  "keywords": [
+   "sun with face",
+   "nature",
+   "morning",
+   "sky",
+   "bright",
+   "smiley",
+   "smiling",
+   "space",
+   "summer",
+   "sunface",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🌅",
+  "code": "1f305",
+  "name": "sunrise",
+  "group": "Travel & Places",
+  "keywords": [
+   "sunrise",
+   "morning",
+   "view",
+   "vacation",
+   "photo",
+   "sun",
+   "sunset",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🌄",
+  "code": "1f304",
+  "name": "sunrise over mountains",
+  "group": "Travel & Places",
+  "keywords": [
+   "sunrise over mountains",
+   "view",
+   "vacation",
+   "photo",
+   "morning",
+   "mountain",
+   "sun",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🌇",
+  "code": "1f307",
+  "name": "sunset",
+  "group": "Travel & Places",
+  "keywords": [
+   "sunset",
+   "photo",
+   "good morning",
+   "dawn",
+   "building",
+   "buildings",
+   "city",
+   "dusk",
+   "over",
+   "sun",
+   "sunrise",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🚕",
+  "code": "1f695",
+  "name": "taxi",
+  "group": "Travel & Places",
+  "keywords": [
+   "taxi",
+   "uber",
+   "vehicle",
+   "cars",
+   "transportation",
+   "new",
+   "side",
+   "taxicab",
+   "york"
+  ]
+ },
+ {
+  "emoji": "🌡️",
+  "code": "1f321",
+  "name": "thermometer",
+  "group": "Travel & Places",
+  "keywords": [
+   "thermometer",
+   "weather",
+   "temperature",
+   "hot",
+   "cold"
+  ]
+ },
+ {
+  "emoji": "🌪️",
+  "code": "1f32a",
+  "name": "tornado",
+  "group": "Travel & Places",
+  "keywords": [
+   "tornado",
+   "weather",
+   "cyclone",
+   "twister",
+   "cloud",
+   "whirlwind"
+  ]
+ },
+ {
+  "emoji": "🚜",
+  "code": "1f69c",
+  "name": "tractor",
+  "group": "Travel & Places",
+  "keywords": [
+   "tractor",
+   "vehicle",
+   "car",
+   "farming",
+   "agriculture",
+   "farm"
+  ]
+ },
+ {
+  "emoji": "☂️",
+  "code": "2602",
+  "name": "umbrella",
+  "group": "Travel & Places",
+  "keywords": [
+   "umbrella",
+   "weather",
+   "spring",
+   "clothing",
+   "open",
+   "rain"
+  ]
+ },
+ {
+  "emoji": "🚦",
+  "code": "1f6a6",
+  "name": "vertical traffic light",
+  "group": "Travel & Places",
+  "keywords": [
+   "vertical traffic light",
+   "transportation",
+   "driving",
+   "semaphore",
+   "signal"
+  ]
+ },
+ {
+  "emoji": "🌋",
+  "code": "1f30b",
+  "name": "volcano",
+  "group": "Travel & Places",
+  "keywords": [
+   "volcano",
+   "photo",
+   "nature",
+   "disaster",
+   "eruption",
+   "mountain",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🌊",
+  "code": "1f30a",
+  "name": "water wave",
+  "group": "Travel & Places",
+  "keywords": [
+   "water wave",
+   "sea",
+   "water",
+   "wave",
+   "nature",
+   "tsunami",
+   "disaster",
+   "beach",
+   "ocean",
+   "waves",
+   "weather"
+  ]
+ },
+ {
+  "emoji": "🌬️",
+  "code": "1f32c",
+  "name": "wind face",
+  "group": "Travel & Places",
+  "keywords": [
+   "wind face",
+   "gust",
+   "air",
+   "blow",
+   "blowing",
+   "cloud",
+   "mother",
+   "nature",
+   "weather"
+  ]
+ }
+]
