@@ -1,0 +1,5 @@
+# Indirilen ham kaynaklar (tools/fetch_sources.py ile yeniden uretilir)
+tools/.cache/
+__pycache__/
+*.pyc
+.DS_Store
