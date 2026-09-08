@@ -1,5 +1,5 @@
 {
- "total": 6000,
+ "total": 6250,
  "shardSize": 250,
  "shards": [
   {
@@ -96,6 +96,10 @@
   },
   {
    "file": "023.json",
+   "count": 250
+  },
+  {
+   "file": "024.json",
    "count": 250
   }
  ]
