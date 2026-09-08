@@ -171,6 +171,79 @@ def load_cefr_candidates():
 
 # --------------------------------------------------------------------------
 
+def variant_key(word):
+    """Yazim varyantlarini tek anahtara indirger (abridgement/abridgment)."""
+    k = word
+    for a, b in (("ise", "ize"), ("isation", "ization"), ("our", "or"),
+                 ("ement", "ment"), ("ogue", "og"), ("aegis", "egis"),
+                 ("ae", "e"), ("oe", "e"), ("ll", "l")):
+        k = k.replace(a, b)
+    return k
+
+
+def edit_distance(a, b, cap=2):
+    if abs(len(a) - len(b)) > cap:
+        return cap + 1
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i]
+        for j, cb in enumerate(b, 1):
+            cur.append(min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (ca != cb)))
+        if min(cur) > cap:
+            return cap + 1
+        prev = cur
+    return prev[-1]
+
+
+def word_root(word, wn):
+    """Kelimenin kok bicimi. 'abbreviated'/'abbreviating' -> 'abbreviate'."""
+    for tag in ("v", "n", "a", "r"):
+        lemma = wn.morphy(word, tag)
+        if lemma and lemma != word:
+            return lemma
+    return word
+
+
+def deduplicate(rows, wn, stats):
+    """Cekimli bicimleri ve es yazim varyantlarini eler.
+
+    Sira bagimsizdir: her grupta once sozluk formu, o yoksa en sik kullanilan
+    kelime kalir.
+    """
+    # 1) kok bicime gore grupla (abbreviate / abbreviated / abbreviating)
+    groups = collections.defaultdict(list)
+    for row in rows:
+        groups[word_root(row["word"], wn)].append(row)
+
+    survivors = []
+    for root, members in groups.items():
+        if len(members) > 1:
+            stats["cekim_tekrari"] += len(members) - 1
+        members.sort(key=lambda r: (r["word"] != root, -r["freq"]))
+        survivors.append(members[0])
+
+    # 2) yazim varyanti ve ayni tanimli yakin yazim
+    survivors.sort(key=lambda r: -r["freq"])
+    kept = {}
+    by_variant = {}
+    by_defn = collections.defaultdict(list)
+    for row in survivors:
+        word = row["word"]
+        vk = variant_key(word)
+        if vk in by_variant:
+            stats["yazim_varyanti"] += 1
+            continue
+        if any(other.startswith(word) or word.startswith(other)
+               or edit_distance(word, other) <= 2
+               for other in by_defn[row["defn_en"]]):
+            stats["es_anlamli_varyant"] += 1
+            continue
+        kept[word] = row
+        by_variant[vk] = word
+        by_defn[row["defn_en"]].append(word)
+    return list(kept.values())
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=8500)
@@ -270,6 +343,7 @@ def main():
             "tr_source": source,
         })
 
+    rows = deduplicate(rows, wn, stats)
     rows.sort(key=lambda r: -r["freq"])
     selected = rows[:args.limit]
     selected.sort(key=lambda r: r["word"])

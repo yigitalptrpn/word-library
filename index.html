@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="C1 seviyesi Ingilizce kelime kutuphanesi - rastgele kelime kartlari, ornek cumleler ve Turkce anlamlar.">
+<meta name="color-scheme" content="light dark">
+<title>Kelime Kütüphanesi — C1</title>
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>📚</text></svg>">
+</head>
+<body>
+
+<header class="bar">
+  <h1 class="brand">Kelime Kütüphanesi <span class="brand-badge">C1</span></h1>
+  <div class="bar-actions">
+    <button id="themeBtn" class="icon-btn" type="button" aria-label="Temayı değiştir" title="Tema">
+      <span aria-hidden="true">◐</span>
+    </button>
+    <button id="settingsBtn" class="icon-btn" type="button" aria-label="Ayarlar" title="Ayarlar"
+            aria-expanded="false" aria-controls="settings">
+      <span aria-hidden="true">⚙</span>
+    </button>
+  </div>
+</header>
+
+<main class="stage">
+
+  <section id="loading" class="panel">
+    <div class="spinner" aria-hidden="true"></div>
+    <p>Kütüphane yükleniyor…</p>
+  </section>
+
+  <section id="error" class="panel" hidden>
+    <h2>Kütüphane yüklenemedi</h2>
+    <p id="errorMsg" class="muted"></p>
+    <button class="btn btn-primary" type="button" onclick="location.reload()">Yeniden dene</button>
+  </section>
+
+  <section id="finished" class="panel" hidden>
+    <p class="finished-mark" aria-hidden="true">✓</p>
+    <h2>Hepsi bu kadar!</h2>
+    <p class="muted">Kütüphanedeki bütün kelimeleri “biliyorum” olarak işaretlediniz.</p>
+    <button id="restartBtn" class="btn btn-primary" type="button">İlerlemeyi sıfırla</button>
+  </section>
+
+  <article id="card" class="card" hidden aria-live="polite">
+    <div id="visual" class="visual" aria-hidden="true"></div>
+
+    <div class="card-body">
+      <div class="word-row">
+        <h2 id="word" class="word"></h2>
+        <span id="pos" class="tag"></span>
+        <span id="cefr" class="tag tag-level"></span>
+      </div>
+
+      <p id="sentence" class="sentence"></p>
+
+      <div id="meaning" class="meaning" hidden>
+        <p class="meaning-tr" id="tr"></p>
+        <p class="meaning-en" id="defn"></p>
+      </div>
+
+      <button id="revealBtn" class="reveal" type="button">
+        Anlamı göster <kbd>boşluk</kbd>
+      </button>
+    </div>
+
+    <div class="actions">
+      <button id="knownBtn" class="btn btn-known" type="button">
+        Biliyorum <kbd>K</kbd>
+      </button>
+      <button id="nextBtn" class="btn btn-primary" type="button">
+        Sonraki <kbd>→</kbd>
+      </button>
+    </div>
+  </article>
+
+  <footer class="status">
+    <div class="progress" role="progressbar" aria-labelledby="statusText"
+         aria-valuemin="0" aria-valuemax="100" id="progressBar">
+      <div id="progressFill" class="progress-fill"></div>
+    </div>
+    <p id="statusText" class="status-text"></p>
+    <button id="undoBtn" class="link-btn" type="button" hidden>Son işareti geri al</button>
+  </footer>
+
+</main>
+
+<div id="settings" class="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="settingsTitle">
+  <div class="sheet-inner">
+    <h2 id="settingsTitle">Ayarlar</h2>
+
+    <p class="muted" id="settingsStats"></p>
+
+    <div class="sheet-actions">
+      <button id="exportBtn" class="btn" type="button">İlerlemeyi dışa aktar</button>
+      <button id="importBtn" class="btn" type="button">İlerlemeyi içe aktar</button>
+      <button id="resetBtn" class="btn btn-danger" type="button">İlerlemeyi sıfırla</button>
+    </div>
+    <input id="importFile" type="file" accept="application/json,.json" hidden>
+
+    <p class="muted small">
+      İlerlemeniz yalnızca bu tarayıcıda saklanır. Başka bir cihaza taşımak veya
+      yedeklemek için dışa aktarın.
+    </p>
+
+    <hr>
+
+    <details>
+      <summary>Klavye kısayolları</summary>
+      <ul class="keys">
+        <li><kbd>boşluk</kbd> anlamı göster</li>
+        <li><kbd>→</kbd> / <kbd>enter</kbd> sonraki kelime</li>
+        <li><kbd>K</kbd> biliyorum, bir daha gösterme</li>
+        <li><kbd>Z</kbd> son işareti geri al</li>
+      </ul>
+      <p class="muted small">Dokunmatik ekranda kartı sola kaydırın: sonraki. Sağa kaydırın: biliyorum.</p>
+    </details>
+
+    <button id="closeSettings" class="btn btn-primary" type="button">Kapat</button>
+  </div>
+</div>
+
+<script src="assets/visual.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
