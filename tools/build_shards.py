@@ -23,17 +23,17 @@ def main():
     ready = [r for r in rows if r["word"] in sentences]
     manifest_shards = []
     for index, chunk in sh.shards(ready):
-        payload = [
-            {
+        payload = []
+        for r in chunk:
+            rec = sentences[r["word"]]
+            payload.append({
                 "w": r["word"],
-                "p": r["pos"],
+                "p": rec.get("p", r["pos"]),
                 "c": r["cefr"],
-                "s": sentences[r["word"]],
-                "t": r["tr"],
-                "d": r["defn_en"],
-            }
-            for r in chunk
-        ]
+                "s": rec["s"],
+                "t": rec.get("t", r["tr"]),
+                "d": rec.get("d", r["defn_en"]),
+            })
         name = f"{index:03d}.json"
         with open(os.path.join(sh.DATA_DIR, name), "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))

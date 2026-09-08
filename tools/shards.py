@@ -30,12 +30,25 @@ def sentence_path(index):
     return os.path.join(SENT_DIR, f"{index:03d}.json")
 
 
+def normalize(entry):
+    """Cumle kaydini {s, d?, t?} bicimine getirir.
+
+    Kayit duz metin olabilir; sozluk verildiginde 'd' (Ingilizce tanim) ve
+    't' (Turkce karsiliklar) uretilmis veriyi ezer. Bu, WordNet'in ilk
+    anlaminin nadir bir kullanim oldugu durumlari (ornegin 'aback')
+    duzeltmek icindir.
+    """
+    if isinstance(entry, str):
+        return {"s": entry}
+    return dict(entry)
+
+
 def load_sentences(index):
     path = sentence_path(index)
     if not os.path.exists(path):
         return {}
     with open(path, encoding="utf-8") as f:
-        return json.load(f)
+        return {k: normalize(v) for k, v in json.load(f).items()}
 
 
 def load_all_sentences():

@@ -58,10 +58,11 @@ def check_shard(index, rows, sentences, seen, errors):
     done = 0
     for row in rows:
         word = row["word"]
-        s = sentences.get(word)
-        if s is None:
+        rec = sentences.get(word)
+        if rec is None:
             continue
         done += 1
+        s = rec["s"]
         toks = re.findall(r"[a-z']+", s.lower())
         if not (inflections(word) & set(toks)):
             errors.append(f"{index:03d}  '{word}' cumlede gecmiyor: {s}")
