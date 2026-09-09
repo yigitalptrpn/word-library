@@ -4,6 +4,7 @@
 Yalnizca ornek cumlesi yazilmis kelimeler yayina girer; boylece cumleler
 yazildikca kutuphane buyur ve uygulama her an calisir durumda kalir.
 """
+import hashlib
 import json
 import os
 import re
@@ -84,9 +85,23 @@ def main():
             json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))
         manifest_shards.append({"file": name, "count": len(payload)})
 
+    # Veri surumu: shard'lar + sozluk uzerinden kisa bir icerik ozeti.
+    # Uygulama shard ve sozluk adreslerine ?v=<surum> ekler; boylece yeni yayin
+    # tarayicinin onbellegindeki eski veriyi aninda gecersiz kilar. Bu olmadan
+    # 'force-cache' bayrağı bayat shard'lari suresiz kullaniyordu.
+    digest = hashlib.sha1()
+    for s in manifest_shards:
+        with open(os.path.join(sh.DATA_DIR, s["file"]), "rb") as f:
+            digest.update(f.read())
+    lexicon_path = os.path.join(sh.ROOT, "data", "lexicon.json")
+    if os.path.exists(lexicon_path):
+        with open(lexicon_path, "rb") as f:
+            digest.update(f.read())
+
     manifest = {
         "total": len(ready),
         "shardSize": sh.SHARD_SIZE,
+        "version": digest.hexdigest()[:12],
         "shards": manifest_shards,
     }
     with open(sh.MANIFEST, "w", encoding="utf-8") as f:

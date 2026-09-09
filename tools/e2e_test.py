@@ -152,6 +152,17 @@ with sync_playwright() as p:
        page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 1"),
        page.evaluate("document.documentElement.scrollWidth + ' vs ' + window.innerWidth"))
 
+    # Onbellek gecersiz kilma: veri adresleri surum tasimali. Bu olmadan
+    # 'force-cache' bayat shard'lari suresiz kullaniyor ve yeni yayin
+    # kullaniciya hic ulasmiyor (gerceklesmis hata).
+    data_urls = page.evaluate(
+        "() => performance.getEntriesByType('resource')"
+        ".map(e => e.name).filter(n => n.indexOf('/data/') !== -1)")
+    versioned = [u for u in data_urls if "/data/words/" in u or "lexicon.json" in u]
+    ck("veri adresleri surumlu (onbellek gecersiz kilinabiliyor)",
+       len(versioned) > 0 and all("?v=" in u for u in versioned),
+       [u.split("/data/")[1] for u in versioned[:3]])
+
     ck("DIS ISTEK YOK", len(external) == 0, external[:5])
     ck("js hatasi yok", len(errs) == 0, errs[:3])
     b.close()

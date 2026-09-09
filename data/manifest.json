@@ -1,6 +1,7 @@
 {
  "total": 8500,
  "shardSize": 250,
+ "version": "872532ead2ad",
  "shards": [
   {
    "file": "000.json",

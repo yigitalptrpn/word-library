@@ -16,6 +16,7 @@
     total: 0,           // manifest'teki toplam
     loading: true,
     revealed: false,
+    version: "",        // manifest'teki veri surumu (onbellek anahtari)
     lexicon: null,      // data/lexicon.json - [[temel bicim, tur, turkce], ...]
     glossEl: null       // balincagi acik olan kelime
   };
@@ -322,18 +323,34 @@
 
   /* ------------------------------------------------------------- yukleme */
 
-  function fetchJSON(url) {
-    return fetch(url, { cache: "force-cache" }).then(function (r) {
-      if (!r.ok) throw new Error(url + " → HTTP " + r.status);
-      return r.json();
-    });
+  /* Onbellek stratejisi
+   *
+   * Veri dosyalari 'force-cache' ile okunur: bir kez indirildikten sonra
+   * tarayici onlari agi hic yoklamadan verir. Bu hizli, ama tek basina
+   * kullanildiginda YENI YAYIN KULLANICIYA ULASMAZ - eski shard'lar bayat
+   * haliyle suresiz kullanilir.
+   *
+   * Cozum: manifest her zaman dogrulanir (no-cache; kucuk dosya, genelde 304)
+   * ve icindeki 'version' shard/sozluk adreslerine ?v= olarak eklenir. Yeni
+   * yayin yeni bir surum uretir, adresler degisir, onbellek kendiliginden
+   * gecersiz kalir. */
+  function fetchJSON(url, revalidate) {
+    return fetch(url, { cache: revalidate ? "no-cache" : "force-cache" })
+      .then(function (r) {
+        if (!r.ok) throw new Error(url + " → HTTP " + r.status);
+        return r.json();
+      });
+  }
+
+  function dataURL(path) {
+    return state.version ? path + "?v=" + state.version : path;
   }
 
   /* Sozluk ilk karttan sonra, arka planda yuklenir: acilis gecikmesin.
    * Gelene kadar cumle kelimeleri tiklanabilir gorunmez; geldiginde mevcut
    * cumle yeniden cizilerek etkinlesir. */
   function loadLexicon() {
-    return fetchJSON("data/lexicon.json").then(function (lex) {
+    return fetchJSON(dataURL("data/lexicon.json")).then(function (lex) {
       if (!Array.isArray(lex)) return;
       state.lexicon = lex;
       if (state.current) {
@@ -346,17 +363,18 @@
   }
 
   function load() {
-    return fetchJSON("data/manifest.json").then(function (manifest) {
+    return fetchJSON("data/manifest.json", true).then(function (manifest) {
       var files = manifest.shards || [];
       if (!files.length) throw new Error("Kütüphane henüz boş.");
       state.total = manifest.total || 0;
+      state.version = manifest.version || "";
 
       // Ilk kart icin rastgele bir shard: acilis her seferinde farkli olsun.
       var first = Math.floor(Math.random() * files.length);
       var order = [first];
       for (var i = 0; i < files.length; i++) if (i !== first) order.push(i);
 
-      return fetchJSON("data/words/" + files[first].file).then(function (rows) {
+      return fetchJSON(dataURL("data/words/" + files[first].file)).then(function (rows) {
         state.words = state.words.concat(rows);
         updateStatus();
         next();
@@ -365,7 +383,7 @@
         var chain = Promise.resolve();
         order.slice(1).forEach(function (idx) {
           chain = chain.then(function () {
-            return fetchJSON("data/words/" + files[idx].file)
+            return fetchJSON(dataURL("data/words/" + files[idx].file))
               .then(function (more) {
                 state.words = state.words.concat(more);
                 updateStatus();
