@@ -95,6 +95,46 @@ def check_shard(index, rows, sentences, seen, errors, palette):
     return done
 
 
+def check_lexicon(sentences, errors):
+    """Yayindaki shard'larda token <-> sozluk hizalamasini dogrular.
+
+    'g' dizisi cumlenin kelime sayisiyla birebir ayni uzunlukta olmali ve her
+    dizin data/lexicon.json sinirlari icinde kalmali; yoksa balincak yanlis
+    kelimenin anlamini gosterir.
+    """
+    lex_path = os.path.join(sh.ROOT, "data", "lexicon.json")
+    if not os.path.exists(lex_path):
+        return None
+    with open(lex_path, encoding="utf-8") as f:
+        lexicon = json.load(f)
+
+    checked = glossed = 0
+    for name in sorted(os.listdir(sh.DATA_DIR)):
+        if not name.endswith(".json"):
+            continue
+        with open(os.path.join(sh.DATA_DIR, name), encoding="utf-8") as f:
+            payload = json.load(f)
+        for entry in payload:
+            ids = entry.get("g")
+            if ids is None:
+                errors.append(f"{name}  '{entry['w']}' sozluk dizini yok")
+                continue
+            checked += 1
+            words = entry["s"].split()
+            if len(ids) != len(words):
+                errors.append(
+                    f"{name}  '{entry['w']}' sozluk dizini {len(ids)} token, "
+                    f"cumlede {len(words)} kelime var")
+                continue
+            for i in ids:
+                if i >= len(lexicon) or i < -1:
+                    errors.append(
+                        f"{name}  '{entry['w']}' gecersiz sozluk dizini: {i}")
+                    break
+            glossed += sum(1 for i in ids if i >= 0)
+    return checked, glossed, len(lexicon)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--quiet", action="store_true")
@@ -118,6 +158,11 @@ def main():
     print(f"shard           : {sum(1 for i, _ in all_shards if sh.load_sentences(i))}/{len(all_shards)} baslatildi")
     if done:
         print(f"emoji           : {emoji_count}/{done}  ({emoji_count / done * 100:.0f}%)")
+    lex = check_lexicon(None, errors)
+    if lex:
+        checked, glossed, size = lex
+        print(f"sozluk          : {glossed:,} token, {size:,} giris, "
+              f"{checked}/{done} kart hizali")
     if errors:
         print(f"\n{len(errors)} HATA:")
         for e in errors[:60]:

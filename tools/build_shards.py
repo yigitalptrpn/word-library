@@ -34,9 +34,23 @@ def load_emoji_index():
         return json.load(f)
 
 
+def load_lexicon_index():
+    """kelime -> cumledeki her token icin data/lexicon.json dizini.
+
+    build_lexicon.py uretir. Yoksa kartlar sozluk balincagi olmadan calisir.
+    """
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                        "lexicon_index.json")
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
 def main():
     rows = sh.load_wordlist()
     emoji_index = load_emoji_index()
+    lexicon_index = load_lexicon_index()
     sentences = sh.load_all_sentences()
     os.makedirs(sh.DATA_DIR, exist_ok=True)
 
@@ -61,6 +75,9 @@ def main():
             code = emoji_index.get(rec.get("e", ""))
             if code:
                 entry["e"] = code
+            gloss = lexicon_index.get(r["word"])
+            if gloss and len(gloss) == len(rec["s"].split()):
+                entry["g"] = gloss
             payload.append(entry)
         name = f"{index:03d}.json"
         with open(os.path.join(sh.DATA_DIR, name), "w", encoding="utf-8") as f:

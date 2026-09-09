@@ -10,20 +10,27 @@ servise istek yapılmaz; bütün veri ve görseller depoda yereldir.
 | [Maximax67/Words-CEFR-Dataset](https://github.com/Maximax67/Words-CEFR-Dataset) | CEFR seviyesi, sözcük türü, Google Ngram frekansı | MIT |
 | [openlanguageprofiles/olp-en-cefrj](https://github.com/openlanguageprofiles/olp-en-cefrj) — Octanove C1/C2 profili | Küratörlü C1/C2 etiketleri | CC BY-SA 4.0 |
 | [Princeton WordNet](https://wordnet.princeton.edu/) (NLTK üzerinden) | İngilizce tanımlar, sözcük türü doğrulaması, kök biçim | [WordNet License](https://wordnet.princeton.edu/license-and-commercial-use) |
+| [NLTK averaged perceptron tagger](https://github.com/nltk/nltk_data) | Örnek cümlelerin sözcük türü etiketlemesi | Apache-2.0 |
 
 ## Türkçe karşılıklar
+
+Türkçe karşılıklar iki yerde kullanılır: 8.500 kelimelik listenin kendisinde ve
+cümledeki her kelimeye dokunulduğunda açılan sözlük balıncağında
+(`data/lexicon.json`, cümlelerde geçen 14.361 farklı giriş).
 
 | Kaynak | Kullanım | Lisans |
 |---|---|---|
 | [FreeDict eng-tur](https://github.com/freedict/fd-dictionaries) | Birincil Türkçe karşılıklar | GPL-2.0-or-later |
-| [firatkaya1/dictionary](https://github.com/firatkaya1/dictionary) | FreeDict glossu kullanılamadığında yedek | Depoda lisans dosyası yok — aşağıdaki nota bakınız |
+| [firatkaya1/dictionary](https://github.com/firatkaya1/dictionary) | FreeDict glossu kullanılamadığında yedek; ayrıca sözcük türü etiketi | Depoda lisans dosyası yok — aşağıdaki nota bakınız |
+| `tools/lexicon_overrides.json` | Elle yazılmış 556 karşılık: işlev sözcükleri ve sözlüğün ilk anlamının cümledeki kullanıma uymadığı durumlar | Bu proje — CC0 |
 
 > **Not:** `firatkaya1/dictionary` deposunda bir lisans dosyası bulunmuyor ve
 > veri Tureng türevi görünüyor. Bu nedenle temiz lisanslı FreeDict birincil
 > kaynak olarak kullanılır; söz konusu depo yalnızca FreeDict'in karşılığı
 > okunamayacak durumda olduğunda devreye girer. Projeyi ticari olarak
 > kullanacaksanız bu kaynağı kendi lisanslı sözlüğünüzle değiştirin:
-> `tools/build_wordlist.py` içindeki yedek kaynağı değiştirmek yeterlidir.
+> `tools/build_wordlist.py` ve `tools/build_lexicon.py` içindeki yedek kaynağı
+> değiştirmek yeterlidir.
 
 ## Görseller
 

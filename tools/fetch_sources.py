@@ -24,6 +24,10 @@ FILES = {
 
 NLTK_ZIPS = {
     "corpora/wordnet": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet.zip",
+    # Cumle ici POS etiketleyici: build_lexicon.py, kelimenin cumledeki turune
+    # gore dogru Turkce karsiligi secmek icin kullanir.
+    "taggers/averaged_perceptron_tagger_eng":
+        "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/averaged_perceptron_tagger_eng.zip",
 }
 
 

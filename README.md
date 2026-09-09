@@ -14,6 +14,8 @@ depoda yereldir.
 - Rastgele kelime kartı, her açılışta farklı
 - Kelimeye özgü animasyonlu emoji + kelimeden türetilen soyut desen
 - Kelimenin cümle içinde vurgulanması
+- **Cümledeki herhangi bir kelimeye dokunup anlamını görme** — temel biçim, tür
+  ve Türkçe karşılık; anlam kelimenin o cümledeki sözcük türüne göre seçilir
 - Türkçe anlam ve İngilizce tanım, ancak istendiğinde açılır
 - Bilinen kelimeler `localStorage`'da saklanır ve bir daha gösterilmez
 - İlerlemeyi JSON olarak dışa/içe aktarma
@@ -28,6 +30,10 @@ depoda yereldir.
 | `→` / `enter` | sonraki kelime |
 | `K` | biliyorum, bir daha gösterme |
 | `Z` | son işareti geri al |
+| `sekme` | cümledeki kelimeler arasında gez |
+
+Odak cümledeki bir kelimedeyken `boşluk` o kelimenin anlamını açar; hedef
+kelimede ise "Anlamı göster"i tetikler. `esc` balıncağı kapatır.
 
 Dokunmatik ekranda kartı sola kaydırın (sonraki), sağa kaydırın (biliyorum).
 
@@ -63,7 +69,8 @@ python3 tools/fetch_sources.py         # ham veri kumelerini indir
 python3 tools/build_wordlist.py        # 8.500 kelimelik listeyi uret
 python3 tools/build_emoji_palette.py   # animasyonlu emoji paletini cikar
 python3 tools/build_emoji_assets.py    # kullanilan emojileri indir + kucult
-python3 tools/check_sentences.py       # cumleleri dogrula
+python3 tools/build_lexicon.py         # cumle sozlugunu uret (POS'a duyarli)
+python3 tools/check_sentences.py       # cumleleri ve sozluk hizasini dogrula
 python3 tools/build_shards.py          # data/ altindaki yayin dosyalarini uret
 ```
 
@@ -82,9 +89,11 @@ assets/visual.js        kelimeden turetilen desen + emoji katmani
 assets/styles.css       tema ve duzen
 assets/emoji/           kucultulmus animasyonlu emoji GIF'leri
 data/manifest.json      shard listesi
-data/words/NNN.json     250'serlik kelime shard'lari
+data/words/NNN.json     250'serlik kelime shard'lari ('g' = token basina sozluk dizini)
+data/lexicon.json       cumle sozlugu [[temel bicim, tur, turkce], ...]
 tools/                  veri uretim ve dogrulama betikleri
 tools/sentences/        elle yazilan ornek cumleler (kaynak)
+tools/lexicon_overrides.json  elle yazilan Turkce karsiliklar
 ```
 
 ## Kaynaklar ve lisanslar

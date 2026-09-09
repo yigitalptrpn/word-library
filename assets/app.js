@@ -15,7 +15,9 @@
     current: null,
     total: 0,           // manifest'teki toplam
     loading: true,
-    revealed: false
+    revealed: false,
+    lexicon: null,      // data/lexicon.json - [[temel bicim, tur, turkce], ...]
+    glossEl: null       // balincagi acik olan kelime
   };
 
   /* ---------------------------------------------------------------- depolama */
@@ -88,26 +90,103 @@
     return new Set(f);
   }
 
-  /* Cumleyi, hedef kelime <mark> ile sarilmis halde DOM'a yazar. */
-  function renderSentence(node, sentence, word) {
+  /* Cumleyi DOM'a yazar: hedef kelime <mark>, digerleri <span class="tok">.
+   *
+   * gloss, kaydin 'g' alani: cumlenin her kelimesi icin data/lexicon.json
+   * dizini (-1 = karsilik yok). Python tarafinda cumle s.split() ile
+   * bolundugu icin burada da bosluklar sayilmaz; iki taraf birebir hizali. */
+  function renderSentence(node, sentence, word, gloss) {
     var forms = inflections(word.toLowerCase());
     var stem = word.toLowerCase().slice(0, Math.max(4, word.length - 3));
+    var lexReady = Boolean(state.lexicon);
     node.textContent = "";
     var parts = sentence.split(/(\s+)/);
     var hit = false;
+    var wi = -1;
     parts.forEach(function (part) {
+      if (!part) return;
+      if (/^\s+$/.test(part)) {
+        node.appendChild(document.createTextNode(part));
+        return;
+      }
+      wi++;
       var bare = part.toLowerCase().replace(/[^a-z']/g, "");
       var match = bare && (forms.has(bare) ||
                            (!hit && bare.length >= stem.length && bare.indexOf(stem) === 0));
-      if (match) {
-        hit = true;
-        var m = document.createElement("mark");
-        m.textContent = part;
-        node.appendChild(m);
-      } else {
-        node.appendChild(document.createTextNode(part));
+      if (match) hit = true;
+      var el = document.createElement(match ? "mark" : "span");
+      el.className = "tok";
+      el.textContent = part;
+      var gi = gloss && wi < gloss.length ? gloss[wi] : -1;
+      if (lexReady && match) {
+        el.dataset.target = "1";
+      } else if (lexReady && gi >= 0 && gi < state.lexicon.length) {
+        el.dataset.g = String(gi);
       }
+      if (el.dataset.target || el.dataset.g) {
+        el.tabIndex = 0;
+        el.setAttribute("role", "button");
+      }
+      node.appendChild(el);
     });
+  }
+
+  /* --------------------------------------------------------- sozluk balincagi */
+
+  function closeGloss() {
+    $("gloss").hidden = true;
+    if (state.glossEl) state.glossEl.classList.remove("tok-active");
+    state.glossEl = null;
+  }
+
+  function openGloss(el) {
+    if (!state.lexicon || !el.dataset.g) return;
+    var item = state.lexicon[Number(el.dataset.g)];
+    if (!item) return;
+
+    closeGloss();
+    $("glossWord").textContent = item[0];
+    $("glossPos").textContent = item[1] ? posLabel(item[1]) : "";
+    $("glossPos").hidden = !item[1];
+    $("glossTr").textContent = item[2];
+
+    var box = $("gloss");
+    box.hidden = false;
+    box.classList.remove("gloss-below");
+
+    // Kart sinirlari icinde kal: telefonda kenardan tasmasin.
+    var card = $("card").getBoundingClientRect();
+    var r = el.getBoundingClientRect();
+    var pad = 10;
+    var left = r.left - card.left + r.width / 2 - box.offsetWidth / 2;
+    left = Math.max(pad, Math.min(left, card.width - box.offsetWidth - pad));
+    box.style.left = left + "px";
+
+    // Varsayilan olarak kelimenin ALTINA: ustte acilirsa baslik kelimesinin ve
+    // cumlenin okunmus kismini kapatiyor. Asagida yer kalmazsa ustte acilir.
+    var below = r.bottom - card.top + 9;
+    var top;
+    if (below + box.offsetHeight + pad <= card.height) {
+      top = below;
+      box.classList.add("gloss-below");
+    } else {
+      top = Math.max(pad, r.top - card.top - box.offsetHeight - 9);
+    }
+    box.style.top = top + "px";
+
+    var arrow = r.left - card.left + r.width / 2 - left;
+    box.style.setProperty(
+      "--arrow", Math.max(12, Math.min(arrow, box.offsetWidth - 12)) + "px");
+
+    el.classList.add("tok-active");
+    state.glossEl = el;
+  }
+
+  function onTokenActivate(el) {
+    if (!el) return;
+    if (el.dataset.target) { closeGloss(); reveal(); return; }
+    if (el === state.glossEl) { closeGloss(); return; }
+    openGloss(el);
   }
 
   /* ------------------------------------------------------------------ kart */
@@ -137,12 +216,13 @@
   function showCard(entry) {
     state.current = entry;
     state.revealed = false;
+    closeGloss();
 
     $("visual").innerHTML = window.WordVisual.render(entry.w, entry.p, entry.e);
     $("word").textContent = entry.w;
     $("pos").textContent = posLabel(entry.p);
     $("cefr").textContent = entry.c;
-    renderSentence($("sentence"), entry.s, entry.w);
+    renderSentence($("sentence"), entry.s, entry.w, entry.g);
 
     $("tr").textContent = entry.t.join(" · ");
     $("defn").textContent = entry.d;
@@ -249,6 +329,22 @@
     });
   }
 
+  /* Sozluk ilk karttan sonra, arka planda yuklenir: acilis gecikmesin.
+   * Gelene kadar cumle kelimeleri tiklanabilir gorunmez; geldiginde mevcut
+   * cumle yeniden cizilerek etkinlesir. */
+  function loadLexicon() {
+    return fetchJSON("data/lexicon.json").then(function (lex) {
+      if (!Array.isArray(lex)) return;
+      state.lexicon = lex;
+      if (state.current) {
+        renderSentence($("sentence"), state.current.s,
+                       state.current.w, state.current.g);
+      }
+    }).catch(function () {
+      /* sozluk yoksa kartlar balincaksiz calismaya devam eder */
+    });
+  }
+
   function load() {
     return fetchJSON("data/manifest.json").then(function (manifest) {
       var files = manifest.shards || [];
@@ -264,6 +360,7 @@
         state.words = state.words.concat(rows);
         updateStatus();
         next();
+        loadLexicon();
         // Kalan shard'lar arka planda, sirayla.
         var chain = Promise.resolve();
         order.slice(1).forEach(function (idx) {
@@ -372,12 +469,34 @@
       if (e.target === $("settings")) openSettings(false);
     });
 
+    // Cumledeki kelimeye dokunmak anlamini acar; hedef kelime "Anlami goster"i
+    // tetikler, boylece tahmin adimi kazara atlanmaz.
+    $("sentence").addEventListener("click", function (e) {
+      onTokenActivate(e.target.closest(".tok"));
+    });
+    document.addEventListener("click", function (e) {
+      if ($("gloss").hidden) return;
+      if (e.target.closest(".tok")) return;
+      closeGloss();
+    });
+
     document.addEventListener("keydown", function (e) {
       if (e.target.matches("input, textarea")) return;
-      if (e.key === "Escape") { openSettings(false); return; }
+      if (e.key === "Escape") {
+        if (!$("gloss").hidden) { closeGloss(); return; }
+        openSettings(false);
+        return;
+      }
       if (!$("settings").hidden) return;
-      if (e.key === " " || e.code === "Space") { e.preventDefault(); reveal(); }
-      else if (e.key === "ArrowRight" || e.key === "Enter") { e.preventDefault(); next(); }
+      var focused = document.activeElement;
+      var tok = focused && focused.closest ? focused.closest(".tok") : null;
+      if (e.key === " " || e.code === "Space") {
+        e.preventDefault();
+        if (tok) onTokenActivate(tok); else reveal();
+      } else if (e.key === "Enter") {
+        e.preventDefault();
+        if (tok) onTokenActivate(tok); else next();
+      } else if (e.key === "ArrowRight") { e.preventDefault(); next(); }
       else if (e.key === "k" || e.key === "K") { markKnown(); }
       else if (e.key === "z" || e.key === "Z") { undo(); }
     });

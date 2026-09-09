@@ -133,6 +133,7 @@ body {
 /* ---------------------------------------------------------------------- kart */
 
 .card {
+  position: relative;          /* sozluk balincagi buna gore konumlanir */
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -217,6 +218,62 @@ body {
   border-radius: 5px;
   font-weight: 620;
 }
+
+/* ------------------------------------------------------- sozluk balincagi */
+
+/* Anlami olan kelimeler: hafif noktali alt cizgi, okumayi bozmayacak kadar. */
+.tok[data-g], .tok[data-target] {
+  cursor: pointer;
+  border-radius: 4px;
+}
+.tok[data-g] {
+  text-decoration: underline dotted var(--border);
+  text-underline-offset: 3px;
+}
+.tok[data-g]:hover, .tok[data-g]:focus-visible { background: var(--surface-2); }
+.tok-active { background: var(--surface-2); }
+.tok:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.gloss {
+  position: absolute;
+  z-index: 5;
+  max-width: min(280px, 80%);
+  padding: 8px 12px 9px;
+  border-radius: 10px;
+  background: var(--text);
+  color: var(--surface);
+  box-shadow: 0 10px 26px rgba(16, 20, 28, .3);
+  font-size: 14px;
+  line-height: 1.5;
+  pointer-events: none;        /* dokunus alttaki kelimeye gitsin */
+  animation: glossIn .14s ease both;
+}
+@keyframes glossIn {
+  from { opacity: 0; transform: translateY(3px); }
+  to   { opacity: 1; transform: none; }
+}
+.gloss::after {               /* kelimeye bakan ucgen */
+  content: "";
+  position: absolute;
+  left: var(--arrow, 50%);
+  margin-left: -6px;
+  border: 6px solid transparent;
+  border-top-color: var(--text);
+  top: 100%;
+}
+.gloss-below::after {
+  top: auto;
+  bottom: 100%;
+  border-top-color: transparent;
+  border-bottom-color: var(--text);
+}
+.gloss-word { font-weight: 680; }
+.gloss-pos {
+  margin-left: 6px;
+  opacity: .65;
+  font-size: 12px;
+}
+.gloss-tr { display: block; margin-top: 2px; }
 
 /* --------------------------------------------------------------- anlam alani */
 

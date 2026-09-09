@@ -89,6 +89,52 @@ with sync_playwright() as p:
         "() => !document.querySelector('#visual img') || "
         "!!document.querySelector('#visual svg.visual-bg-muted')"))
 
+    # --- sozluk balincagi ---
+    # Sozluk arka planda yuklendigi icin tiklanabilir kelimeleri bekle.
+    page.wait_for_function(
+        "document.querySelectorAll('#sentence .tok[data-g]').length > 0",
+        timeout=30000)
+    toks = page.locator("#sentence .tok[data-g]")
+    ck("cumle kelimeleri tiklanabilir", toks.count() >= 3, toks.count())
+    ck("hedef kelime balincak icin isaretli degil",
+       page.locator("#sentence mark[data-target]").count() == 1)
+
+    toks.nth(1).click()
+    page.wait_for_selector("#gloss:not([hidden])", timeout=5000)
+    ck("balincak acildi", page.locator("#gloss").is_visible())
+    ck("balincakta temel bicim var", len(page.inner_text("#glossWord").strip()) > 0,
+       page.inner_text("#glossWord"))
+    ck("balincakta turkce karsilik var", len(page.inner_text("#glossTr").strip()) > 0,
+       page.inner_text("#glossTr"))
+    ck("balincakta tur etiketi var",
+       page.inner_text("#gloss").strip().count("\n") >= 1 or
+       not page.locator("#glossPos").is_hidden())
+
+    fits = page.evaluate("""() => {
+      const c = document.getElementById('card').getBoundingClientRect();
+      const g = document.getElementById('gloss').getBoundingClientRect();
+      return g.left >= c.left - 1 && g.right <= c.right + 1;
+    }""")
+    ck("balincak karttan tasmiyor", fits)
+
+    page.keyboard.press("Escape")
+    ck("Escape balincagi kapatti", page.locator("#gloss").is_hidden())
+
+    toks.nth(2).click()
+    page.wait_for_selector("#gloss:not([hidden])", timeout=5000)
+    page.click("#word")
+    ck("disari tiklayinca kapaniyor", page.locator("#gloss").is_hidden())
+
+    # hedef kelimeye tiklamak balincak degil, anlam bolumunu acmali
+    page.click("#nextBtn")
+    page.wait_for_function(
+        "document.querySelectorAll('#sentence .tok[data-g]').length > 0",
+        timeout=15000)
+    ck("yeni kartta anlam yine gizli", page.locator("#meaning").is_hidden())
+    page.click("#sentence mark")
+    ck("hedef kelime anlami acti", page.locator("#meaning").is_visible())
+    ck("hedef kelime balincak acmadi", page.locator("#gloss").is_hidden())
+
     # gorsel determinizmi
     same = page.evaluate("""() => {
       const a = WordVisual.render('abate','verb','26c5'), b = WordVisual.render('abate','verb','26c5');
